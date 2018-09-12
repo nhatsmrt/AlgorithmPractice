@@ -1,20 +1,6 @@
 class Solution {
     int[] uglyNumber = new int[1691];
 
-    public int min(int a, int b, int c) {
-        if (a <= b && a <= c)
-            return a;
-        else if (b <= a && b <= c)
-            return b;
-
-        return c;
-    }
-
-    public int max(int a, int b) {
-        return a > b ? a : b;
-    }
-
-
     public int nthUglyNumber(int n) {
         uglyNumber[1] = 1;
         uglyNumber[2] = 2;
