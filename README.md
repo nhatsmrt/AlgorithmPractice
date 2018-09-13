@@ -7,7 +7,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Depth-First Search
   * Breadth-First Search: LC 102, LC 210, LC 310
 4. Heap
-  * PriorityQueue: LC 347
+  * Priority Queue: LC 347
   * HeapSort: LC 215
 5. Trie/Prefix Tree: LC 208
 6. Set, Map
