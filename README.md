@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Practice
 ## Introduction
-This repository contains my solutions to algorithmic problems. Topics included:
+This repository contains my solutions to algorithmic problems. Main language is Java. Topics included:
 1. Graphs:
   * Depth-First Search
   * Breadth-First Search: LC 1O2, LC 210, LC 310
