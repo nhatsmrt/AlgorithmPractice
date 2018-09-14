@@ -4,6 +4,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 1. Stack, Queue, Deque
 2. Binary Search Tree: LC 315
 3. Graphs: LC 24
+  * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search
   * Breadth-First Search: LC 102, LC 210, LC 310, LC 785
 4. Heap
