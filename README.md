@@ -20,4 +20,5 @@ This repository contains my solutions to algorithmic problems. Main language is 
 12. Math:
   * BigInteger: LC 78
   * Combinatorics: LC 78
+  * Puzzles: LC 319
 11. Geometry: LC 223
