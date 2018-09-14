@@ -2,7 +2,7 @@
 ## Introduction
 This repository contains my solutions to algorithmic problems. Main language is Java. Topics included:
 1. Stack, Queue, Deque:
-  * Queue: LC 622 (Circular Queue)
+  * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 2. Binary Search Tree: LC 315
 3. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
