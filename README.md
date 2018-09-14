@@ -8,6 +8,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search
   * Breadth-First Search: LC 102, LC 210, LC 310, LC 785
+  * Tree Traversal: LC 144
 4. Heap
   * Priority Queue: LC 347
   * HeapSort: LC 215
