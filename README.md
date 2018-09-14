@@ -17,4 +17,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 9. String Algorithm:
   * Knuth-Morris-Pratt (KMP): LC 28
 10. Bit Manipulation: LC 191
+12. Math:
+  * BigInteger: LC 78
+  * Combinatorics: LC 78
 11. Geometry: LC 223
