@@ -14,7 +14,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 6. Set, Map
 7. Segment Tree (Construction and Update; Range Sum Query): LC 307
 8. Dynamic Programming: LC 62, LC 63, LC 264
-9. String Algorithm:
+9. String Algorithm: LC 151
   * Knuth-Morris-Pratt (KMP): LC 28
 10. Bit Manipulation: LC 191
 12. Math:
