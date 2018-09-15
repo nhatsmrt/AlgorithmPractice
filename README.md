@@ -15,12 +15,12 @@ This repository contains my solutions to algorithmic problems. Main language is 
 5. Trie/Prefix Tree: LC 208
 6. Set, Map
 7. Segment Tree (Construction and Update; Range Sum Query): LC 307, LC 152
-8. Dynamic Programming: LC 62, LC 63, LC 96, LC 264, LC 338, LC 357
+8. Dynamic Programming: LC 62, LC 63, LC 91, LC 96, LC 264, LC 338, LC 357
 9. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
 10. Bit Manipulation: LC 191
 12. Math:
-  * BigInteger: LC 78
+  * BigInteger: LC 78, LC 91
   * Combinatorics: LC 78
   * Puzzles: LC 319
 11. Geometry: LC 223
