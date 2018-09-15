@@ -4,7 +4,8 @@ class Solution {
         if (numBits[n] != -1)
             return numBits[n];
 
-        return n % 2 + countBitsDP(n / 2);
+        numBits[n] = n % 2 + countBitsDP(n / 2);
+        return numBits[n];
     }
 
     public int[] countBits(int num) {
