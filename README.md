@@ -4,7 +4,9 @@ This repository contains my solutions to algorithmic problems. Main language is 
 1. Basic Algorithms:
   * Sorting: LC 75
   * Searching: LC 34
-2. LinkedList: LC 2
+2. Linked List: LC 2, LC 328
+  * Doubly Linked List
+  * Circularly Linked List
 3. Stack, Queue, Deque:
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 4. Binary Search Tree: LC 315
