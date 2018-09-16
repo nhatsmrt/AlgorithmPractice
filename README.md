@@ -2,6 +2,7 @@
 ## Introduction
 This repository contains my solutions to algorithmic problems. Main language is Java. Topics included:
 1. Basic Algorithms:
+  * Sorting: LC 75
   * Searching: LC 34
 2. LinkedList: LC 2
 3. Stack, Queue, Deque:
