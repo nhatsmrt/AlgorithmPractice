@@ -4,6 +4,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 1. Basic Algorithms:
   * Sorting: LC 75
   * Searching: LC 34
+  * Backtracking: LC 46
 2. Linked List: LC 2, LC 328
   * Doubly Linked List
   * Circularly Linked List
@@ -28,7 +29,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 13. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91
-  * Combinatorics: LC 77 (Combinations), LC 78 (Subsets)
+  * Combinatorics: LC 46 (Permutations) LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
 14. Geometry: LC 223
 15. Two Pointers: LC 713
