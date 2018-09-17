@@ -31,4 +31,5 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Combinatorics: LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
 14. Geometry: LC 223
-15. Ad Hoc: LC 713
+15. Two Pointers: LC 713
+16. Ad Hoc:
