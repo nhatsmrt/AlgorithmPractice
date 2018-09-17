@@ -12,7 +12,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 4. Tree:
   * LCA: LC 236
-5. Binary Search Tree: LC 315
+5. Binary Search Tree: LC 98, LC 315
 6. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search
