@@ -10,7 +10,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Circularly Linked List
 3. Stack, Queue, Deque:
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
-4. Tree:
+4. Tree: LC 113
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
 6. Graphs: LC 24
