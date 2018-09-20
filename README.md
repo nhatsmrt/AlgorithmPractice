@@ -5,7 +5,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Sorting: LC 75
   * Searching: LC 34
   * Backtracking: LC 46
-2. Linked List: LC 2, LC 61, LC 328
+2. Linked List: LC 2, LC 61, LC 143, LC 328
   * Doubly Linked List
   * Circularly Linked List
 3. Stack, Queue, Deque:
