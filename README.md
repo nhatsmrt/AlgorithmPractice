@@ -18,6 +18,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Depth-First Search
   * Breadth-First Search: LC 102, LC 210, LC 310, LC 785
   * Tree Traversal: LC 144
+  * Minimum Spanning Tree (MST): Prim (HackerRank)
 7. Heap
   * Priority Queue: LC 347
   * HeapSort: LC 215
