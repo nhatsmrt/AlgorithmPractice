@@ -30,6 +30,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Longest Increasing Subsequence (LIS): LC 300
 12. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
+  * Metric: LC 72 (Levenshtein Distance)
 13. Bit Manipulation: LC 191
 14. Math:
   * Basic Arithmetic: LC 2
