@@ -25,7 +25,9 @@ This repository contains my solutions to algorithmic problems. Main language is 
 8. Trie/Prefix Tree: LC 208
 9. Set, Map
 10. Segment Tree (Construction and Update; Range Sum Query): LC 307, LC 152
-11. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 300 (Longest Increasing Subsequence), LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+11. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+  * Longest Common Subsequence (LCS): LC 583
+  * Longest Increasing Subsequence (LIS): LC 300
 12. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
 13. Bit Manipulation: LC 191
