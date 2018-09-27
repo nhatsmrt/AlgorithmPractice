@@ -5,7 +5,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Sorting: LC 75
   * Searching: LC 34
   * Backtracking: LC 46
-2. Linked List: LC 2, LC 61, LC 143, LC 328
+2. Linked List: LC 2, LC 61, LC 142, LC 143, LC 328
   * Doubly Linked List
   * Circularly Linked List
 3. Stack, Queue, Deque:
@@ -38,5 +38,5 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Combinatorics: LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
 15. Geometry: LC 223
-16. Two Pointers: LC 413, LC 713
+16. Two Pointers: LC 142, LC 413, LC 713
 17. Ad Hoc:
