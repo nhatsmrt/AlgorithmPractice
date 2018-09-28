@@ -40,3 +40,5 @@ This repository contains my solutions to algorithmic problems. Main language is 
 15. Geometry: LC 223
 16. Two Pointers: LC 142, LC 413, LC 713
 17. Ad Hoc:
+18. Randomized Algorithm:
+  * Reservoir Sampling: LC 382
