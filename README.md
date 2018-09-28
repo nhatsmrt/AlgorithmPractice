@@ -42,4 +42,4 @@ This repository contains my solutions to algorithmic problems. Main language is 
 17. Ad Hoc:
 18. Randomized Algorithm:
   * Reservoir Sampling: LC 382
-  * Rejection Sampling: LC 478
+  * Rejection Sampling: LC 478, LC 470
