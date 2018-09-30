@@ -37,6 +37,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * BigInteger: LC 78, LC 91
   * Combinatorics: LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
+  * Number Theory: LC 365 (Water and Jug)
 15. Geometry: LC 223
 16. Two Pointers: LC 142, LC 413, LC 713
 17. Ad Hoc:
