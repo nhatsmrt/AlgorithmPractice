@@ -2,7 +2,7 @@
 ## Introduction
 This repository contains my solutions to algorithmic problems. Main language is Java. Topics included:
 1. Basic Algorithms:
-  * Sorting: LC 75
+  * Sorting, Comparator and Comparable: LC 75, LC 179
   * Searching: LC 34
   * Backtracking: LC 46
 2. Linked List: LC 2, LC 61, LC 142, LC 143, LC 328
@@ -35,7 +35,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 13. Bit Manipulation: LC 191
 14. Math:
   * Basic Arithmetic: LC 2
-  * BigInteger: LC 78, LC 91
+  * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
   * Number Theory: LC 365 (Water and Jug)
