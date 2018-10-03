@@ -9,6 +9,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Doubly Linked List
   * Circularly Linked List
 3. Stack, Queue, Deque:
+  * Stack: LC 150 (Reverse Polish Notation)
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 4. Tree: LC 113
   * LCA: LC 236
