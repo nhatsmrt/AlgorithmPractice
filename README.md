@@ -12,13 +12,13 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Stack: LC 150 (Reverse Polish Notation)
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 4. Tree: LC 113
+  * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
 6. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search
   * Breadth-First Search: LC 102, LC 210, LC 310, LC 785
-  * Tree Traversal: LC 144
   * Minimum Spanning Tree (MST): Prim (HR)
 7. Heap
   * Priority Queue: LC 347
