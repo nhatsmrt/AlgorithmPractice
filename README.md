@@ -15,6 +15,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
+  * Basic Operations: LC 450 (Delete)
 6. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search
