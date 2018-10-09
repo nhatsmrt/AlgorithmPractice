@@ -6,7 +6,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Searching: LC 34
   * Backtracking: LC 46
   * Divide and Conquer: LC 23
-2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 142, LC 143, LC 328
+2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 92, LC 142, LC 143, LC 328
   * Doubly Linked List
   * Circularly Linked List
 3. Stack, Queue, Deque:
