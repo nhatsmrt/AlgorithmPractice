@@ -6,7 +6,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Searching: LC 34
   * Backtracking: LC 46
   * Divide and Conquer: LC 23
-2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 86, LC 92, LC 142, LC 143, LC 328
+2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
   * Doubly Linked List
   * Circularly Linked List
 3. Stack, Queue, Deque:
@@ -27,7 +27,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * HeapSort: LC 215
 8. Trie/Prefix Tree: LC 208
 9. Set, Map
-10. Segment Tree (Construction and Update; Range Sum Query): LC 307, LC 152
+10. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 11. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
