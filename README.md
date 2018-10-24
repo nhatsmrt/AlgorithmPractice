@@ -11,7 +11,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Doubly Linked List: LC 146
   * Circularly Linked List
 3. Stack, Queue, Deque:
-  * Stack: LC 150 (Reverse Polish Notation), LC 173
+  * Stack: LC 20 (Valid Parentheses), LC 150 (Reverse Polish Notation), LC 173
   * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
 4. Tree: LC 113
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
