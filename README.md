@@ -8,7 +8,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Divide and Conquer: LC 23
 2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
-  * Doubly Linked List
+  * Doubly Linked List: LC 146
   * Circularly Linked List
 3. Stack, Queue, Deque:
   * Stack: LC 150 (Reverse Polish Notation), LC 173
@@ -28,24 +28,28 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * HeapSort: LC 215
 8. Trie/Prefix Tree: LC 208
 9. Set, Map
+  * Map: LC 146
 10. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-11. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+12. Other Data Structures: LC 146 (LRU Cache)
+13. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
-12. String Algorithm: LC 151, LC 392
+  * Other Notable Problems: DP 10 (Regex Matching)
+14. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
+  * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
-13. Bit Manipulation: LC 191
-14. Math:
+15. Bit Manipulation: LC 191
+16. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
   * Number Theory: LC 365 (Water and Jug)
-15. Geometry: LC 223
+17. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-16. Two Pointers: LC 142, LC 413, LC 713
-17. Ad Hoc:
-18. Randomized Algorithm:
+18. Two Pointers: LC 142, LC 413, LC 713
+19. Ad Hoc:
+20. Randomized Algorithm:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
