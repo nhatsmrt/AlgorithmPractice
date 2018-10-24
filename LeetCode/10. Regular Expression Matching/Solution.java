@@ -6,7 +6,7 @@ class Solution {
         return isMatchDP(s, p);
     }
 
-    public boolean isMatchDP(String s, String p) {
+    private boolean isMatchDP(String s, String p) {
         int strLen = s.length();
         int patLen = p.length();
 
