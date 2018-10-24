@@ -1,5 +1,5 @@
 class Solution {
-    Map <String, Boolean> dpMap;
+    private Map <String, Boolean> dpMap;
 
     public boolean isMatch(String s, String p) {
         dpMap = new HashMap<String, Boolean>();
