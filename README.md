@@ -48,7 +48,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Number Theory: LC 365 (Water and Jug)
 17. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-18. Two Pointers: LC 142, LC 413, LC 713
+18. Two Pointers: LC 42, LC 142, LC 413, LC 713
 19. Ad Hoc:
 20. Randomized Algorithm:
   * Reservoir Sampling: LC 382
