@@ -20,7 +20,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Basic Operations: LC 173 (Iterator), LC 450 (Delete)
 6. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
-  * Depth-First Search
+  * Depth-First Search: LC 200 (Connected Components)
   * Breadth-First Search: LC 102, LC 210, LC 310, LC 785
   * Minimum Spanning Tree (MST): Prim (HR)
 7. Heap
