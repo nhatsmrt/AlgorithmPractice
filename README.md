@@ -28,7 +28,8 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * HeapSort: LC 215
 8. Trie/Prefix Tree: LC 208
 9. Set, Map
-  * Map: LC 146
+  * Map: LC 128, LC 146
+  * Set: LC 128
 10. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 11. Union-Find/Discrete Sets: LC 128
 12. Other Data Structures: LC 146 (LRU Cache)
