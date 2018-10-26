@@ -36,7 +36,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 13. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
-  * Other Notable Problems: DP 10 (Regex Matching)
+  * Other Notable Problems: DP 10 (Regex Matching), DP 22 (Generate Parentheses)
 14. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
