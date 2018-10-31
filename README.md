@@ -45,7 +45,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 16. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
-  * Combinatorics: LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
+  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
   * Number Theory: LC 365 (Water and Jug)
 17. Geometry: LC 223
