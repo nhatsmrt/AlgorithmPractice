@@ -33,7 +33,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 10. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 11. Union-Find/Discrete Sets: LC 128
 12. Other Data Structures: LC 146 (LRU Cache)
-13. Dynamic Programming: LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+13. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: DP 10 (Regex Matching), DP 22 (Generate Parentheses)
