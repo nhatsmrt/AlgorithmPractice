@@ -51,7 +51,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 17. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
 18. Two Pointers: LC 42, LC 56, LC 142, LC 413, LC 713
-19. Ad Hoc:
+19. Ad Hoc: LC 54
 20. Randomized Algorithm:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
