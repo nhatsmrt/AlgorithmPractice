@@ -12,7 +12,8 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Circularly Linked List
 3. Stack, Queue, Deque:
   * Stack: LC 20 (Valid Parentheses), LC 150 (Reverse Polish Notation), LC 173
-  * Queue: LC 622 (Circular Queue), LC 641 (Circular Deque)
+  * Queue: LC 622 (Circular Queue),
+  * Deque: LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
@@ -41,7 +42,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
-15. Bit Manipulation: LC 191
+15. Bit Manipulation: LC 89 (Gray Code), LC 191
 16. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
