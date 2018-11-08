@@ -4,7 +4,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 1. Basic Algorithms:
   * Sorting, Comparator and Comparable: LC 75, LC 179
   * Searching: LC 34
-  * Backtracking: LC 46, LC 51 (N-Queens)
+  * Backtracking: LC 46, LC 51-52 (N-Queens)
   * Divide and Conquer: LC 23
 2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
