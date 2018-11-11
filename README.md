@@ -15,7 +15,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Queue: LC 622 (Circular Queue),
   * Deque: LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
-  * Binary: LC 129
+  * Binary: LC 114 (Flatten), LC 129
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
