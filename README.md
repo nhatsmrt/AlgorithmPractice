@@ -13,9 +13,9 @@ This repository contains my solutions to algorithmic problems. Main language is 
 3. Stack, Queue, Deque:
   * Stack: LC 20 (Valid Parentheses), LC 150 (Reverse Polish Notation), LC 173
   * Queue: LC 622 (Circular Queue),
-  * Deque: LC 341, LC 641 (Circular Deque)
+  * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
-  * Binary: LC 114 (Flatten), LC 129
+  * Binary: LC 114 (Flatten), LC 129, LC 199 (Right Side View)
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
