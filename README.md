@@ -1,6 +1,10 @@
 # Data Structures and Algorithms Practice
 ## Introduction
-This repository contains my solutions to algorithmic problems. Main language is Java. Topics included:
+This repository contains my solutions to algorithmic problems. Main language is Java.
+<\br>
+You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice!
+<\br>
+Topics included:
 1. Basic Algorithms:
   * Sorting, Comparator and Comparable: LC 75, LC 179
   * Searching: LC 34
