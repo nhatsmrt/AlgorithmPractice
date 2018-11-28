@@ -7,6 +7,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
   * Divide and Conquer: LC 23
 2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
+  * Operations: LC 109 (Sorted List to BST)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
   * Doubly Linked List: LC 146
   * Circularly Linked List
@@ -19,7 +20,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
-  * Basic Operations: LC 173 (Iterator), LC 450 (Delete), LC 938 (Range Sum)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 450 (Delete), LC 938 (Range Sum)
 6. Graphs: LC 24
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
   * Depth-First Search: LC 200 (Connected Components)
