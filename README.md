@@ -9,12 +9,12 @@ Topics included:
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
   * Divide and Conquer: LC 23
 2. Linked List: LC 2, LC 21, LC 23, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
-  * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 203 (Remove All), LC 206 (Reverse)
+  * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
   * Doubly Linked List: LC 146
   * Circularly Linked List
 3. Stack, Queue, Deque:
-  * Stack: LC 20 (Valid Parentheses), LC 150 (Reverse Polish Notation), LC 173
+  * Stack: LC 20 (Valid Parentheses), LC 150 (Reverse Polish Notation), LC 173, LC 234
   * Queue: LC 622 (Circular Queue),
   * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
