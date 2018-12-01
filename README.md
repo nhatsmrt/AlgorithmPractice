@@ -18,7 +18,7 @@ Topics included:
   * Queue: LC 622 (Circular Queue),
   * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
-  * Binary: LC 114 (Flatten), LC 129, LC 199 (Right Side View), LC 543 (Diameter)
+  * Binary: LC 114 (Flatten), LC 129, LC 199 (Right Side View), LC 543 (Diameter), LC 617 (Merge Two Trees)
   * Traversal: LC 94 (BT Inorder), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 5. Binary Search Tree: LC 98, LC 315
