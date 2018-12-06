@@ -36,28 +36,29 @@ Topics included:
 9. Set, Map
   * Map: LC 128, LC 146, LC 535
   * Set: LC 128
-10. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-11. Union-Find/Discrete Sets: LC 128
-12. Other Data Structures: LC 146 (LRU Cache)
-13. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+10. Hash: LC 15 (3Sum), LC 128, LC 146, LC 535
+11. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
+12. Union-Find/Discrete Sets: LC 128
+13. Other Data Structures: LC 146 (LRU Cache)
+14. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
-14. String Algorithm: LC 151, LC 392
+15. String Algorithm: LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
-15. Bit Manipulation: LC 89 (Gray Code), LC 191
-16. Math:
+16. Bit Manipulation: LC 89 (Gray Code), LC 191
+17. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
   * Number Theory: LC 365 (Water and Jug)
-17. Geometry: LC 223
+18. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-18. Two Pointers: LC 42, LC 56, LC 142, LC 413, LC 713
-19. Ad Hoc: LC 54
-20. Randomized Algorithm:
+19. Two Pointers: LC 42, LC 56, LC 142, LC 413, LC 713
+20. Ad Hoc: LC 54
+21. Randomized Algorithm:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
