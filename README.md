@@ -34,9 +34,9 @@ Topics included:
   * HeapSort: LC 215
 8. Trie/Prefix Tree: LC 208
 9. Set, Map
-  * Map: LC 128, LC 146, LC 535
-  * Set: LC 128
-10. Hash: LC 15 (3Sum), LC 128, LC 146, LC 535
+  * Map: LC 128, LC 146, LC 380 (Randomized Set), LC 535
+  * Set: LC 128, LC 380 (Randomized Set)
+10. Hash: LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 535
 11. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 12. Union-Find/Discrete Sets: LC 128
 13. Other Data Structures: LC 146 (LRU Cache)
