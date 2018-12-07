@@ -48,7 +48,7 @@ Topics included:
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
-16. Bit Manipulation: LC 89 (Gray Code), LC 191
+16. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two)
 17. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
