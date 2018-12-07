@@ -15,7 +15,7 @@ Topics included:
   * Circularly Linked List
   * Multi-Level: LC 430 (Flatten)
 3. Stack, Queue, Deque:
-  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 173, LC 224 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234
+  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234
   * Queue: LC 105, LC 106, LC 622 (Circular Queue),
   * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 4. Tree: LC 113
