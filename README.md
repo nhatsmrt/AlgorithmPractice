@@ -16,11 +16,11 @@ Topics included:
   * Circularly Linked List
   * Multi-Level: LC 430 (Flatten)
 4. Stack, Queue, Deque:
-  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234
-  * Queue: LC 105, LC 106, LC 622 (Circular Queue),
+  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 889
+  * Queue: LC 105, LC 106, LC 622 (Circular Queue), LC 889
   * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 5. Tree: LC 113
-  * Binary: LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees)
+  * Binary: LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 6. Binary Search Tree: LC 98, LC 315
