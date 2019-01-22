@@ -61,6 +61,8 @@ Topics included:
   * Convex Hull (Graham Scan): LC 587
 20. Two Pointers: LC 42, LC 56, LC 142, LC 413, LC 713
 21. Ad Hoc: LC 54
-22. Randomized Algorithm:
+22. Compression Algorithm:
+  * Huffman: Decoding (HR)
+23. Randomized Algorithm:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
