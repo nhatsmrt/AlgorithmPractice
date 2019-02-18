@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms:
   * Sorting, Comparator and Comparable: LC 75, LC 179
-  * Searching: LC 34, LC 240 (2D Binary Search)
+  * Searching: LC 34, LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
   * Divide and Conquer: LC 23
 2. Arrays: LC 27 (removeAll)
