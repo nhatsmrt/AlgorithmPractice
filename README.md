@@ -8,7 +8,7 @@ Topics included:
   * Searching: LC 34, LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
   * Divide and Conquer: LC 23
-2. Arrays: LC 27 (removeAll)
+2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image)
   * Prefix Sum: LC 974
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 142, LC 143, LC 328
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete)
