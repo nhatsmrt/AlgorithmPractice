@@ -3,13 +3,6 @@ class Solution {
         if (nums1.length > nums2.length)
             return findMedianSortedArrays(nums2, nums1);
 
-        if (nums1.length == 0) {
-            if (nums2.length % 2 == 1)
-                return nums2[nums2.length / 2];
-            else
-                return ((double) nums2[nums2.length / 2 - 1] + nums2[nums2.length / 2]) / 2;
-        }
-
         return findMedianSortedArrays(
             nums1, nums2,
             0, nums1.length
