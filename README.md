@@ -28,7 +28,7 @@ Topics included:
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 450 (Delete), LC 938 (Range Sum)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
-  * Shortest Path (Dijkstra, Floyd-Warshall): LC 399
+  * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
   * Depth-First Search: LC 200 (Connected Components)
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785
   * Minimum Spanning Tree (MST): Prim (HR)
