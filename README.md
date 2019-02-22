@@ -43,7 +43,7 @@ Topics included:
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 13. Union-Find/Discrete Sets: LC 128
 14. Other Data Structures: LC 146 (LRU Cache)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
