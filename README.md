@@ -47,7 +47,7 @@ Topics included:
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
-16. String Algorithm: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 151, LC 392
+16. String Algorithm: LC 3, LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 151, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
@@ -60,7 +60,7 @@ Topics included:
   * Number Theory: LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-20. Two Pointers: LC 42, LC 56, LC 142, LC 228, LC 413, LC 713, LC 739
+20. Two Pointers: LC 3, LC 42, LC 56, LC 142, LC 228, LC 413, LC 713, LC 739
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
