@@ -51,7 +51,7 @@ Topics included:
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
-17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342
+17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
 18. Math:
   * Basic Arithmetic: LC 2
   * BigInteger: LC 78, LC 91, LC 179
@@ -60,7 +60,7 @@ Topics included:
   * Number Theory: LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-20. Two Pointers: LC 3, LC 42, LC 56, LC 142, LC 228, LC 413, LC 713, LC 739
+20. Two Pointers: LC 3, LC 42, LC 56, LC 142, LC 228, LC 413, LC 457, LC 713, LC 739
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
