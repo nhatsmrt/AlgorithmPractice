@@ -55,7 +55,7 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
 18. Math:
-  * Basic Arithmetic: LC 2
+  * Basic Arithmetic: LC 2, LC 12 (Integer to Roman), LC 13 (Roman to Integer)
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
