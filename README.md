@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms:
   * Sorting, Comparator and Comparable: LC 75, LC 179
-  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 162, LC 240 (2D Binary Search)
+  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
   * Divide and Conquer: LC 23
 2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image)
@@ -44,6 +44,7 @@ Topics included:
 13. Union-Find/Discrete Sets: LC 128
 14. Other Data Structures: LC 146 (LRU Cache)
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
+  * Nested List: LC 341 (Flatten Iterator)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
