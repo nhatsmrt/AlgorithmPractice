@@ -6,9 +6,9 @@ Topics included:
 1. Basic Algorithms:
   * Sorting, Comparator and Comparable: LC 75, LC 179
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
-  * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break)
+  * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
-2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image)
+2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image)
   * Prefix Sum: LC 974
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete)
@@ -37,9 +37,9 @@ Topics included:
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208
 10. Set, Map
-  * Map: LC 128, LC 146, LC 380 (Randomized Set), LC 535
+  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
   * Set: LC 128, LC 380 (Randomized Set)
-11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 535
+11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 13. Union-Find/Discrete Sets: LC 128
 14. Other Data Structures: LC 146 (LRU Cache)
@@ -49,7 +49,7 @@ Topics included:
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
-16. String Algorithm: LC 3, LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 151, LC 392
+16. String Algorithm: LC 3, LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 151, LC 387, LC 392
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
