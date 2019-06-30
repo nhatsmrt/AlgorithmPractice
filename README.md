@@ -4,7 +4,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice! \
 Topics included:
 1. Basic Algorithms:
-  * Sorting, Comparator and Comparable: LC 75, LC 179
+  * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
