@@ -31,7 +31,7 @@ Topics included:
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
-  * Depth-First Search: LC 200 (Connected Components)
+  * Depth-First Search: LC 200 (Connected Components), LC 329
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap
