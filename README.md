@@ -8,7 +8,8 @@ Topics included:
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
-2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image)
+2. Arrays:
+  * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Difference Array: LC 121
   * Max Contigruous Array: LC 53 (Kadane's Algorithm), LC 121
