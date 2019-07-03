@@ -9,7 +9,7 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
 2. Arrays: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image)
-  * Prefix Sum: LC 974
+  * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Difference Array: LC 121
   * Max Contigruous Array: LC 53 (Kadane's Algorithm), LC 121
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328
