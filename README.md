@@ -42,8 +42,8 @@ Topics included:
 9. Trie/Prefix Tree: LC 208
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
-  * Set: LC 128, LC 380 (Randomized Set)
-11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
+  * Set: LC 128, LC 380 (Randomized Set), LC 771
+11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 771
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 13. Union-Find/Discrete Sets: LC 128
 14. Other Data Structures: LC 146 (LRU Cache)
