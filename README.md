@@ -12,8 +12,8 @@ Topics included:
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
-  * Difference Array: LC 121
-  * Max Contigruous Array: LC 53 (Kadane's Algorithm), LC 121
+  * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
+  * Max Contigruous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
