@@ -14,6 +14,7 @@ Topics included:
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
+  * Cyclicity: LC 189 (Rotate Array)
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
@@ -49,7 +50,7 @@ Topics included:
 14. Other Data Structures: LC 146 (LRU Cache)
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 790
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 746, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
@@ -67,7 +68,7 @@ Topics included:
   * Number Theory: LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-20. Two Pointers: LC 3, LC 11, LC 42, LC 56, LC 142, LC 228, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739
+20. Two Pointers: LC 3, LC 11, LC 42, LC 56, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
