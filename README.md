@@ -9,7 +9,7 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
 2. Arrays:
-  * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
+  * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -44,7 +44,7 @@ Topics included:
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
   * Set: LC 128, LC 380 (Randomized Set), LC 771
-11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 771
+11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 13. Union-Find/Discrete Sets: LC 128
 14. Other Data Structures: LC 146 (LRU Cache)
@@ -65,7 +65,7 @@ Topics included:
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
-  * Number Theory: LC 365 (Water and Jug)
+  * Number Theory: LC 268, LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
 20. Two Pointers: LC 3, LC 11, LC 42, LC 56, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739
