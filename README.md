@@ -8,7 +8,7 @@ Topics included:
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
-2. Arrays:
+2. Arrays: LC 41
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
@@ -54,7 +54,7 @@ Topics included:
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
-16. String Algorithm: LC 3, LC 151, LC 387, LC 392
+16. String Algorithm: LC 3, LC 151, LC 316, LC 387, LC 392
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
