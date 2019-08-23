@@ -53,7 +53,7 @@ Topics included:
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 746, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
-  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses)
+  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), Matrix Chain Multiplication (GFG)
 16. String Algorithm: LC 3, LC 151, LC 316, LC 387, LC 392
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
