@@ -66,7 +66,7 @@ Topics included:
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
-  * Number Theory: LC 268, LC 365 (Water and Jug)
+  * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
 20. Two Pointers: LC 3, LC 11, LC 42, LC 56, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739
