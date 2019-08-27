@@ -13,25 +13,25 @@ class GFG {
 		Scanner sc = new Scanner(System.in);
 		int numTest = sc.nextInt();
 		for (int t = 0; t < numTest; t++) {
-		    int numNodes = sc.nextInt();
-		    int[] keys = new int[numNodes];
-		    int[] freqs = new int[numNodes];
+	    int numNodes = sc.nextInt();
+	    int[] keys = new int[numNodes];
+	    int[] freqs = new int[numNodes];
 
-		    for(int i = 0; i < numNodes; i++)
-	            keys[i] = sc.nextInt();
-	        for (int i = 0; i < numNodes; i++)
-	            freqs[i] = sc.nextInt();
+	    for(int i = 0; i < numNodes; i++)
+            keys[i] = sc.nextInt();
+      for (int i = 0; i < numNodes; i++)
+          freqs[i] = sc.nextInt();
 
-		    freqsPrefix = new int[numNodes + 1];
-		    freqsPrefix[0] = 0;
-		    dp = new int[numNodes][numNodes];
-		    for (int i = 0; i < numNodes; i++)
-		        Arrays.fill(dp[i], -1);
+	    freqsPrefix = new int[numNodes + 1];
+	    freqsPrefix[0] = 0;
+	    dp = new int[numNodes][numNodes];
+	    for (int i = 0; i < numNodes; i++)
+	        Arrays.fill(dp[i], -1);
 
-		    for (int i = 0; i < numNodes; i++)
-		        freqsPrefix[i + 1] = freqsPrefix[i] + freqs[i];
+	    for (int i = 0; i < numNodes; i++)
+	        freqsPrefix[i + 1] = freqsPrefix[i] + freqs[i];
 
-		    System.out.println(minSub(keys, freqs, 0, numNodes - 1));
+	    System.out.println(minSub(keys, freqs, 0, numNodes - 1));
 		}
 
 	}
