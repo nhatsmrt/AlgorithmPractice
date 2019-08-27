@@ -27,7 +27,7 @@ Topics included:
   * Queue: LC 105, LC 106, LC 622 (Circular Queue), LC 889
   * Deque: LC 199, LC 341, LC 641 (Circular Deque)
 5. Tree: LC 113
-  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988
+  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
 6. Binary Search Tree: LC 98, LC 315
@@ -54,7 +54,7 @@ Topics included:
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 746, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
-  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG)
+  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG)
 16. String Algorithm: LC 3, LC 151, LC 316, LC 387, LC 392
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
