@@ -70,7 +70,7 @@ Topics included:
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug)
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
-  * Line Sweep: LC 850 (Union of Rectangles)
+  * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles)
 20. Two Pointers: LC 3, LC 11, LC 42, LC 56, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
