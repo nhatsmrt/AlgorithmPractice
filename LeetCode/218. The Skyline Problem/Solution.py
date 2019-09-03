@@ -6,7 +6,7 @@ class Event:
         return str(self.pos) + "_" + str(height) + "_" + str(self.ind) + "_" + str(self.left)
 
 
-class MultisetHeapTree:
+class MultisetHeapBST:
     def __init__(self):
         self.multiset = dict()
         self.heap = []
@@ -53,7 +53,7 @@ class Solution(object):
         i = 1
         cur_height = vertical_events[0].height
 
-        consider_heights = MultisetHeapTree()
+        consider_heights = MultisetHeapBST()
         consider_heights.add(-vertical_events[0].height)
         keypoints = []
 
