@@ -31,6 +31,9 @@ class MultisetHeapTree:
             heapq.heappop(self.heap)
         return self.heap[0]
 
+    def __len__(self):
+        return len(self.multiset)
+
 
 class Solution(object):
     def getSkyline(self, buildings):
@@ -50,21 +53,15 @@ class Solution(object):
         i = 1
         cur_height = vertical_events[0].height
 
-        consider = set()
         consider_heights = MultisetHeapTree()
         consider_heights.add(-vertical_events[0].height)
-
-
-        consider.add(vertical_events[0].ind)
         keypoints = []
 
         for i in range(1, len(vertical_events)):
 
             if vertical_events[i].left:
-                consider.add(vertical_events[i].ind)
                 consider_heights.add(-vertical_events[i].height)
             else:
-                consider.remove(vertical_events[i].ind)
                 consider_heights.remove(-vertical_events[i].height)
 
             if vertical_events[i].height >= cur_height:
@@ -74,7 +71,7 @@ class Solution(object):
                 if vertical_events[i].height > cur_height:
                     cur_height = vertical_events[i].height
             else:
-                if len(consider) > 0:
+                if len(consider_heights) > 0:
                     max_height = -consider_heights.get_min()
                     if max_height != cur_height:
                         keypoints.append([start, cur_height])
