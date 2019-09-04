@@ -4,6 +4,7 @@ This repository contains my solutions to algorithmic problems. Main language is 
 You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice! \
 Topics included:
 1. Basic Algorithms:
+  * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
@@ -63,7 +64,7 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
 18. Math:
-  * Basic Arithmetic: LC 2, LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 279 (Perfect Squares), LC 415 (Add Strings)
+  * Basic Arithmetic: LC 2, LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 66, LC 279 (Perfect Squares), LC 415 (Add Strings)
   * BigInteger: LC 78, LC 91, LC 179
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
   * Puzzles: LC 319
