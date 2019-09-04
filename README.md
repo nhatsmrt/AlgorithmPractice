@@ -42,7 +42,7 @@ Topics included:
 8. Heap
   * Priority Queue: LC 347
   * HeapSort: LC 215
-9. Trie/Prefix Tree: LC 208
+9. Trie/Prefix Tree: LC 208, LC 211
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
   * Set: LC 128, LC 380 (Randomized Set), LC 771
