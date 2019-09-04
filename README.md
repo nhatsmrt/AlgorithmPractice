@@ -6,7 +6,7 @@ Topics included:
 1. Basic Algorithms:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
-  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search)
+  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
   * Divide and Conquer: LC 23
   * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling)
@@ -76,6 +76,6 @@ Topics included:
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
-23. Randomized Algorithm:
+23. Randomized Algorithm: LC 528 (Random Pick with Weight)
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
