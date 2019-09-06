@@ -1,29 +1,49 @@
 class Solution {
-    public String reverseVowels(String s) {
-        List<Character> vowels = new ArrayList<Character>();
-        for (int i = 0; i < s.length(); i++) {
-            if (isVowel(s.charAt(i)))
-                vowels.add(s.charAt(i));
-        }
-        if (vowels.size() <= 1)
-            return s;
+    public int myAtoi(String str) {
+        int MAX = 2147483647;
+        int i = 0;
+        boolean started = false;
+        boolean foundSign = false;
+        boolean pos = true;
 
-        StringBuilder builder = new StringBuilder();
-        int tmp = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (isVowel(s.charAt(i))) {
-                builder.append(vowels.get(vowels.size() - 1 - tmp));
-                tmp += 1;
+        int ret = 0;
+        while (i < str.length()) {
+            if (str.charAt(i) != ' ') {
+                if (str.charAt(i) == '+' || str.charAt(i) == '-') {
+                    if (foundSign || started)
+                        break;
+                    else {
+                        pos = str.charAt(i) == '+';
+                        foundSign = true;
+                        started = true;
+                    }
+                }
+                else if (str.charAt(i) >= '0' && str.charAt(i) <= '9') {
+                    started = true;
+                    int candidate = ret * 10 + (str.charAt(i) - '0');
+                    if (candidate / 10 != ret) {
+                        if (pos)
+                            return MAX;
+                        else
+                            return -MAX - 1;
+                    }
+                    else
+                        ret = candidate;
+                }
+                else
+                    break;
             }
-            else
-                builder.append(s.charAt(i));
+            else {
+                if (started)
+                    break;
+            }
+            i += 1;
         }
 
-        return builder.toString();
-
+        if (pos)
+            return ret;
+        else
+            return -ret;
     }
 
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
-    }
 }
