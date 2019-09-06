@@ -39,7 +39,7 @@ Topics included:
   * Depth-First Search: LC 200 (Connected Components), LC 329
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785
   * Minimum Spanning Tree (MST): Prim (HR)
-8. Heap
+8. Heap: LC 295 (Find Median from Data Stream)
   * Priority Queue: LC 347
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211
@@ -53,6 +53,7 @@ Topics included:
 14. Other Data Structures: LC 146 (LRU Cache)
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
+  * Stream: LC 295 (Find Median from Data Stream)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 746, LC 790
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
