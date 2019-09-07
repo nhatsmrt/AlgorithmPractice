@@ -7,7 +7,7 @@ Topics included:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528
-  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search)
+  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212
   * Divide and Conquer: LC 23
   * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 763
 2. Arrays: LC 41
@@ -42,7 +42,7 @@ Topics included:
 8. Heap: LC 295 (Find Median from Data Stream)
   * Priority Queue: LC 347
   * HeapSort: LC 215
-9. Trie/Prefix Tree: LC 208, LC 211
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
   * Set: LC 128, LC 380 (Randomized Set), LC 771
