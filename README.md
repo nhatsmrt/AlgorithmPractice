@@ -58,6 +58,7 @@ Topics included:
   * Bottom-Up: LC 120
   * DP on Tree: LC 120, LC 337
   * Bit Mask: LC 473
+  * Digit DP: LC 902
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG)
