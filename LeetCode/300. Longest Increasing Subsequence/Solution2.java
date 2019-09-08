@@ -1,4 +1,4 @@
-class Solution {
+class Solution2 {
     // O(n log n) solution
     public int lengthOfLIS(int[] nums) {
         int[] initial = new int[nums.length];

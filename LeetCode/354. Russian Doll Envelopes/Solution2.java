@@ -1,4 +1,4 @@
-class Solution {
+class Solution2 {
   // O(n log n) solution
     public int maxEnvelopes(int[][] envelopes) {
         Arrays.sort(envelopes, new Comparator<int[]>() {
