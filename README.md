@@ -61,7 +61,7 @@ Topics included:
   * Digit DP: LC 902
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
-  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop)
+  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop)
 16. String Algorithm: LC 3, LC 151, LC 316, LC 345, LC 387, LC 392
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
