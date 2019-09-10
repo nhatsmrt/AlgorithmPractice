@@ -6,7 +6,7 @@ Topics included:
 1. Basic Algorithms:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
-  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528
+  * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212
   * Divide and Conquer: LC 23
   * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 763
@@ -17,6 +17,7 @@ Topics included:
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Cyclicity: LC 189 (Rotate Array)
+  * Other: LC 169 (Majority Element, Boyer–Moore Majority Vote Algorithm)
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
