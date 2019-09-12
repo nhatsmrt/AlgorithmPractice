@@ -9,7 +9,7 @@ Topics included:
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
   * Divide and Conquer: LC 23
-  * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 763
+  * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 630, LC 763
 2. Arrays: LC 41, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
@@ -33,7 +33,7 @@ Topics included:
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
   * LCA: LC 236
-6. Binary Search Tree: LC 98, LC 315, LC 1038 (BST to GST)
+6. Binary Search Tree: LC 98, LC 315, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 450 (Delete), LC 938 (Range Sum)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
@@ -41,12 +41,12 @@ Topics included:
   * Depth-First Search: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785, LC 1161
   * Minimum Spanning Tree (MST): Prim (HR)
-8. Heap: LC 295 (Find Median from Data Stream)
+8. Heap: LC 295 (Find Median from Data Stream), LC 630
   * Priority Queue: LC 347
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535
+  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
   * Rolling Hash: LC 1147
