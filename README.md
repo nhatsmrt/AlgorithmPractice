@@ -3,7 +3,7 @@
 This repository contains my solutions to algorithmic problems. Main language is Java. \
 You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice! \
 Topics included:
-1. Basic Algorithms:
+1. Basic Algorithms: LC 463
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528, LC 887 (Egg Drop)
@@ -29,7 +29,7 @@ Topics included:
   * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 581, LC 735, LC 889, LC 946
   * Queue: LC 105, LC 106, LC 622 (Circular Queue), LC 889
   * Deque: LC 199, LC 341, LC 641 (Circular Deque), LC 862, LC 901, LC 907
-  * Monotone: LC 581, LC 862, LC 901, LC 907
+  * Monotonicity: LC 581, LC 862, LC 901, LC 907
 5. Tree: LC 113, LC 1161
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
