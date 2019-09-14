@@ -9,7 +9,7 @@ Topics included:
   * Searching: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 240 (2D Binary Search), LC 528, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
   * Divide and Conquer: LC 23
-  * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 630, LC 763
+  * Greedy: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
 2. Arrays: LC 41, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
@@ -27,7 +27,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 581, LC 735, LC 889, LC 946
-  * Queue: LC 105, LC 106, LC 622 (Circular Queue), LC 889
+  * Queue: LC 105, LC 106, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 199, LC 341, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 581, LC 862, LC 901, LC 907
 5. Tree: LC 113, LC 1161
@@ -43,12 +43,13 @@ Topics included:
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785, LC 1161
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
-  * Priority Queue: LC 347
+  * Priority Queue: LC 347, LC 621 (Task Scheduler)
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
+  * Multiset: LC 904
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
   * Rolling Hash: LC 1147
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
@@ -80,7 +81,7 @@ Topics included:
 19. Geometry: LC 223
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles)
-20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739, LC 763
+20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739, LC 763, LC 904
 21. Ad Hoc: LC 54
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
