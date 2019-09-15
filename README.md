@@ -77,7 +77,7 @@ Topics included:
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 1137 (N-th Tribonacci Number)
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets)
-  * Puzzles: LC 319
+  * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug), LC 1175
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
 19. Geometry: LC 223
