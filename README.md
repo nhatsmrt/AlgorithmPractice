@@ -39,7 +39,7 @@ Topics included:
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
-  * Depth-First Search: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329
+  * Depth-First Search: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 684 (Detect Cycle in Undirected Graph)
   * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785, LC 1161
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
@@ -53,7 +53,7 @@ Topics included:
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
   * Rolling Hash: LC 1147
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-13. Union-Find/Discrete Sets: LC 128, LC 990
+13. Union-Find/Discrete Sets: LC 128, LC 684, LC 990
 14. Other Data Structures: LC 146 (LRU Cache)
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
