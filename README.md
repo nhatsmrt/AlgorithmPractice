@@ -90,3 +90,5 @@ Topics included:
 23. Randomized Algorithm: LC 528 (Random Pick with Weight)
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
+24. Game:
+  * Minimax: LC 843
