@@ -40,7 +40,7 @@ Topics included:
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
   * Depth-First Search: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 684 (Detect Cycle in Undirected Graph)
-  * Breadth-First Search: LC 102, LC 127, LC 210, LC 310, LC 785, LC 1161
+  * Breadth-First Search: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 1161
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler)
