@@ -12,6 +12,7 @@ Topics included:
   * Greedy: LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
 2. Arrays: LC 41, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
+  * Meet in the Middle: LC 18 (4Sum)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
