@@ -16,25 +16,22 @@ class Solution {
     }
 
     private int maxValidFrom(String s, int start) {
-        int curMax = 0;
+        int ret = 0;
         if (start < s.length() - 1 && s.charAt(start) == '(') {
             int end = start + 1;
 
-            while (end < s.length() && dp[end] != 0)
+            if (dp[end] > 0)
                 end += dp[end];
 
             if (end < s.length() && s.charAt(end) == ')') {
                 end += 1;
-                if (end < s.length())
+                if (end < s.length() - 1)
                     end += dp[end];
-                curMax = end - start;
-
+                ret = end - start;
             }
-            else
-                curMax = 0;
         }
 
-        dp[start] = curMax;
-        return curMax;
+        dp[start] = ret;
+        return ret;
     }
 }
