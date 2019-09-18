@@ -10,7 +10,7 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
   * Divide and Conquer: LC 23
   * Greedy: LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
-2. Arrays: LC 41, LC 896
+2. Arrays: LC 41, LC 73, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II)
   * Prefix Sum/Cumulative Sum: LC 560, LC 974
