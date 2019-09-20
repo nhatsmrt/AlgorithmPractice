@@ -9,7 +9,7 @@ Topics included:
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 493, LC 528, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
   * Divide and Conquer: LC 23
-  * Greedy: LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
+  * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
 2. Arrays: LC 41, LC 73, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II)
@@ -27,10 +27,10 @@ Topics included:
   * Slow Fast Pointer: LC 287, LC 876 (Middle of the Linked List)
   * Multi-Level: LC 430 (Flatten)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 581, LC 735, LC 889, LC 946
+  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 735, LC 889, LC 946
   * Queue: LC 105, LC 106, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 641 (Circular Deque), LC 862, LC 901, LC 907
-  * Monotonicity: LC 85, LC 581, LC 862, LC 901, LC 907
+  * Monotonicity: LC 85, LC 402, LC 581, LC 862, LC 901, LC 907
 5. Tree: LC 113, LC 1161
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
