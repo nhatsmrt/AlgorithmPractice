@@ -96,3 +96,6 @@ Topics included:
   * Rejection Sampling: LC 470, LC 478
 24. Game:
   * Minimax: LC 843
+25. Concurrency:
+  * Locks: LC 1114
+  * Condition Variables: LC 1114
