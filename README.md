@@ -60,7 +60,7 @@ Topics included:
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
   * Stream: LC 295 (Find Median from Data Stream)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 746, LC 790
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790
   * Bottom-Up: LC 120
   * DP on Tree: LC 120, LC 337
   * Bit Mask: LC 473, LC 805
@@ -97,5 +97,5 @@ Topics included:
 24. Game:
   * Minimax: LC 843
 25. Concurrency:
-  * Locks: LC 1114
-  * Condition Variables: LC 1114
+  * Locks: LC 1114, LC 1115
+  * Condition Variables: LC 1114, LC 1115
