@@ -31,6 +31,7 @@ Topics included:
   * Queue: LC 105, LC 106, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 581, LC 862, LC 901, LC 907
+  * Parentheses:  LC 20, LC 394
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 1161
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder)
@@ -74,6 +75,7 @@ Topics included:
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regular Expression: LC 10
   * Metric: LC 72 (Levenshtein Distance)
+  * Parentheses:  LC 20, LC 394
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
