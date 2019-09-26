@@ -13,7 +13,7 @@ Topics included:
 2. Arrays: LC 41, LC 73, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 560, LC 974
+  * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
