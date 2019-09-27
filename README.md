@@ -31,8 +31,8 @@ Topics included:
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 735, LC 889, LC 946
   * Queue: LC 105, LC 106, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
-  * Deque: LC 84, LC 199, LC 341, LC 641 (Circular Deque), LC 862, LC 901, LC 907
-  * Monotonicity: LC 85, LC 402, LC 581, LC 862, LC 901, LC 907
+  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
+  * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907
   * Parentheses:  LC 20, LC 394
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 1161
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, Optimal BST (GFG)
@@ -84,7 +84,7 @@ Topics included:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 1137 (N-th Tribonacci Number)
-  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II)
+  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern)
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug), LC 1175
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
