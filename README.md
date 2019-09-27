@@ -18,6 +18,7 @@ Topics included:
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
+  * Sliding Window: LC 643
   * Cyclicity: LC 189 (Rotate Array)
   * Other: LC 169 (Majority Element, Boyer–Moore Majority Vote Algorithm)
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445
