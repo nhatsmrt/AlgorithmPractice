@@ -102,5 +102,5 @@ Topics included:
 24. Game:
   * Minimax: LC 843
 25. Concurrency:
-  * Locks: LC 1114, LC 1115
-  * Condition Variables: LC 1114, LC 1115
+  * Locks: LC 1114, LC 1115, LC 1195
+  * Condition Variables: LC 1114, LC 1115, LC 1195
