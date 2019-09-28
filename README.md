@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75, LC 88, LC 179, LC 973
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 973
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
   * Divide and Conquer: LC 23
@@ -63,7 +63,7 @@ Topics included:
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
   * Stream: LC 295 (Find Median from Data Stream)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 301, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 301, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
   * DP with (Broken) Profile: LC 309 (Best Time to Buy and Sell Stock with Cooldown)
   * DP on Tree: LC 120, LC 337
