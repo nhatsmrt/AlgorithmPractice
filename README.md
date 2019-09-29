@@ -48,7 +48,7 @@ Topics included:
   * Breadth-First Search: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 994, LC 1161
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
-  * Priority Queue: LC 347, LC 621 (Task Scheduler)
+  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 1046
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336
 10. Set, Map
