@@ -55,7 +55,7 @@ Topics included:
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
-11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
+11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 149, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
   * Rolling Hash: LC 1147
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
 13. Union-Find/Discrete Sets: LC 128, LC 684, LC 990
@@ -90,7 +90,7 @@ Topics included:
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug), LC 1175
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials: LC 43 (Multiply Strings)
-19. Geometry: LC 223
+19. Geometry: LC 149 (Max Points on a Line), LC 223
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles)
 20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739, LC 763, LC 904, LC 905
