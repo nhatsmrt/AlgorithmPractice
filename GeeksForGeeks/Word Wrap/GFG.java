@@ -31,20 +31,22 @@ class GFG {
 		            for (int k = i; k <= j; k++)
 		                length += words[k];
 
-		            if (length > maxLength)
-		                cost[i][j] = 100000000;
+		            int minLength = length + j - i;
 
+		            if (minLength > maxLength)
+		                cost[i][j] = 1000000000;
+
+		            else if (j == numWords - 1)
+		                cost[i][j] = 0;
 		            else {
-		                int diff = maxLength - length;
-		                cost[i][j] = diff * diff * diff;
+		                int diff = maxLength - minLength;
+		                cost[i][j] = diff * diff;
 		            }
 		        }
 		    }
 
 		    Arrays.fill(dp, -1);
 		    Arrays.fill(argmin, -1);
-		  //  dp[numWords - 1] = 1;
-		  //  argmin[numWords - 1] = numWords;
 
 		    dp(words, 0);
 		    int curWord = 0;
@@ -52,8 +54,10 @@ class GFG {
 		        int nextWord = argmin[curWord];
 		        System.out.print((curWord + 1) + " " + (nextWord + 1));
 		        curWord = nextWord + 1;
+		        if (curWord < numWords)
+		            System.out.print(" ");
 		    }
-		  //  return dp(words, 0);
+		    System.out.println();
 		}
 	}
 
