@@ -58,6 +58,8 @@ Topics included:
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 149, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
   * Rolling Hash: LC 1147
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
+  * Dynamic/Implicit: LC 732
+  * Lazy Propagation: LC 732
 13. Union-Find/Discrete Sets: LC 128, LC 684, LC 990
 14. Other Data Structures: LC 146 (LRU Cache)
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
