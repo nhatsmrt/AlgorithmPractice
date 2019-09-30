@@ -5,77 +5,55 @@ import java.lang.*;
 import java.io.*;
 
 class GFG {
-    private static int[] dp;
-    private static int[] argmin;
-    private static int[][] cost;
+    private static int[] freqsPrefix;
+    private static int[][] dp;
 
 	public static void main (String[] args) {
 		//code
 		Scanner sc = new Scanner(System.in);
 		int numTest = sc.nextInt();
-
 		for (int t = 0; t < numTest; t++) {
-		    int numWords = sc.nextInt();
-		    int[] words = new int[numWords];
-		    for (int i = 0; i < numWords; i++)
-		        words[i] = sc.nextInt();
-		    int maxLength = sc.nextInt();
+	    int numNodes = sc.nextInt();
+	    int[] keys = new int[numNodes];
+	    int[] freqs = new int[numNodes];
 
-		    dp = new int[numWords];
-		    argmin = new int[numWords];
-		    cost = new int[numWords][numWords];
+	    for(int i = 0; i < numNodes; i++)
+            keys[i] = sc.nextInt();
+      for (int i = 0; i < numNodes; i++)
+          freqs[i] = sc.nextInt();
 
-		    for (int i = 0; i < numWords; i++) {
-		        for (int j = i; j < numWords; j++) {
-		            int length = 0;
-		            for (int k = i; k <= j; k++)
-		                length += words[k];
+	    freqsPrefix = new int[numNodes + 1];
+	    freqsPrefix[0] = 0;
+	    dp = new int[numNodes][numNodes];
+	    for (int i = 0; i < numNodes; i++)
+	        Arrays.fill(dp[i], -1);
 
-		            if (length > maxLength)
-		                cost[i][j] = 100000000;
+	    for (int i = 0; i < numNodes; i++)
+	        freqsPrefix[i + 1] = freqsPrefix[i] + freqs[i];
 
-		            else {
-		                int diff = maxLength - length;
-		                cost[i][j] = diff * diff * diff;
-		            }
-		        }
-		    }
-
-		    Arrays.fill(dp, -1);
-		    Arrays.fill(argmin, -1);
-		  //  dp[numWords - 1] = 1;
-		  //  argmin[numWords - 1] = numWords;
-
-		    dp(words, 0);
-		    int curWord = 0;
-		    while (curWord < numWords) {
-		        int nextWord = argmin[curWord];
-		        System.out.print((curWord + 1) + " " + (nextWord + 1));
-		        curWord = nextWord + 1;
-		    }
-		  //  return dp(words, 0);
+	    System.out.println(minSub(keys, freqs, 0, numNodes - 1));
 		}
+
 	}
 
-	public static int dp(int[] words, int i) {
-	    if (i == words.length)
-	        return 0;
+	private static int minSub(int[] keys, int[] freqs, int i, int j) {
+	    if (dp[i][j] != -1)
+	        return dp[i][j];
+	    else if (i == j)
+	        return freqs[i];
 
-	   if (dp[i] != -1)
-	        return dp[i];
-
-	   int ret = -1;
-	   int curArgmin = -1;
-	   for (int j = i; j < words.length; j++) {
-	       int badness = cost[i][j] + dp(words, j + 1);
-	       if (ret == -1 || ret > badness) {
-	           ret = badness;
-	           curArgmin = j;
-	       }
-	   }
-
-	   dp[i] = ret;
-	   argmin[i] = curArgmin;
-	   return ret;
+	    int ret = -1;
+	    for (int r = i; r <= j; r++) {
+	        int candidate = 0;
+	        if (r > i)
+	            candidate += minSub(keys, freqs, i, r - 1);
+	        if (r < j)
+	            candidate += minSub(keys, freqs, r + 1, j);
+	        if (ret == -1 || candidate < ret)
+	            ret = candidate;
+	    }
+	    dp[i][j] = ret + freqsPrefix[j + 1] - freqsPrefix[i];
+	    return dp[i][j];
 	}
+
 }
