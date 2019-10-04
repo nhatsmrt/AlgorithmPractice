@@ -100,6 +100,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles)
 20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 739, LC 763, LC 904, LC 905
 21. Ad Hoc: LC 54
+  * Simulation: LC 657
 22. Compression Algorithm:
   * Huffman: Decoding (HR)
 23. Randomized Algorithm: LC 528 (Random Pick with Weight)
