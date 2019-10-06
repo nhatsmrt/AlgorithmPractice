@@ -81,7 +81,8 @@ Topics included:
 16. String Algorithm: LC 3, LC 151, LC 316, LC 345, LC 387, LC 392, LC 709 (To Lower Case)
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
-  * Regular Expression: LC 10, LC 44 (Wild Card Matching, NFA)
+  * Regular Expression: LC 10, LC 44 (Wild Card Matching)
+  * NFA: LC 44 (Wild Card Matching)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394
   * Suffix Array: LC 1163
