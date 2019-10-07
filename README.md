@@ -8,7 +8,7 @@ Topics included:
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 973
   * Radix Sort: LC 1163
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
-  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980
+  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980, LC 1219
   * Divide and Conquer: LC 23
   * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763
 2. Arrays: LC 41, LC 59, LC 73, LC 896
@@ -75,6 +75,7 @@ Topics included:
   * Bit Mask: LC 473, LC 805
   * Digit DP: LC 738, LC 902
   * Jumping: LC 32
+  * Change of State Variable: LC 1218
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
