@@ -48,6 +48,7 @@ Topics included:
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
   * DFS: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 684 (Detect Cycle in Undirected Graph), LC 1192 (DFS Low Link/Finding Bridges)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 994, LC 1161
+  * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 1046
