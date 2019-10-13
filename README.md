@@ -51,11 +51,11 @@ Topics included:
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
-  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 1046
+  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 1046
   * HeapSort: LC 215
-9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 953, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 149, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771
