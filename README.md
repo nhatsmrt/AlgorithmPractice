@@ -73,7 +73,7 @@ Topics included:
   * Bottom-Up: LC 120
   * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 1049
   * DP on Tree: LC 120, LC 337
-  * Bit Mask: LC 473, LC 805
+  * Bit Mask/Bit Set: LC 473, LC 805, LC 1066
   * Digit DP: LC 738, LC 902
   * Jumping: LC 32
   * Change of State Variable: LC 1218
