@@ -10,7 +10,7 @@ Topics included:
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 980, LC 1219
   * Divide and Conquer: LC 23
-  * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1057
+  * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1057
 2. Arrays: LC 41, LC 59, LC 73, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -71,7 +71,7 @@ Topics included:
   * Skiplist: LC 1206 (Design Skiplist)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 139-140, LC 221, LC 264, LC 301, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
-  * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 1049, Abbreviation (HR)
+  * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 337
   * Bit Mask/Bit Set: LC 473, LC 805, LC 1066
   * Digit DP: LC 738, LC 902
