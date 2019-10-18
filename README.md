@@ -115,3 +115,4 @@ Topics included:
 25. Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1195
+26. Time: LC 681 (Next Closest Time)
