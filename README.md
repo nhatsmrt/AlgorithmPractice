@@ -7,7 +7,7 @@ Topics included:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 969 (Pancake Sorting), LC 973
   * Radix Sort: LC 1163
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 410 (sol 1, sol 2), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 489, LC 980, LC 1219
   * Divide and Conquer: LC 23
   * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1057
@@ -80,6 +80,7 @@ Topics included:
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
+  * Combine with BS: LC 410 (Sol 1)
 16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 709 (To Lower Case)
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
