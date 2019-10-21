@@ -16,8 +16,7 @@ class Solution {
         // dp[pos][remaining] = min_j(max(cost[pos][j], dp[j][remaining - 1]))
         // note that cost[pos][j] is monotonically increasing in j
         // dp[j][remaining - 1] is a monotonically decreasing in j
-        // so j is at the point which these two are closest
-        // or second closest
+        // so optimal j is at one of the 2 points where these two values are closest
         // j can be found by modified binary search
         // complexity: O(mn log n)
         return splitArray(nums, 0, m - 1);
