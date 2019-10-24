@@ -30,7 +30,7 @@ Topics included:
   * Slow Fast Pointer: LC 287, LC 876 (Middle of the Linked List)
   * Multi-Level: LC 430 (Flatten)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 735, LC 889, LC 946
+  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 946
   * Queue: LC 105, LC 106, LC 158, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907
@@ -41,7 +41,7 @@ Topics included:
   * LCA: LC 235 (BST), LC 236
   * Filepath: LC 388
 6. Binary Search Tree: LC 98, LC 315, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 450 (Delete), LC 938 (Range Sum)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Flood Fill: LC 130, LC 733, LC 200
@@ -51,7 +51,7 @@ Topics included:
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST): Prim (HR)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
-  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 1046, LC 1057
+  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642
 10. Set, Map
