@@ -1,7 +1,7 @@
 class Solution {
     public int shortestWay(String source, String target) {
         // space complexity: O(|source|)
-        // time complexity: O(|target| log |source|)
+        // time complexity: O(|source| + |target| log |source|)
         int[][] invertedIndex = new int[26][];
         for (int c = 0; c < 26; c++) {
             char character = (char) ('a' + c);
