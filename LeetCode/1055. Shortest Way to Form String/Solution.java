@@ -1,0 +1,48 @@
+class Solution {
+    public int shortestWay(String source, String target) {
+        // space complexity: O(|source|)
+        // time complexity: O(|target| log |source|)
+        int[][] charPos = new int[26][];
+        for (int c = 0; c < 26; c++) {
+            char character = (char) ('a' + c);
+            List<Integer> inds = new ArrayList<Integer>();
+            for (int i = 0; i < source.length(); i++) {
+                if (source.charAt(i) == character)
+                    inds.add(i);
+            }
+            charPos[c] = new int[inds.size()];
+            for (int i = 0; i < inds.size(); i++)
+                charPos[c][i] = inds.get(i);
+        }
+
+        int cur = 0;
+        int ret = 0;
+        int curLastInd = -1;
+
+        while (cur < target.length()) {
+            int charCode = (int) (target.charAt(cur) - 'a');
+            if (charPos[charCode].length == 0)
+                return -1;
+
+            if (curLastInd == -1) {
+                curLastInd = charPos[charCode][0];
+                ret += 1;
+                cur += 1;
+            }
+            else {
+                int[] indices = charPos[charCode];
+                int ind = Arrays.binarySearch(indices, curLastInd + 1);
+                if (ind < 0)
+                    ind = -ind - 1;
+                if (ind == indices.length)
+                    curLastInd = -1;
+                else {
+                    curLastInd = indices[ind];
+                    cur += 1;
+                }
+            }
+        }
+
+        return ret;
+    }
+}

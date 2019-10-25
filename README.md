@@ -7,10 +7,10 @@ Topics included:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 969 (Pancake Sorting), LC 973
   * Radix Sort: LC 1163
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 410 (sol 1, sol 2), LC 493, LC 528, LC 658, LC 887 (Egg Drop)
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 410 (sol 1, sol 2), LC 493, LC 528, LC 658, LC 887 (Egg Drop), LC 1055
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 489, LC 980, LC 1219
   * Divide and Conquer: LC 23
-  * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1057
+  * Greedy: LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1055, LC 1057
 2. Arrays: LC 41, LC 59, LC 73, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -89,6 +89,7 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394
   * Suffix Array: LC 1163
+  * Inverted Index: LC 1055
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
