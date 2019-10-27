@@ -25,7 +25,7 @@ Topics included:
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445
   * Operations: LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
-  * Doubly Linked List: LC 146
+  * Doubly Linked List: LC 146, LC 432
   * Circularly Linked List
   * Slow Fast Pointer: LC 287, LC 876 (Middle of the Linked List)
   * Multi-Level: LC 430 (Flatten)
@@ -55,7 +55,7 @@ Topics included:
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 535, LC 953, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 535, LC 953, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 149, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
@@ -64,7 +64,7 @@ Topics included:
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
 13. Union-Find/Discrete Sets: LC 128, LC 684, LC 990
-14. Other Data Structures: LC 146 (LRU Cache)
+14. Other Data Structures: LC 146 (LRU Cache), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator)
   * Stream: LC 295 (Find Median from Data Stream)
