@@ -46,7 +46,7 @@ Topics included:
   * Basic Operation: LC 133 (Clone, Undirected)
   * Flood Fill: LC 130, LC 733, LC 200
   * Shortest Path (Dijkstra, Floyd-Warshall): LC 399, LC 743
-  * DFS: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 364, LC 684 (Detect Cycle in Undirected Graph), LC 1192 (DFS Low Link/Finding Bridges)
+  * DFS: LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 1192 (DFS Low Link/Finding Bridges)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 994, LC 1161
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST): Prim (HR)
@@ -63,7 +63,7 @@ Topics included:
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
-13. Union-Find/Discrete Sets: LC 128, LC 684, LC 990
+13. Union-Find/Discrete Sets: LC 128, LC 547 (sol 1), LC 684, LC 990
 14. Other Data Structures: LC 146 (LRU Cache), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
