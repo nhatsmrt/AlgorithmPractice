@@ -54,7 +54,7 @@ Topics included:
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
   * HeapSort: LC 215
-9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
