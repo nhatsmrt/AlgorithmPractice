@@ -6,6 +6,7 @@ Topics included:
 1. Basic Algorithms: LC 463
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 969 (Pancake Sorting), LC 973
+  * Counting Sort: LC 451 (Solution 1)
   * Radix Sort: LC 1163
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 410 (sol 1, sol 2), LC 493, LC 528, LC 658, LC 887 (Egg Drop), LC 1055
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 489, LC 980, LC 1219
@@ -55,7 +56,7 @@ Topics included:
   * HeapSort: LC 215
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 535, LC 953, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
   * Set: LC 128, LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 149, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
