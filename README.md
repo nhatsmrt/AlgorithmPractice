@@ -73,7 +73,7 @@ Topics included:
   * Skiplist: LC 1206 (Design Skiplist)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 139-140, LC 221, LC 264, LC 301, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
-  * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 1007, LC 1049, Abbreviation (HR)
+  * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 337
   * Bit Mask/Bit Set: LC 473, LC 805, LC 1066
   * Digit DP: LC 738, LC 902
