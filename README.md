@@ -59,6 +59,7 @@ Topics included:
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
+  * Frequency Map: LC 819
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
@@ -86,7 +87,7 @@ Topics included:
 16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 709 (To Lower Case)
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 680 (Valid Palindrome II)
   * Knuth-Morris-Pratt (KMP): LC 28
-  * Regular Expression: LC 10, LC 44 (Wild Card Matching)
+  * Regex: LC 10, LC 44 (Wild Card Matching), LC 819
   * NFA: LC 44 (Wild Card Matching)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394
