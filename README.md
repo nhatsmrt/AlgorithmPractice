@@ -106,7 +106,7 @@ Topics included:
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 1232 (Check Straight Line)
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles), LC 1229
-20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905
+20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
 21. Ad Hoc: LC 54
   * Simulation: LC 6, LC 202, LC 253, LC 657, LC 874
 22. Compression Algorithm:
