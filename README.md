@@ -32,7 +32,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 946
-  * Queue: LC 105, LC 106, LC 158, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
+  * Queue: LC 105, LC 106, LC 158, LC 346, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907
   * Parentheses:  LC 20, LC 394
@@ -70,7 +70,7 @@ Topics included:
 14. Other Data Structures: LC 146 (LRU Cache), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
-  * Stream: LC 295 (Find Median from Data Stream)
+  * Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Skiplist: LC 1206 (Design Skiplist)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 139-140, LC 221, LC 264, LC 301, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
