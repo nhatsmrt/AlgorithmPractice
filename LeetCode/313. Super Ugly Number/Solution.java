@@ -18,9 +18,10 @@ class Solution {
             return dp[n];
 
         long ret = (long) (nthSuperUglyNumberDP(n - 1, primes)) * primes[0];
+        int ind = n - 1;
         for (int i = 0; i < primes.length; i++) {
             int ratio = nthSuperUglyNumberDP(n - 1, primes) / primes[i];
-            int ind = Arrays.binarySearch(dp, 0, n - 1, ratio);
+            ind = Arrays.binarySearch(dp, 0, ind + 1, ratio);
             if (ind < 0)
                 ind = -ind - 1;
             else
