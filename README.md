@@ -51,6 +51,8 @@ Topics included:
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 994, LC 1161
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST): Prim (HR), LC 1135 (Kruskal)
+  * TSP:
+    * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
   * HeapSort: LC 215
@@ -76,7 +78,7 @@ Topics included:
   * Bottom-Up: LC 120
   * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 337
-  * Bit Mask/Bit Set: LC 473, LC 805, LC 1066
+  * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066
   * Digit DP: LC 738, LC 902
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
