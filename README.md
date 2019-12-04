@@ -74,7 +74,7 @@ Topics included:
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Skiplist: LC 1206 (Design Skiplist)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
   * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 337
@@ -87,7 +87,7 @@ Topics included:
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
 16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 709 (To Lower Case)
-  * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 680 (Valid Palindrome II)
+  * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 680 (Valid Palindrome II), LC 132 (Palindrome Factorization)
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regex: LC 10, LC 44 (Wild Card Matching), LC 819
   * NFA: LC 44 (Wild Card Matching)
