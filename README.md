@@ -17,7 +17,7 @@ Topics included:
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
   * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
-  * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II)
+  * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Sliding Window: LC 643
@@ -50,7 +50,9 @@ Topics included:
   * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 1192 (DFS Low Link/Finding Bridges)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 785, LC 994, LC 1161
   * Topological Sort: LC 269 (Kahn's Algorithm)
-  * Minimum Spanning Tree (MST): Prim (HR), LC 1135 (Kruskal)
+  * Minimum Spanning Tree (MST):
+    * Prim: HR
+    * Kruskal: LC 1135, LC 1168
   * TSP:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
 8. Heap: LC 295 (Find Median from Data Stream), LC 630
@@ -68,7 +70,7 @@ Topics included:
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
-13. Union-Find/Discrete Sets: LC 128, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal)
+13. Union-Find/Discrete Sets: LC 128, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 146 (LRU Cache), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
