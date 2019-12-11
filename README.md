@@ -125,5 +125,5 @@ Topics included:
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1195
 26. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
 27. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
-  * Frequency Estimator/Heavy Hitters:
+  * Frequency Estimator:
     * Count-min Sketch: LC 229
