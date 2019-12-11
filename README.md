@@ -74,7 +74,6 @@ Topics included:
 14. Other Data Structures: LC 146 (LRU Cache), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
-  * Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Skiplist: LC 1206 (Design Skiplist)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
@@ -125,3 +124,6 @@ Topics included:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1195
 26. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
+27. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
+  * Frequency Estimator/Heavy Hitters:
+    * Count-min Sketch: LC 229
