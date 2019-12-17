@@ -9,6 +9,8 @@ class HitCounter {
     /** Record a hit.
         @param timestamp - The current timestamp (in seconds granularity). */
     public void hit(int timestamp) {
+        while(!hits.isEmpty() && hits.peek() + 300 <= timestamp)
+            hits.remove();
         hits.add(timestamp);
     }
 
