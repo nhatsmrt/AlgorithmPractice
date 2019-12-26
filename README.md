@@ -42,7 +42,7 @@ Topics included:
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
   * LCA: LC 235 (BST), LC 236
   * Filepath: LC 388
-6. Binary Search Tree: LC 98, LC 315, LC 981, LC 1038 (BST to GST)
+6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
@@ -75,8 +75,8 @@ Topics included:
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
 13. Union-Find/Discrete Sets: LC 128, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
-14. Other Data Structures: LC 146 (LRU Cache), LC 432, LC 460 (LFU Cache)
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 986 (Interval List Intersections)
+14. Other Data Structures: LC 432
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
