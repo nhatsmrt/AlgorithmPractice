@@ -11,7 +11,7 @@ Topics included:
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 278, LC 313, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 887 (Egg Drop), LC 1055
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219
   * Divide and Conquer: LC 23
-  * Greedy: LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1055, LC 1057
+  * Greedy: LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1055, LC 1057
 2. Arrays: LC 41, LC 59, LC 73, LC 277, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -61,7 +61,7 @@ Topics included:
 8. Heap: LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
   * HeapSort: LC 215
-  * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median)
+  * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
