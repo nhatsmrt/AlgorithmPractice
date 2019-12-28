@@ -127,6 +127,7 @@ Topics included:
   * Rejection Sampling: LC 470, LC 478
 24. Game:
   * Minimax: LC 843
+  * Nim: Introduction to Nim Game (HR)
 25. Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
   * Reentrant Locks: LC 1188 (Design Bounded Blocking Queue)
