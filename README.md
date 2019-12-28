@@ -103,7 +103,7 @@ Topics included:
   * Suffix Array: LC 1163
   * Inverted Index: LC 1055
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
-  * Bitwise XOR: LC 136 (Single Number)
+  * Bitwise XOR: LC 136 (Single Number), Introduction to Nim Game (HR)
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * BigInteger: LC 78, LC 91, LC 179
@@ -126,7 +126,7 @@ Topics included:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
 24. Game:
-  * Minimax: LC 843
+  * Minimax: LC 292, LC 843
   * Nim: Introduction to Nim Game (HR)
 25. Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
