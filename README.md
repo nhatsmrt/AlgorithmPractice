@@ -76,7 +76,7 @@ Topics included:
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
-13. Union-Find/Discrete Sets: LC 128, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
+13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
