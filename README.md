@@ -85,7 +85,7 @@ Topics included:
   * Bottom-Up: LC 120
   * DP with Path: LC 931
   * DP with (Broken) Profile: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 935, LC 1007, LC 1049, Abbreviation (HR)
-  * DP on Tree: LC 120, LC 337
+  * DP on Tree: LC 120, LC 337, LC 1048
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066
   * Digit DP: LC 738, LC 902
   * Jumping: LC 32
