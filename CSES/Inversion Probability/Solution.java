@@ -8,7 +8,11 @@ class Solution
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
+    // Let N = number of inversions. Using indicator variable:
+    // N = sum_{a < b} 1[x_a > x_b]
+    // Then we have:
+    // E[N] = sum_{a < b} E[1[x_a > x_b]] = sum_{a < b} P(x_a > x_b)
+    
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		int[] range = new int[n];
