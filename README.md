@@ -126,7 +126,7 @@ Topics included:
 22. Compression Algorithm:
   * RLE: LC 604 (Iterator)
   * Huffman: Decoding (HR)
-23. Randomized Algorithm: LC 528 (Random Pick with Weight)
+23. Randomized Algorithm: LC 528 (Random Pick with Weight), LC 384 (Shuffle an array, Fisher-Yates Algorithm)
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
 24. Game:
