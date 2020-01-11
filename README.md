@@ -18,7 +18,7 @@ Topics included:
   * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
-  * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
+  * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III), Array Manipulation (HR)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Sliding Window: LC 643
   * Cyclicity: LC 189 (Rotate Array)
