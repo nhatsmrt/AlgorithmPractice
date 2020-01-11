@@ -43,7 +43,7 @@ Topics included:
   * LCA: LC 235 (BST), LC 236
   * Filepath: LC 388
 6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Flood Fill: LC 130, LC 733, LC 200
