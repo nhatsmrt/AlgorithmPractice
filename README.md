@@ -59,6 +59,7 @@ Topics included:
     * Kruskal: LC 1135, LC 1168
   * TSP:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
+  * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
 8. Heap: LC 630
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
   * HeapSort: LC 215
@@ -105,6 +106,7 @@ Topics included:
   * Parentheses:  LC 20, LC 394, LC 856
   * Suffix Array: LC 1163
   * Inverted Index: LC 1055
+  * Universal Superstring and de Brujin Graph: LC 753
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * Bitwise XOR: LC 136 (Single Number), Introduction to Nim Game (HR)
 18. Math:
