@@ -42,6 +42,7 @@ Topics included:
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
   * LCA: LC 235 (BST), LC 236
   * Filepath: LC 388
+  * x = change(x): LC 1325
 6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
 7. Graphs: LC 24
@@ -117,7 +118,7 @@ Topics included:
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 268, LC 365 (Water and Jug), LC 1175
     * p-adic: LC 172 (Factorial Trailing Zeros; Legendre's Theorem)
-    * Primes: O(sqrt(n)) test (HR),
+    * Primes: O(sqrt(n)) test (HR)
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials: LC 43 (Multiply Strings)
   * Probability: Dice Probability (CSES)
