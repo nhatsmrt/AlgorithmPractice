@@ -1,18 +1,19 @@
 class Solution {
-    double radius;
-    double x_center;
-    double y_center;
+    private double radius;
+    private double x_center;
+    private double y_center;
+    private Random randomizer;
 
     public Solution(double radius, double x_center, double y_center) {
         this.radius = radius;
         this.x_center = x_center;
         this.y_center = y_center;
+        randomizer = new Random();
     }
 
     public double[] randPoint() {
         boolean found = false;
         double[] ret = new double[2];
-        Random randomizer = new Random();
 
         while (!found) {
             double x = randomizer.nextDouble() * 2 * radius + x_center - radius;
