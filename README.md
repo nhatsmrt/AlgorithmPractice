@@ -83,6 +83,8 @@ Topics included:
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
+  * Cartesian Tree:
+    * Construction: LC 654 (Maximum Binary Tree)
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
   * DP with Path: LC 741, LC 931
