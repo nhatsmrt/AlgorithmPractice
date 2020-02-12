@@ -80,7 +80,7 @@ Topics included:
   * Lazy Propagation: LC 732
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections), LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
@@ -126,7 +126,7 @@ Topics included:
   * Probability: Dice Probability (CSES)
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 1232 (Check Straight Line)
   * Convex Hull (Graham Scan): LC 587
-  * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles), LC 1229
+  * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
 20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
 21. Ad Hoc: LC 54, LC 1304
