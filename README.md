@@ -41,7 +41,7 @@ Topics included:
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, LC 1120 (Maximum Average Subtree), Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
   * LCA: LC 235 (BST), LC 236
-  * Filepath: LC 388, LC 588 (Design In-Memory File System)
+  * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
   * x = change(x): LC 1325
 6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
@@ -104,12 +104,12 @@ Topics included:
 16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 438, LC 709 (To Lower Case), LC 1181 (Before and After Puzzle)
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 125 (Valid Palindrome), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
   * Knuth-Morris-Pratt (KMP): LC 28
-  * Regex: LC 10, LC 44 (Wild Card Matching), LC 819
+  * Regex: LC 10, LC 44 (Wild Card Matching), LC 609 (Find Duplicate File in System), LC 819
   * NFA: LC 44 (Wild Card Matching)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 856
   * Suffix Array: LC 1163
-  * Inverted Index: LC 1055
+  * Inverted Index: LC 609 (Find Duplicate File in System), LC 1055
   * Universal Superstring and de Brujin Graph: LC 753
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * Bitwise XOR: LC 136 (Single Number), Introduction to Nim Game (HR)
