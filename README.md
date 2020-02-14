@@ -68,7 +68,7 @@ Topics included:
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 904
@@ -120,6 +120,7 @@ Topics included:
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern)
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 268, LC 365 (Water and Jug), LC 829 (Consecutive Numbers Sum), LC 1175
+    * Number Systems: LC 166(Fraction to Recurring Decimal)
     * p-adic: LC 172 (Factorial Trailing Zeros; Legendre's Theorem)
     * Primes: O(sqrt(n)) test (HR)
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
