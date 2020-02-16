@@ -11,7 +11,7 @@ Topics included:
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 278, LC 313, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
-  * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 763, LC 1007 (Sol 2), LC 1055, LC 1057, LC 1167
+  * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1055, LC 1057, LC 1167
 2. Arrays: LC 41, LC 59, LC 73, LC 277, LC 896
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -64,7 +64,7 @@ Topics included:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
   * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
 8. Heap: LC 630, LC 1167
-  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 1046, LC 1057
+  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
@@ -82,7 +82,7 @@ Topics included:
   * Lazy Propagation: LC 732
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 986 (Interval List Intersections), LC 1272 (Remove Interval)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
@@ -130,7 +130,7 @@ Topics included:
   * Probability: Dice Probability (CSES)
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 1232 (Check Straight Line)
   * Convex Hull (Graham Scan): LC 587
-  * Line Sweep: LC 218 (Skyline Problem), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
+  * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
 20. Two Pointers: LC 3, LC 11, LC 26, LC 42, LC 56, LC 76, LC 142, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
 21. Ad Hoc: LC 54, LC 1304
