@@ -66,13 +66,14 @@ Topics included:
 8. Heap: LC 630, LC 1167
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
+   * Partial Heapsort (for top K): LC 692
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
-  * Multiset: LC 904
+  * Multiset: LC 692, LC 904
   * Frequency Map: LC 819
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
   * Rolling Hash: LC 1147
