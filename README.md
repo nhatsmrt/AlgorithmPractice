@@ -70,7 +70,7 @@ Topics included:
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 953, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
