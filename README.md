@@ -117,7 +117,7 @@ Topics included:
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * Bitwise XOR: LC 136 (Single Number), Introduction to Nim Game (HR)
 18. Math:
-  * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
+  * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 1137 (N-th Tribonacci Number)
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern)
