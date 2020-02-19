@@ -32,7 +32,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 20 (Valid Parentheses), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 946
+  * Stack: LC 20 (Valid Parentheses), LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 946
     * Parentheses:  LC 20, LC 394, LC 856 (Score of Parentheses, Sol 1), LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
@@ -45,7 +45,7 @@ Topics included:
   * x = change(x): LC 1325
   * N-ary Tree: LC 431 (Encode N-ary Tree to Binary Tree)
 6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Flood Fill: LC 130, LC 733, LC 200
