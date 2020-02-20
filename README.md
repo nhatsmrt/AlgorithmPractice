@@ -104,7 +104,7 @@ Topics included:
   * Probability: CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
-16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 438, LC 709 (To Lower Case), LC 1181 (Before and After Puzzle)
+16. String Algorithm: LC 3, LC 151, LC 316, LC 344 (Reverse), LC 345, LC 387, LC 392, LC 438, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
   * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
   * Knuth-Morris-Pratt (KMP): LC 28
   * Regex: LC 10, LC 44 (Wild Card Matching), LC 609 (Find Duplicate File in System), LC 819
