@@ -12,7 +12,7 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 212, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1055, LC 1057, LC 1167
-2. Arrays: LC 41, LC 59, LC 73, LC 277, LC 896
+2. Arrays: LC 41, LC 59, LC 73, LC 277, LC 896, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
   * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
@@ -38,7 +38,7 @@ Topics included:
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 1161
-  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, LC 1120 (Maximum Average Subtree), Optimal BST (GFG)
+  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 863 (All Nodes Distance K in Binary Tree), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, LC 1120 (Maximum Average Subtree), Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
   * LCA: LC 235 (BST), LC 236
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
@@ -53,7 +53,7 @@ Topics included:
     * Dijkstra: LC 399, LC 743
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
-  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
+  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 773, LC 785, LC 994, LC 1161
   * Topological Sort: LC 269 (Kahn's Algorithm)
@@ -70,7 +70,7 @@ Topics included:
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 642, LC 676
 10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
