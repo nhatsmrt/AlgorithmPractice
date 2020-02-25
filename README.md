@@ -104,7 +104,7 @@ Topics included:
   * Probability: CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
-16. String Algorithm: LC 3, LC 316, LC 345, LC 387, LC 392, LC 438, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
+16. String Algorithm: LC 3, LC 316, LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 186, LC 344 (Reverse)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
