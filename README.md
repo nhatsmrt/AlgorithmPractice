@@ -78,6 +78,7 @@ Topics included:
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
+  * Cuckoo Hashing: LC 706 (Design Hashmap)
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
   * Dynamic/Implicit: LC 732
   * Lazy Propagation: LC 732
