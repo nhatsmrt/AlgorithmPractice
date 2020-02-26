@@ -68,7 +68,7 @@ Topics included:
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
-9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 421 (Maximum XOR of Two Numbers in an Array), LC 642, LC 676
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 421 (Maximum XOR of Two Numbers in an Array), LC 472, LC 642, LC 676
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
