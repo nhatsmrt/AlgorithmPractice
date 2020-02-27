@@ -118,6 +118,8 @@ Topics included:
   * Suffix Array: LC 1163
   * Inverted Index: LC 609 (Find Duplicate File in System), LC 1055
   * Universal Superstring and de Brujin Graph: LC 753
+  * Anagram:
+    * Magnitude Set: LC 438, LC 567
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * AND:
     * Checking active bits: LC 393
