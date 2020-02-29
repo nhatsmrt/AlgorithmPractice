@@ -11,10 +11,14 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
+        StringBuilder ret = new StringBuilder();
+        serialize(root, ret);
+        return ret.toString();
+    }
 
-
+    private void serialize(TreeNode root, StringBuilder ret) {
         if (root == null)
-            return "";
+            return;
 
         int type = 0;
         if (root.left != null)
@@ -22,15 +26,19 @@ public class Codec {
         if (root.right != null)
             type += 2;
 
-        String ret = "" + root.val + " " + type;
-        if (type == 1 || type == 3)
-            ret += " " + serialize(root.left);
+        ret.append(root.val);
+        ret.append(" ");
+        ret.append(type);
 
-        if (type == 2 || type == 3)
-            ret += " " + serialize(root.right);
+        if (type == 1 || type == 3) {
+            ret.append(" ");
+            serialize(root.left, ret);
+        }
 
-        return ret;
-
+        if (type == 2 || type == 3) {
+            ret.append(" ");
+            serialize(root.right, ret);
+        }
     }
 
 
