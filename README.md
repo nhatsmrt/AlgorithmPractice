@@ -112,7 +112,8 @@ Topics included:
     * NFA: LC 44 (Wild Card Matching)
     * Knuth-Morris-Pratt (KMP): LC 28
     * Regex: LC 10, LC 44 (Wild Card Matching), LC 609 (Find Duplicate File in System), LC 819
-  * Palindrome: LC 5 (Longest Palindrome Substring, Manacher's Algorithm), LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
+  * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
+    * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 856
   * Suffix Array: LC 1163
