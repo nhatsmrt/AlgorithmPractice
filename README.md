@@ -8,7 +8,7 @@ Topics included:
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 937, LC 969 (Pancake Sorting), LC 973
   * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 1200 (Minimum Absolute Difference)
   * Radix Sort: LC 1163
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 278, LC 313, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 278, LC 313, LC 374, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 212, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1055, LC 1057, LC 1167
@@ -89,7 +89,7 @@ Topics included:
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
     * Construction: LC 654 (Maximum Binary Tree)
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 486, LC 639, LC 746, LC 790, LC 940
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 375, LC 486, LC 639, LC 714, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Path: LC 741, LC 931
@@ -153,7 +153,7 @@ Topics included:
   * Rejection Sampling: LC 470, LC 478
   * Inverse Transform Sampling: LC 478 (Sol 2)
 24. Game:
-  * Minimax: LC 292, LC 843
+  * Minimax: LC 292, LC 375, LC 843
   * Nim: Introduction to Nim Game (HR)
 25. Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
