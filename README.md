@@ -166,3 +166,4 @@ Topics included:
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
+28. Design Question: LC 379 (Design Phone Directory)
