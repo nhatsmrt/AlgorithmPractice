@@ -12,13 +12,14 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 212, LC 247, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1055, LC 1057, LC 1167
-2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 1089
+2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
   * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
-  * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III), Array Manipulation (HR)
+  * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
+    * Boundary Count: Array Manipulation (HR), LC 731 (Java Sol)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Sliding Window: LC 643, LC 1052
   * Cyclicity: LC 189 (Rotate Array)
@@ -80,8 +81,8 @@ Topics included:
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
 12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-  * Dynamic/Implicit: LC 732
-  * Lazy Propagation: LC 732
+  * Dynamic/Implicit: LC 731 (Python Solution), LC 732
+  <!-- * Lazy Propagation: LC 732 -->
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1272 (Remove Interval)
