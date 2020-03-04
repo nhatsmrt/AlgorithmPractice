@@ -104,7 +104,7 @@ Topics included:
   * Change of State Variable: LC 1218
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1092 (Shortest Common Supersequence), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
-  * Probability: CSES Dice Probability
+  * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
 16. String Algorithm: LC 3, LC 316, LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
@@ -139,7 +139,7 @@ Topics included:
     * Primes: O(sqrt(n)) test (HR)
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials: LC 43 (Multiply Strings)
-  * Probability: Dice Probability (CSES)
+  * Probability: LC 688, Dice Probability (CSES)
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 1232 (Check Straight Line)
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
