@@ -31,22 +31,39 @@ class SnapshotArray {
     }
 
     private class Entry {
-        TreeMap<Integer, Integer> m;
+        List<Modification> modList;
 
         public Entry() {
-            m = new TreeMap<>();
+            modList = new ArrayList<>();
         }
 
         public void set(int val, int time) {
-            m.put(time, val);
+            modList.add(new Modification(time, val));
         }
 
         public int get(int time) {
-            Integer key = m.floorKey(time);
-            if (key == null)
-                return 0;
+            int insertionPoint = Collections.binarySearch(modList, new Modification(time, -1));
+            if (insertionPoint >= 0)
+                return modList.get(insertionPoint).val;
 
-            return m.get(key);
+            insertionPoint = -insertionPoint - 2;
+            if (insertionPoint == -1)
+                return 0;
+            return modList.get(insertionPoint).val;
+        }
+
+        private class Modification implements Comparable<Modification> {
+            int time;
+            int val;
+
+            public Modification(int time, int val) {
+                this.time = time;
+                this.val = val;
+            }
+
+            public int compareTo(Modification other) {
+                return time - other.time;
+            }
         }
 
     }
