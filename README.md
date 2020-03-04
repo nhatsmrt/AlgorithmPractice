@@ -75,7 +75,7 @@ Topics included:
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
-  * Frequency Map: LC 819
+  * Frequency Map/Histogram: LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 819
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
@@ -107,7 +107,7 @@ Topics included:
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), 0 - 1 Knapsack Problem (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), Knuth's Text Justification/Word Wrap (GFG)
-16. String Algorithm: LC 3, LC 316, LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
+16. String Algorithm: LC 3, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 929, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 186, LC 344 (Reverse)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
@@ -144,7 +144,7 @@ Topics included:
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 209, LC 228, LC 239, LC 283, LC 334, LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 209, LC 228, LC 239, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
 21. Ad Hoc: LC 54, LC 1304
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874
 22. Compression Algorithm:
