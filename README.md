@@ -90,6 +90,9 @@ Topics included:
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
     * Construction: LC 654 (Maximum Binary Tree)
+  * Persistence:
+    * Fat Node:
+      * Persistent Array: LC 1146
 15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 375, LC 486, LC 639, LC 714, LC 746, LC 790, LC 940
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
