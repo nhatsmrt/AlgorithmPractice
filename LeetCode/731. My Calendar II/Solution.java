@@ -1,4 +1,5 @@
 class MyCalendarTwo {
+    // LC's Official Sol
     private TreeMap<Integer, Integer> diffMap;
 
     public MyCalendarTwo() {
