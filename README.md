@@ -151,7 +151,7 @@ Topics included:
 21. Ad Hoc: LC 54, LC 1304
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874
 22. Compression Algorithm:
-  * RLE: LC 604 (Iterator), LC 1313 (Decompress)
+  * RLE: LC 443, LC 604 (Iterator), LC 1313 (Decompress)
   * Huffman: Decoding (HR)
 23. Randomized Algorithm: LC 528 (Random Pick with Weight), LC 384 (Shuffle an array, Fisher-Yates Algorithm)
   * Reservoir Sampling: LC 382
