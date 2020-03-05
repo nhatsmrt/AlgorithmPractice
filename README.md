@@ -15,7 +15,7 @@ Topics included:
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 303 (Range Sum Query - Immutable), LC 560, LC 974
+  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -38,6 +38,7 @@ Topics included:
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
+    * Stack: LC 134
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 1161
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 863 (All Nodes Distance K in Binary Tree), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, LC 1120 (Maximum Average Subtree), Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
