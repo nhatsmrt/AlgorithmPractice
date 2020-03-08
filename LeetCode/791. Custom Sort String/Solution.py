@@ -1,6 +1,3 @@
-from collections import defaultdict
-
-
 class Solution:
     def customSortString(self, S: str, T: str) -> str:
         cnt = [0] * len(S)
