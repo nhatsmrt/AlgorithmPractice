@@ -12,6 +12,7 @@ Topics included:
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 212, LC 247, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1055, LC 1057, LC 1167
+  * Count Array/Histogram: LC 274
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -57,7 +58,7 @@ Topics included:
   * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
     * Flood Fill: LC 130, LC 695, LC 733, LC 200
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 773, LC 785, LC 994, LC 1161
+  * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 773, LC 752, LC 785, LC 994, LC 1161
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST):
     * Prim: HR
