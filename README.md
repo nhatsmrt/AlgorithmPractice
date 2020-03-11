@@ -83,10 +83,13 @@ Topics included:
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
-12. Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-  * Dynamic/Implicit: LC 731 (Python Solution), LC 732
-  * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
-  <!-- * Lazy Propagation: LC 732 -->
+12. Range Query:
+  * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
+    * Dynamic/Implicit: LC 731 (Python Solution), LC 732
+    * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
+    <!-- * Lazy Propagation: LC 732 -->
+  * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
+    * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
