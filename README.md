@@ -17,7 +17,7 @@ Topics included:
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 560, LC 974
+  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 525, LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -76,6 +76,7 @@ Topics included:
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
+    * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 1055
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 819
@@ -129,7 +130,7 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 856
   * Suffix Array: LC 1163
-  * Inverted Index: LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 1055
+  * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 1055
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram:
     * Magnitude Set: LC 438, LC 567
