@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Practice
 ## Introduction
-This repository contains my solutions to algorithmic problems. Main language is Java. \
+This repository contains my solutions to algorithmic problems (mostly LeetCode, with some problems from other sites sprinkled in). Main language is Java and Python. \
 You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice! \
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
@@ -48,7 +48,7 @@ Topics included:
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 431 (Encode N-ary Tree to Binary Tree)
-6. Binary Search Tree: LC 98, LC 315, LC 729, LC 981, LC 1038 (BST to GST)
+6. Binary Search Tree: LC 98, LC 315, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
