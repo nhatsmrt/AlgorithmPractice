@@ -17,7 +17,7 @@ Topics included:
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 525, LC 560, LC 974
+  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 437 (Path Sum), LC 525, LC 560, LC 974
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -56,7 +56,7 @@ Topics included:
     * Dijkstra: LC 399, LC 743
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
-  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
+  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 437, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
     * Flood Fill: LC 130, LC 695, LC 733, LC 200
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 773, LC 752, LC 785, LC 994, LC 1161
