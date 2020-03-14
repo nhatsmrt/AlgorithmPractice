@@ -77,10 +77,10 @@ Topics included:
 10. Set, Map
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 325, LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 1055
+    * Inverted Index: LC 325, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
-  * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 819
+  * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 697, LC 819
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
