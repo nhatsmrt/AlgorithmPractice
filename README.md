@@ -87,8 +87,9 @@ Topics included:
   * Cuckoo Hashing: LC 706 (Design Hashmap)
 12. Range Query:
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
-    * Dynamic/Implicit: LC 731 (Python Solution), LC 732
+    * Dynamic/Implicit: LC 731 (Python Solution), LC 715, LC 732
     * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
+    * Lazy Propagation: LC 715
     <!-- * Lazy Propagation: LC 732 -->
   * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
     * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
