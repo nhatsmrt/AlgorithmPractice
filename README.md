@@ -95,7 +95,7 @@ Topics included:
     * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
