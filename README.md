@@ -74,8 +74,8 @@ Topics included:
    * Partial Heapsort (for top K): LC 692
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 421 (Maximum XOR of Two Numbers in an Array), LC 472, LC 642, LC 676
-10. Set, Map
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
+10. Set, Map (Dictionary)
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 325, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074
   * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
@@ -141,7 +141,7 @@ Topics included:
     * Checking active bits: LC 393
   * Bitwise XOR: LC 136 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), Introduction to Nim Game (HR)
 18. Math:
-  * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
+  * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 1137 (N-th Tribonacci Number)
   * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern)
