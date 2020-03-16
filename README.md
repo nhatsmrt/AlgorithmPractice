@@ -78,7 +78,7 @@ Topics included:
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 325, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074
-  * Set: LC 128, LC 217 (Contains Duplicate), LC 380 (Randomized Set), LC 771
+  * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 697, LC 819
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
@@ -153,7 +153,7 @@ Topics included:
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials: LC 43 (Multiply Strings)
   * Probability: LC 688, Dice Probability (CSES)
-19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 1232 (Check Straight Line)
+19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 356, LC 1232 (Check Straight Line)
   * Convex Hull (Graham Scan): LC 587
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
