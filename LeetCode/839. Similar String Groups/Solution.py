@@ -33,6 +33,9 @@ class UnionFind:
 
 class Solution:
     def numSimilarGroups(self, A: List[str]) -> int:
+        # Time Complexity: O(NW min(N, W^2))
+        # Space Complexity: O(NW)
+        
         A = list(set(A))
 
         word_len = len(A[0])
