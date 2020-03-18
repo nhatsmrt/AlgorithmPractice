@@ -18,7 +18,7 @@ Topics included:
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 525, LC 560, LC 974, LC 1074
+  * Prefix Sum/Cumulative Sum: LC 134, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 525, LC 560, LC 974, LC 1074, LC 1310
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -86,7 +86,7 @@ Topics included:
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
-12. Range Query:
+12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
     * Dynamic/Implicit: LC 731 (Python Solution), LC 715, LC 732
     * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
@@ -140,7 +140,7 @@ Topics included:
 17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * AND:
     * Checking active bits: LC 393
-  * Bitwise XOR: LC 136 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), Introduction to Nim Game (HR)
+  * Bitwise XOR: LC 136 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * BigInteger: LC 78, LC 91, LC 179
