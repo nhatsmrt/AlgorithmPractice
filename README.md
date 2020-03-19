@@ -78,7 +78,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 325, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074
+    * Inverted Index: LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 697, LC 819
@@ -134,6 +134,7 @@ Topics included:
   * Parentheses:  LC 20, LC 394, LC 856
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 839, LC 1055
+    * Inverted Index of Suffix: LC 524
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
