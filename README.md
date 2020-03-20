@@ -26,7 +26,8 @@ Topics included:
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Sliding Window: LC 643, LC 1052
   * Cyclicity: LC 189 (Rotate Array)
-  * Other: LC 169 (Majority Element, Boyer–Moore Majority Vote Algorithm)
+  * Majority Element:
+    * Boyer-Moore Algorithm: LC 169, LC 1157
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445, LC 817, LC 1265
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
@@ -78,7 +79,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074
+    * Inverted Index: LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074, LC 1157
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 697, LC 819
@@ -87,7 +88,7 @@ Topics included:
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
 12. Range Query: LC 131O (Range XOR)
-  * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307
+  * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 731 (Python Solution), LC 715, LC 732
     * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
     * Lazy Propagation: LC 715
