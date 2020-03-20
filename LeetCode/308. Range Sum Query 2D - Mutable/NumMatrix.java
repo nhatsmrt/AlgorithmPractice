@@ -6,10 +6,15 @@ class NumMatrix {
     public NumMatrix(int[][] matrix) {
         if (matrix.length > 0 && matrix[0].length > 0) {
             data = new int[matrix.length + 1][matrix[0].length + 1];
+            int[][] prefixes = new int[matrix.length + 1][matrix[0].length + 1];
 
-            for (int i = 0; i < matrix.length; i++) {
-                for (int j = 0; j < matrix[0].length; j++)
-                    increment(i + 1, j + 1, matrix[i][j]);
+            for (int i = 1; i <= matrix.length; i++) {
+                for (int j = 1; j <= matrix[0].length; j++) {
+                    prefixes[i][j] = prefixes[i - 1][j] + prefixes[i][j - 1]
+                        - prefixes[i - 1][j - 1] + matrix[i - 1][j - 1];
+                    data[i][j] = prefixes[i][j] - prefixes[i][j - lastSetBit(j)]
+                    -prefixes[i - lastSetBit(i)][j] + prefixes[i - lastSetBit(i)][j - lastSetBit(j)];
+                }
             }
         }
     }

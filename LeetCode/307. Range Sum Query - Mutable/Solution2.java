@@ -7,9 +7,12 @@ class NumArray {
         // data[i] = sum_{j = (i - 1) - 1 << r}^{i - 1} nums[j]
         // where r is the last set bit of i - 1
         // (for simplicity, data is defined with starting index 1)
+        int[] prefixes = new int[nums.length + 1];
 
-        for (int i = 0; i < nums.length; i++)
-            add(i + 1, nums[i]);
+        for (int i = 1; i < nums.length + 1; i++) {
+            prefixes[i] = prefixes[i - 1] + nums[i - 1];
+            data[i] = prefixes[i] - prefixes[i - lastSetBit(i)];
+        }
     }
 
     public void update(int i, int val) {
