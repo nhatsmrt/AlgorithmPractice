@@ -87,6 +87,7 @@ Topics included:
   * Rolling Hash: LC 1147
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
+  * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees)
 12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732
@@ -95,6 +96,7 @@ Topics included:
     <!-- * Lazy Propagation: LC 732 -->
   * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
     * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
+  * Sparse Table: LC 1335 (Sol 1)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 839, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
@@ -105,7 +107,7 @@ Topics included:
   * Persistence:
     * Fat Node:
       * Persistent Array: LC 1146
-15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 375, LC 486, LC 639, LC 714, LC 746, LC 790, LC 940, LC 1024
+15. Dynamic Programming: LC 17, LC 62, LC 63, LC 64, LC 77, LC 91, LC 96, LC 97, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 375, LC 486, LC 639, LC 714, LC 746, LC 790, LC 940, LC 1024, LC 1335 (Sol 1)
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Path: LC 741, LC 931
