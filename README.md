@@ -40,7 +40,7 @@ Topics included:
   * Stack: LC 20 (Valid Parentheses), LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 895 (Maximum Frequency Stacks), LC 946, LC 1019
     * Parentheses:  LC 20, LC 394, LC 856 (Score of Parentheses, Sol 1), LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889
-  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 862, LC 901, LC 907
+  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 1161
@@ -159,7 +159,8 @@ Topics included:
   * Polynomials: LC 43 (Multiply Strings)
   * Probability: LC 688, Dice Probability (CSES)
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 356, LC 1232 (Check Straight Line)
-  * Convex Hull (Graham Scan): LC 587
+  * Convex Hull (Graham Scan): LC 587,
+    * Monotone Chain: LC 644 (Sol 2)
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 1004
