@@ -116,7 +116,9 @@ Topics included:
   * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1339
     * In-Out DP:  LC 1245 (Tree Diameter)
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066
+    * Broken Profile: LC 1349
   * Digit DP: LC 738, LC 902
+  * Lexicographical Configuration: LC 60 (Find the kth permutation)
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
   * Change of State Variable: LC 1218
