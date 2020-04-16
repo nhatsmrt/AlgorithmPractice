@@ -14,7 +14,7 @@ Topics included:
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 212, LC 247, LC 465 (Optimal Account Balancing), LC 489, LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
-  * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1055, LC 1057, LC 1167
+  * Greedy: LC 45, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1055, LC 1057, LC 1167
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
@@ -136,7 +136,7 @@ Topics included:
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
-  * Parentheses:  LC 20, LC 394, LC 856
+  * Parentheses:  LC 20, LC 394, LC 678, LC 856
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 839, LC 1055 (Sol 1)
     * Inverted Index of Suffix/Next Letter Pointer: LC 524, LC 792, LC 1055 (Sol 2)
