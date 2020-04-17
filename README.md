@@ -115,7 +115,7 @@ Topics included:
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1339
     * In-Out DP:  LC 1245 (Tree Diameter)
-  * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066
+  * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Broken Profile: LC 1349
   * Digit DP: LC 738, LC 902
   * Lexicographical Configuration: LC 60 (Find the kth permutation)
