@@ -53,8 +53,9 @@ Topics included:
   * x = change(x): LC 1325
   * N-ary Tree: LC 431 (Encode N-ary Tree to Binary Tree)
 6. Binary Search Tree: LC 98, LC 315, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
+  * Node's range management; LC 1008 (Construct BST from Preorder Traversal)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path:
