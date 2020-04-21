@@ -90,7 +90,7 @@ Topics included:
   * Rolling Hash: LC 1147, LC 1316
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
-  * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees)
+  * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 1379
 12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732
