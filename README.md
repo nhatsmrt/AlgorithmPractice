@@ -115,7 +115,7 @@ Topics included:
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Path: LC 741, LC 931
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 935, LC 1007, LC 1049, Abbreviation (HR)
-  * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1273, LC 1339, LC 1373
+  * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 834 (Sum of Distances in Tree)
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
