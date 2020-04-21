@@ -62,7 +62,7 @@ Topics included:
     * Dijkstra: LC 399, LC 743
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
-  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 437, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 993, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
+  * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 437, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
     * Flood Fill: LC 130, LC 695, LC 733, LC 200
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 773, LC 752, LC 785, LC 994, LC 1161
@@ -118,6 +118,7 @@ Topics included:
   * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 834 (Sum of Distances in Tree)
+  * DP on DAG: LC 1136 (Longest Path in DAG)
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Broken Profile: LC 1349
   * Digit DP: LC 738, LC 902
