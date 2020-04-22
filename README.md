@@ -183,18 +183,20 @@ Topics included:
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
   * Inverse Transform Sampling: LC 478 (Sol 2)
-24. Game:
+24. Approximation Algorithm:
+  * Approximate Set Membership (Bloom Filter): LC 287 (Sol 2)
+25. Game:
   * Minimax: LC 292, LC 375, LC 843
   * Nim: Introduction to Nim Game (HR)
-25. Concurrency:
+26. Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
   * Reentrant Locks: LC 1188 (Design Bounded Blocking Queue)
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1188 (Design Bounded Blocking Queue), LC 1195
   * Deadlock Resolution:
     * Resource Hierarchy: LC 1226 (The Dining Philosophers)
-26. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
-27. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
+27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
+28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
-28. Design Question: LC 379 (Design Phone Directory)
+29. Design Question: LC 379 (Design Phone Directory)
