@@ -55,7 +55,7 @@ Topics included:
 6. Binary Search Tree: LC 98, LC 315, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
-  * Node's range management; LC 1008 (Construct BST from Preorder Traversal)
+  * Node's range management: LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
 7. Graphs: LC 24
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path:
@@ -115,7 +115,7 @@ Topics included:
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Path: LC 741, LC 931
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 935, LC 1007, LC 1049, Abbreviation (HR)
-  * DP on Tree: LC 120, LC 337, LC 968, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
+  * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 968, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 834 (Sum of Distances in Tree)
   * DP on DAG: LC 1136 (Longest Path in DAG)
