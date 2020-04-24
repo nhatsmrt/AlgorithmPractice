@@ -2,7 +2,7 @@ class Solution:
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
         # Sort the jobs by date.
         # dp[i] = maximum profit from a subset of jobs[i:]
-        # dp[i] = max(dp[i + 1], dp[k])
+        # dp[i] = max(dp[i + 1], profit[i] + dp[k])
         # where k is the first job such that start[k] >= end[i]
         # (which can be found using binary search)
 
