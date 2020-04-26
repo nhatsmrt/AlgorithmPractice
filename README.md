@@ -129,7 +129,7 @@ Topics included:
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
   * Change of State Variable: LC 1218
-  * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1092 (Shortest Common Supersequence), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
+  * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1092 (Shortest Common Supersequence), LC 1143 (LCS), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
