@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 937, LC 969 (Pancake Sorting), LC 973
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 611, LC 937, LC 969 (Pancake Sorting), LC 973
     * Coordinate Compression: LC 327
   * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 1200 (Minimum Absolute Difference)
   * Bucket Sort: LC 164 (Maximum Gap), LC 220
