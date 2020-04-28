@@ -106,6 +106,8 @@ Topics included:
   * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
     * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
   * Sparse Table: LC 1335 (Sol 1)
+  * Sqrt Decomposition:
+    * Mo's Algorithm: LC 1310 (Sol 2)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 839, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
