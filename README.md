@@ -8,7 +8,7 @@ Topics included:
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 611, LC 937, LC 969 (Pancake Sorting), LC 973
     * Coordinate Compression: LC 327
     * Merge Sorted Array: LC 977
-  * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 1200 (Minimum Absolute Difference)
+  * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 833, LC 1200 (Minimum Absolute Difference)
   * Bucket Sort: LC 164 (Maximum Gap), LC 220
   * Radix Sort: LC 1163
   * Selection:
@@ -71,7 +71,7 @@ Topics included:
   * DFS: LC 116, LC 200 (Connected Components), LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 437, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability)
     * Flood Fill: LC 130, LC 695, LC 733, LC 200
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 773, LC 752, LC 785, LC 994, LC 1161
+  * BFS: LC 102, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 773, LC 752, LC 785, LC 994, LC 1161, LC 1345
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST):
     * Prim: HR
@@ -140,7 +140,7 @@ Topics included:
     * Indicator Variable Trick: CSES Inversion Probability
   * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 494
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String Algorithm: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
+16. String Algorithm: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 186, LC 344 (Reverse)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
