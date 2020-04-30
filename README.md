@@ -79,6 +79,7 @@ Topics included:
   * TSP:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
   * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
+  * Cycle Decomposition: LC 765
 8. Heap: LC 630, LC 1167
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
