@@ -51,7 +51,6 @@ class Solution:
                 next_ver = adj_lists[i][0]
 
                 while next_ver != i:
-
                     length += 1
                     visited.add(next_ver)
 
