@@ -30,7 +30,7 @@ Topics included:
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
-    * Boundary Count: Array Manipulation (HR), LC 731 (Java Sol)
+    * Boundary Count: LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol)
     * Difference Square: LC 250 (Count Univalue Subtrees)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III)
   * Sliding Window: LC 643, LC 1052
