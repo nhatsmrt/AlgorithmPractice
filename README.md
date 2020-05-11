@@ -11,7 +11,7 @@ Topics included:
   * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 833, LC 1200 (Minimum Absolute Difference)
   * Bucket Sort: LC 164 (Maximum Gap), LC 220
   * Radix Sort: LC 1163
-  * Selection:
+  * Selection: LC 296 (Geometric Median on Grid)
     * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
     * Parametric Search (Search for Optimal Solution): LC 367, LC 483, LC 774, LC 1231
@@ -193,6 +193,7 @@ Topics included:
     * Monotone Chain: LC 644 (Sol 2)
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
+  * Grid: LC 296 (Geometric Median on Grid)
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 978, LC 1004
 21. Ad Hoc: LC 54, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874
