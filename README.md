@@ -13,7 +13,7 @@ Topics included:
   * Radix Sort: LC 1163
   * Selection: LC 296 (Geometric Median on Grid)
     * QuickSelect: LC 462
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 493, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
     * Parametric Search (Search for Optimal Solution): LC 367, LC 483, LC 774, LC 1231
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
@@ -27,7 +27,7 @@ Topics included:
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 766, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 508, LC 525, LC 560, LC 644, LC 974, LC 1031, LC 1074, LC 1310, LC 1352
+  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 525, LC 560, LC 644, LC 974, LC 1031, LC 1074, LC 1310, LC 1352
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -200,7 +200,7 @@ Topics included:
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
-23. Randomized Algorithm: LC 384 (Shuffle an array, Fisher-Yates Algorithm), LC 528 (Random Pick with Weight), LC 710 (Random Pick with Blacklist), LC 1157 (Sol 2)
+23. Randomized Algorithm: LC 384 (Shuffle an array, Fisher-Yates Algorithm), LC 497 (Random Point in Non-overlapping Rectangles), LC 528 (Random Pick with Weight), LC 710 (Random Pick with Blacklist), LC 1157 (Sol 2)
   * Reservoir Sampling: LC 382
   * Rejection Sampling: LC 470, LC 478
   * Inverse Transform Sampling: LC 478 (Sol 2)
