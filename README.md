@@ -5,14 +5,14 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 611, LC 937, LC 969 (Pancake Sorting), LC 973
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 611, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976
     * Coordinate Compression: LC 327
     * Merge Sorted Array: LC 977
-  * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 833, LC 1200 (Minimum Absolute Difference)
-  * Bucket Sort: LC 164 (Maximum Gap), LC 220
-  * Radix Sort: LC 1163
-  * Selection: LC 296 (Geometric Median on Grid)
-    * QuickSelect: LC 462
+    * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 833, LC 1200 (Minimum Absolute Difference)
+    * Bucket Sort: LC 164 (Maximum Gap), LC 220
+    * Radix Sort: LC 1163
+    * Selection: LC 296 (Geometric Median on Grid)
+      * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
     * Parametric Search (Search for Optimal Solution): LC 367, LC 483, LC 774, LC 1231
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
