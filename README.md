@@ -213,7 +213,7 @@ Topics included:
 25. Game:
   * Minimax: LC 292, LC 375, LC 464, LC 843
   * Nim: Introduction to Nim Game (HR)
-26. Concurrency:
+26. Parallelism and Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195
   * Reentrant Locks: LC 1188 (Design Bounded Blocking Queue)
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1188 (Design Bounded Blocking Queue), LC 1195
@@ -221,6 +221,7 @@ Topics included:
     * Resource Hierarchy: LC 1226 (The Dining Philosophers)
   * Semaphore: LC 1117
   * Barrier: LC 1117
+  * MapReduce Framework: LintCode 499
 27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Frequency Estimator:
