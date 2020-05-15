@@ -24,7 +24,7 @@ Topics included:
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
     * Huffman Coding: LC 1199
-  * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1429
+  * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1429, LintCode 960
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 766, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -50,7 +50,7 @@ Topics included:
   * Stack: LC 20 (Valid Parentheses), LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 895 (Maximum Frequency Stacks), LC 946, LC 1019
     * Parentheses:  LC 20, LC 394, LC 856 (Score of Parentheses, Sol 1), LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 933, LC 1429
-  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907
+  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134
     * Deque: LC 503
@@ -221,9 +221,9 @@ Topics included:
     * Resource Hierarchy: LC 1226 (The Dining Philosophers)
   * Semaphore: LC 1117
   * Barrier: LC 1117
-  * MapReduce Framework: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
+  * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
 27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
-28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
+28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
