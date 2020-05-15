@@ -221,7 +221,7 @@ Topics included:
     * Resource Hierarchy: LC 1226 (The Dining Philosophers)
   * Semaphore: LC 1117
   * Barrier: LC 1117
-  * MapReduce Framework: LintCode 499
+  * MapReduce Framework: LintCode 499 (Word Count), LintCode 504 (Inverted Index)
 27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream)
   * Frequency Estimator:
