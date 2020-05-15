@@ -8,11 +8,9 @@ class PriorityQueue:
         self.data = data
         heapq.heapify(self.data)
         self.index = {}
-        # self.priority = {}
 
         for i in range(len(data)):
             self.index[self.data[i][1]] = i
-            # self.priority[self.data[i][1]] = data[i][0]
 
     def offer(self, priority: int, point: Tuple[int, int]):
         if len(self.data) == 0:
@@ -41,14 +39,12 @@ class PriorityQueue:
         return ret
 
     def decrease_priority(self, point: int, new_priority: int):
-        # self.priority[point] = new_priority
         i = self.index[point]
         self.data[i][0] = new_priority
         self.sift_up(i)
 
     def sift_up(self, i: int):
         if i != i // 2 and self.data[i // 2][0] > self.data[i][0]:
-            # swap i and i // 2:
             self.swap(i, i // 2)
             self.sift_up(i // 2)
 
@@ -119,4 +115,3 @@ class Solution:
     def potential(self, point):
         # return self.manhattan(point, self.target) / 3
         return self.euclidean(point, self.target) / math.sqrt(5)
-        
