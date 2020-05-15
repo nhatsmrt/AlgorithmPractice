@@ -62,7 +62,7 @@ Topics included:
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 431 (Encode N-ary Tree to Binary Tree)
-6. Binary Search Tree: LC 98, LC 315, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
+6. Binary Search Tree: LC 98, LC 315, LC 352, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 270 (Closest Binary Search Tree Value), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
   * Node's range management: LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
@@ -119,7 +119,7 @@ Topics included:
     * Mo's Algorithm: LC 1310 (Sol 2)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 839, LC 990, LC 1135 (Kruskal), LC 1168
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
@@ -223,7 +223,7 @@ Topics included:
   * Barrier: LC 1117
   * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
 27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
-28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LintCode 960 (First Unique Number in Data Stream)
+28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
