@@ -8,7 +8,7 @@ Topics included:
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 179, LC 280, LC 611, LC 881, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976
     * Coordinate Compression: LC 327
     * Merge Sorted Array: LC 977
-    * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 833, LC 1200 (Minimum Absolute Difference)
+    * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
     * Bucket Sort: LC 164 (Maximum Gap), LC 220
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
