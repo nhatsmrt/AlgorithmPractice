@@ -44,7 +44,7 @@ class SummaryRanges {
     }
 
     public int[][] getIntervals() {
-        // Time Complexity: O(N log N) per query
+        // Time Complexity: O(N) per query
         int[][] ret = new int[intervals.size()][2];
         int cnt = 0;
 
