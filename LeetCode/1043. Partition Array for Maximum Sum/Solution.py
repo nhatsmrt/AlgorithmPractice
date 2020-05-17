@@ -82,8 +82,6 @@ class Solution:
 
         ret = -1
         for j in range(len(self.sliding_max[i])):
-            # print(j)
-            # print(self.sliding_max[i][j])
             ret = max(ret, self.maxPartition(A, i - 1 - j) + (j + 1) * self.sliding_max[i][j])
 
         self.dp[i] = ret

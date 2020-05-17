@@ -81,7 +81,7 @@ Topics included:
   * Topological Sort: LC 269 (Kahn's Algorithm)
   * Minimum Spanning Tree (MST):
     * Prim: HR
-    * Kruskal: LC 1135, LC 1168
+    * Kruskal: LC 1135, LC 1168, LC 1319
   * TSP:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
   * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
@@ -118,7 +118,7 @@ Topics included:
   * Sparse Table: LC 1335 (Sol 1)
   * Sqrt Decomposition:
     * Mo's Algorithm: LC 1310 (Sol 2)
-13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 839, LC 990, LC 1135 (Kruskal), LC 1168
+13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 839, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
@@ -129,7 +129,7 @@ Topics included:
     * Fat Node:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation)
-15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 639, LC 714, LC 746, LC 790, LC 940, LC 1024, LC 1335 (Sol 1), LC 1359
+15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 639, LC 714, LC 746, LC 790, LC 940, LC 1024, LC 1043, LC 1335 (Sol 1), LC 1359
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 741, LC 931
