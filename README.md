@@ -24,7 +24,7 @@ Topics included:
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
     * Huffman Coding: LC 1199
-  * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1429, LintCode 960
+  * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 766, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -157,7 +157,7 @@ Topics included:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
 16. String Algorithm: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
-  * Basic Operations: LC 151, LC 186, LC 344 (Reverse)
+  * Basic Operations: LC 151, LC 186, LC 344 (Reverse), LC 1427 (String Shift)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
     * NFA: LC 44 (Wild Card Matching)
