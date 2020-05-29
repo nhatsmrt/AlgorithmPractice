@@ -173,7 +173,7 @@ Topics included:
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
-17. Bit Manipulation: LC 89 (Gray Code), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
+17. Bit Manipulation: LC 89 (Gray Code), LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * AND:
     * Checking active bits: LC 393
     * Turn off rightmost set bit (Brian Kernighan's): LC 201
