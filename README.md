@@ -173,11 +173,11 @@ Topics included:
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
-17. Bit Manipulation: LC 89 (Gray Code), LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
+17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * AND:
     * Checking active bits: LC 393
     * Turn off rightmost set bit (Brian Kernighan's): LC 201
-  * Bitwise XOR: LC 136 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
+  * Bitwise XOR: LC 136-137 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
     * Flip a bit (XOR with 1): LC 476 (Base 10 Complement) = LC 379
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
