@@ -102,7 +102,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 383, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916
-11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489
+11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Rolling Hash/String Polynomial Hash: LC 1044, LC 1147, LC 1316
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
@@ -179,6 +179,7 @@ Topics included:
     * Turn off rightmost set bit (Brian Kernighan's): LC 201
   * Bitwise XOR: LC 136-137 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
     * Flip a bit (XOR with 1): LC 476 (Base 10 Complement) = LC 379
+  * Bitset/Bitmap: LC 957
 18. Math:
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445
   * Algebra: LC 1276 (Number of Burgers with No Waste of Ingredients)
