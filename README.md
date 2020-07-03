@@ -34,7 +34,7 @@ Topics included:
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
     * Boundary Count: LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol)
     * Difference Square: LC 250 (Count Univalue Subtrees)
-  * Sliding Window: LC 643, LC 1052
+  * Sliding Window: LC 643, LC 1052, LC 1493
   * Cyclicity: LC 189 (Rotate Array)
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
