@@ -14,7 +14,7 @@ Topics included:
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
-    * Parametric Search (Search for Optimal Solution): LC 275, LC 367, LC 483, LC 774, LC 1231
+    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 774, LC 1231
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
@@ -57,7 +57,7 @@ Topics included:
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 114 (Flatten), LC 124, LC 129, LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 543 (Diameter), LC 617 (Merge Two Trees), LC 863 (All Nodes Distance K in Binary Tree), LC 889 (BT from Preorder and Postorder), LC 988, LC 1110, LC 1120 (Maximum Average Subtree), Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 987 (Vertical Order), LC 1214
-    * Binary Code: LC 662 (Maximum Width of Binary Tree)
+    * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
   * Euler Tour/Tree Flattening: LC 250, LC 508
   * LCA: LC 235 (BST), LC 236
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
