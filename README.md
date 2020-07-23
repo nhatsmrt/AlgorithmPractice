@@ -177,8 +177,8 @@ Topics included:
 17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
   * AND:
     * Checking active bits: LC 393
-    * Turn off rightmost set bit (Brian Kernighan's): LC 201
-  * Bitwise XOR: LC 136-137 (Single Number), LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
+    * Check/Turn off rightmost set bit (Brian Kernighan's): LC 201, LC 260
+  * Bitwise XOR: LC 136-137 (Single Number), LC 260, LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), Introduction to Nim Game (HR)
     * Flip a bit (XOR with 1): LC 476 (Base 10 Complement) = LC 379
   * Bitset/Bitmap: LC 957
 18. Math:
