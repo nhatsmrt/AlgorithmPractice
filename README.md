@@ -97,7 +97,7 @@ Topics included:
   * Trie on Binary Representations: LC 421 (Maximum XOR of Two Numbers in an Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
 10. Set, Map (Dictionary)
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056, LC 1152, LC 1396
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056, LC 1152, LC 1396
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 244, LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074, LC 1157
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
@@ -157,7 +157,7 @@ Topics included:
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String Algorithm: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 709 (To Lower Case), LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
+16. String Algorithm: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 186, LC 344 (Reverse), LC 1427 (String Shift)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
