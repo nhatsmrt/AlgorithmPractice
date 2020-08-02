@@ -104,6 +104,7 @@ Topics included:
   * Multiset: LC 692, LC 904
   * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 383, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
+  * Separate Chaining: LC 705 (Design Hash Set)
   * Rolling Hash/String Polynomial Hash: LC 1044, LC 1147, LC 1316
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
