@@ -188,7 +188,7 @@ Topics included:
   * Algebra: LC 1276 (Number of Burgers with No Waste of Ingredients)
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 1137 (N-th Tribonacci Number)
-  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern), LC 1359
+  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
     * Pigeonhole Principle: LC 523
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 1175, LC 1497
