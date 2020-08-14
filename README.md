@@ -102,7 +102,7 @@ Topics included:
     * Inverted Index: LC 244, LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074, LC 1157
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Multiset: LC 692, LC 904
-  * Frequency Map/Histogram: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 383, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916
+  * Frequency Map/Histogram/Counter: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
   * Rolling Hash/String Polynomial Hash: LC 1044, LC 1147, LC 1316
@@ -166,7 +166,7 @@ Topics included:
     * NFA: LC 44 (Wild Card Matching)
     * Knuth-Morris-Pratt (KMP): LC 28, LC 1367 (Linked List in Binary Tree)
     * Regex: LC 10, LC 44 (Wild Card Matching), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819
-  * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
+  * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 678, LC 856
