@@ -20,7 +20,7 @@ Topics included:
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 247, LC 465 (Optimal Account Balancing), LC 489, LC 797 (All Paths From Source to Target), LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
-  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167
+  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
     * Huffman Coding: LC 1199
@@ -204,7 +204,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid)
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 978, LC 1004
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 713, LC 727, LC 739, LC 763, LC 904, LC 905, LC 978, LC 1004
 21. Ad Hoc: LC 54, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874, LC 1041
 22. Compression Algorithm:
