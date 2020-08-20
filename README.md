@@ -34,7 +34,7 @@ Topics included:
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
     * Boundary Count: LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol)
     * Difference Square: LC 250 (Count Univalue Subtrees)
-  * Sliding Window: LC 643, LC 1052, LC 1169, LC 1493
+  * Sliding Window: LC 643, LC 1052, LC 1169, LC 1438, LC 1493
   * Cyclicity: LC 189 (Rotate Array)
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
@@ -101,7 +101,8 @@ Topics included:
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 244, LC 325, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1055, LC 1074, LC 1157
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
-  * Multiset: LC 692, LC 904
+  * Sorted Set/Map: LC 1438
+  * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1169
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
