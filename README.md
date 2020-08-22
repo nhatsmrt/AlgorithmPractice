@@ -39,6 +39,7 @@ Topics included:
   * Cyclicity: LC 189 (Rotate Array)
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
+  * Self-Modification for Membership Check via Sign: LC 448 
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445, LC 817, LC 1265
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
