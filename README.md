@@ -95,7 +95,7 @@ Topics included:
    * Partial Heapsort (for top K): LC 692
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * K Way Merge: LC 378 (Kth Smallest Element in a Sorted Matrix)
-9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
   * Trie on Binary Representations: LC 421 (Maximum XOR of Two Numbers in an Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
 10. Set, Map (Dictionary)
