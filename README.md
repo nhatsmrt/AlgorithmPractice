@@ -26,7 +26,7 @@ Topics included:
     * Huffman Coding: LC 1199
     * Digits: LC 670
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
-2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 766, LC 896, LC 941, LC 1089
+2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 717, LC 766, LC 896, LC 941, LC 1089
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), LC 498 (Diagonal Traverse), Rotate left (HR)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
   * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 560, LC 644, LC 918, LC 974, LC 1031, LC 1074, LC 1310, LC 1352
@@ -92,7 +92,7 @@ Topics included:
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
-   * Partial Heapsort (for top K): LC 692, LC 1086
+   * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * K Way Merge: LC 378 (Kth Smallest Element in a Sorted Matrix)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
@@ -234,7 +234,7 @@ Topics included:
   * Barrier: LC 1117
   * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
 27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
-28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LintCode 960 (First Unique Number in Data Stream)
+28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LC 703 (Kth Largest Element in a Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
