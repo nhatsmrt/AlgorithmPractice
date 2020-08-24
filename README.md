@@ -92,7 +92,7 @@ Topics included:
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
-   * Partial Heapsort (for top K): LC 692
+   * Partial Heapsort (for top K): LC 692, LC 1086
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * K Way Merge: LC 378 (Kth Smallest Element in a Sorted Matrix)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
