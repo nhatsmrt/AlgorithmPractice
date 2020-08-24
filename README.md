@@ -225,7 +225,7 @@ Topics included:
   * Minimax: LC 292, LC 375, LC 464, LC 843
   * Nim: Introduction to Nim Game (HR)
 26. Parallelism and Concurrency:
-  * Locks: LC 1114, LC 1115, LC 1116, LC 1195
+  * Locks: LC 1114, LC 1115, LC 1116, LC 1195, LC 1242 (Web Crawler Multithreaded)
   * Reentrant Locks: LC 1188 (Design Bounded Blocking Queue)
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1188 (Design Bounded Blocking Queue), LC 1195
   * Deadlock Resolution:
