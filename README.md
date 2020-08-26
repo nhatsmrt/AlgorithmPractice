@@ -75,7 +75,7 @@ Topics included:
 7. Graphs: LC 24, LC 997
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path:
-    * Dijkstra: LC 399, LC 743
+    * Dijkstra: LC 399, LC 505, LC 743
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
