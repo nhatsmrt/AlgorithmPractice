@@ -14,7 +14,7 @@ Topics included:
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
-    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 774, LC 1231, LC 1283
+    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 774, LC 1231, LC 1283
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
@@ -111,7 +111,7 @@ Topics included:
   * Frequency Map/Histogram/Counter: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1169
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
-  * Rolling Hash/String Polynomial Hash: LC 1044, LC 1147, LC 1316
+  * Rolling Hash/String Polynomial Hash: LC 718 (Solution 2), LC 1044, LC 1147, LC 1316
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
   * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 1379
