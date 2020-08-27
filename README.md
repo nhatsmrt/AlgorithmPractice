@@ -26,7 +26,7 @@ Topics included:
     * Huffman Coding: LC 1199
     * Digits: LC 670
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
-2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 717, LC 766, LC 896, LC 941, LC 1089
+2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 717, LC 766, LC 896, LC 941, LC 1089, LC 1470
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), Rotate left (HR)
   * Diagonal:
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
@@ -104,7 +104,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056, LC 1152, LC 1396
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 244, LC 325, LC 403, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1157
+    * Inverted Index: LC 244, LC 325, LC 403, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157
   * Set: LC 128, LC 217 (Contains Duplicate), LC 356, LC 380 (Randomized Set), LC 771
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
@@ -128,7 +128,7 @@ Topics included:
     * Mo's Algorithm: LC 1310 (Sol 2)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 839, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1272 (Remove Interval)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
