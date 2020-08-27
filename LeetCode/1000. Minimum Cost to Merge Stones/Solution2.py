@@ -7,6 +7,9 @@ class Solution:
             return -1
 
         dp = [[-1 for j in range(len(stones))] for i in range(len(stones))]
+
+        # DP[i][j] = minimum cost to reduce stones[i] to stones[j] to minimum number of piles
+
         prefix = [0] + list(itertools.accumulate(stones))
 
         for l in range(1, K):
