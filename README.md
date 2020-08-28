@@ -207,7 +207,7 @@ Topics included:
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials: LC 43 (Multiply Strings)
   * Probability: LC 688, Dice Probability (CSES)
-19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 356, LC 1232 (Check Straight Line), LC 1344
+19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 356, LC 593 (Valid Square), LC 1232 (Check Straight Line), LC 1344
   * Convex Hull (Graham Scan): LC 587,
     * Monotone Chain: LC 644 (Sol 2)
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
