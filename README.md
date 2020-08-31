@@ -105,6 +105,7 @@ Topics included:
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056, LC 1152, LC 1396
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 244, LC 325, LC 403, LC 496, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157
+    * Bidirectional Map (BiMap): LC 205
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
