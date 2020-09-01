@@ -168,7 +168,7 @@ Topics included:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
 16. String: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
-  * Basic Operations: LC 151, LC 186, LC 344 (Reverse), LC 1427 (String Shift)
+  * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 1427 (String Shift)
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
     * NFA: LC 44 (Wild Card Matching)
@@ -198,8 +198,9 @@ Topics included:
     * Arithmetic Progression: LC 1103
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 1137 (N-th Tribonacci Number)
-  * Combinatorics: LC 31 (Next Permutation), LC 46 (Permutations), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
+  * Combinatorics: LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
     * Pigeonhole Principle: LC 523
+    * Permutation: LC 31 (Next Permutation), LC 46 (Permutations), LC 949
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
   * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 1175, LC 1497
     * Number Systems: LC 166(Fraction to Recurring Decimal)
@@ -238,7 +239,7 @@ Topics included:
   * Semaphore: LC 1117
   * Barrier: LC 1117
   * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
-27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time)
+27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time), LC 949 (Largest Time for Given Digits)
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LC 703 (Kth Largest Element in a Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
