@@ -47,7 +47,7 @@ Topics included:
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
   * Doubly Linked List: LC 146, LC 432, Reverse Doubly Linked List (HR)
-  * Circularly Linked List
+  * Circularly Linked List: LC 281 (Zigzag Iterator)
   * Slow Fast Pointer: LC 287, LC 876 (Middle of the Linked List)
   * Multi-Level: LC 430 (Flatten)
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
