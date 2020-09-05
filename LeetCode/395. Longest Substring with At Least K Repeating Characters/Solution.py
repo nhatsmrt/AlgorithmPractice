@@ -6,7 +6,7 @@ def get_char(ind) -> str:
 
 class Solution:
     def longestSubstring(self, s: str, k: int) -> int:
-        # Time and Space Complexity: O(N^2) (worst case)
+        # Time and Space Complexity: O(N) (worst case, since there is at most 26 levels, and total number of work per level is O(N))
 
         cum_freq = [[0 for _ in range(26)] for i in range(len(s) + 1)]
         for i in range(1, len(s) + 1):
