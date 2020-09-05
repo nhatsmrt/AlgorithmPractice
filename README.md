@@ -19,7 +19,7 @@ Topics included:
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 247, LC 465 (Optimal Account Balancing), LC 489, LC 797 (All Paths From Source to Target), LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
-  * Divide and Conquer: LC 23, LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
+  * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
@@ -110,6 +110,7 @@ Topics included:
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
+    * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
   * Rolling Hash/String Polynomial Hash: LC 718 (Solution 2), LC 1044, LC 1147, LC 1316
