@@ -52,7 +52,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 20 (Valid Parentheses), LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 735, LC 889, LC 895 (Maximum Frequency Stacks), LC 946, LC 1019, LC 1441
+  * Stack: LC 20 (Valid Parentheses), LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 889, LC 895 (Maximum Frequency Stacks), LC 946, LC 1019, LC 1441
     * Parentheses:  LC 20, LC 394, LC 856 (Score of Parentheses, Sol 1), LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 933, LC 1043, LC 1429
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907, LintCode 960
@@ -169,7 +169,7 @@ Topics included:
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
+16. String: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1427 (String Shift)
   * Longest Prefix Suffix: LC 459
   * Search: LC 616 (Sol 1)
