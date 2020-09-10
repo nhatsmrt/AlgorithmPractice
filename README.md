@@ -110,7 +110,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 159, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
+  * Frequency Map/Histogram/Counter: LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
