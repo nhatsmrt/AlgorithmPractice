@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1288
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1196, LC 1288
     * Coordinate Compression: LC 327
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -13,7 +13,7 @@ Topics included:
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array)
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1196
     * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 774, LC 1231, LC 1283
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
@@ -32,7 +32,7 @@ Topics included:
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 560, LC 644, LC 918, LC 974, LC 1031, LC 1074, LC 1310, LC 1352, LC 1480
+  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 560, LC 644, LC 918, LC 974, LC 1031, LC 1074, LC 1196, LC 1310, LC 1352, LC 1480
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -169,7 +169,7 @@ Topics included:
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String: LC 3, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
+16. String: LC 3, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle), LC 1271
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1112 (Remove Vowels), LC 1427 (String Shift)
   * Longest Prefix Suffix: LC 459
   * Search: LC 616 (Sol 1)
@@ -183,7 +183,7 @@ Topics included:
   * Parentheses:  LC 20, LC 394, LC 678, LC 856
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 839, LC 1055 (Sol 1)
-    * Inverted Index of Suffix/Next Letter Pointer: LC 524, LC 792, LC 1055 (Sol 2)
+    * Inverted Index of Suffix/Next Letter Pointer: LC 524, LC 792, LC 1055 (Sol 2), LC 1180
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
@@ -220,7 +220,7 @@ Topics included:
   * Grid: LC 296 (Geometric Median on Grid)
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 713, LC 727, LC 739, LC 763, LC 849, LC 904, LC 905, LC 978, LC 1004
 21. Ad Hoc: LC 54, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874, LC 1041
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874, LC 1041, LC 1243
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
