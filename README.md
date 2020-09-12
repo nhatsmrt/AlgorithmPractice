@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 937, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1288
     * Coordinate Compression: LC 327
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -20,7 +20,7 @@ Topics included:
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 247, LC 282, LC 465 (Optimal Account Balancing), LC 489, LC 797 (All Paths From Source to Target), LC 980, LC 1219, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
-  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167
+  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167, LC 1288
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
     * Huffman Coding: LC 1199
@@ -131,7 +131,7 @@ Topics included:
     * Mo's Algorithm: LC 1310 (Sol 2)
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
-  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1272 (Remove Interval)
+  * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1288, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
@@ -169,7 +169,7 @@ Topics included:
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String: LC 3, LC 115, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
+16. String: LC 3, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle)
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1112 (Remove Vowels), LC 1427 (String Shift)
   * Longest Prefix Suffix: LC 459
   * Search: LC 616 (Sol 1)
