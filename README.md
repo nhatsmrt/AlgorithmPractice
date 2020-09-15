@@ -69,7 +69,7 @@ Topics included:
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 1490 (Clone N-ary Tree)
 6. Binary Search Tree: LC 98, LC 315, LC 352, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 700 (Search), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510,  LC 700 (Search), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
   * Node's range management: LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
 7. Graphs: LC 24, LC 997
@@ -169,7 +169,7 @@ Topics included:
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
-16. String: LC 3, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle), LC 1271
+16. String: LC 3, LC 58, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 824, LC 833, LC 844, LC 916, LC 929, LC 1108, LC 1181 (Before and After Puzzle), LC 1271
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1112 (Remove Vowels), LC 1427 (String Shift)
   * Longest Prefix Suffix: LC 459
   * Search: LC 616 (Sol 1)
@@ -220,7 +220,7 @@ Topics included:
   * Grid: LC 296 (Geometric Median on Grid)
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 713, LC 727, LC 739, LC 763, LC 849, LC 904, LC 905, LC 978, LC 1004
 21. Ad Hoc: LC 54, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 657, LC 874, LC 1041, LC 1243
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 657, LC 874, LC 1041, LC 1243
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
