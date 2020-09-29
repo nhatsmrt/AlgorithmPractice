@@ -69,7 +69,7 @@ Topics included:
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 1490 (Clone N-ary Tree)
 6. Binary Search Tree: LC 98, LC 315, LC 352, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
-  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510,  LC 700 (Search), LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
+  * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510, LC 530, LC 700 (Search), LC 783, LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
   * Node's range management: LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
 7. Graphs: LC 24, LC 997
@@ -108,9 +108,10 @@ Topics included:
     * Inverted Index: LC 244, LC 325, LC 403, LC 496, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157
     * Bidirectional Map (BiMap): LC 205
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
+    * Deduplication: LC 532
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
+  * Frequency Map/Histogram/Counter: LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
