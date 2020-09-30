@@ -43,7 +43,7 @@ Topics included:
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
   * Use nums[abs(num) - 1] as flag for num: LC 442, LC 448
-3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 445, LC 817, LC 1265
+3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 379, LC 445, LC 817, LC 1265
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
   * Doubly Linked List: LC 146, LC 432, Reverse Doubly Linked List (HR)
@@ -109,6 +109,7 @@ Topics included:
     * Bidirectional Map (BiMap): LC 205
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532
+    * Existence: LC 379
   * Sorted Set/Map: LC 1438
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169
