@@ -98,7 +98,7 @@ Topics included:
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
-  * K Way Merge: LC 378 (Kth Smallest Element in a Sorted Matrix)
+  * K Way Merge: LC 355 (Design Twitter), LC 378 (Kth Smallest Element in a Sorted Matrix)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
   * Trie on Binary Representations: LC 421 (Maximum XOR of Two Numbers in an Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
@@ -249,4 +249,4 @@ Topics included:
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
-29. Design Question: LC 379 (Phone Directory), LC 1244 (Leaderboard), LC 1472 (Browser History)
+29. Design Question: LC 355 (Twitter), LC 379 (Phone Directory), LC 1244 (Leaderboard), LC 1472 (Browser History)
