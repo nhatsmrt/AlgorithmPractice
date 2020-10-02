@@ -85,6 +85,7 @@ Topics included:
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1161, LC 1236, LC 1345
   * Topological Sort: LC 269 (Kahn's Algorithm)
+    * Incremental Computation: LC 631 (Excel Sum Formula)
   * Minimum Spanning Tree (MST):
     * Prim: HR
     * Kruskal: LC 1135, LC 1168, LC 1319
@@ -249,4 +250,4 @@ Topics included:
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
-29. Design Question: LC 355 (Twitter), LC 379 (Phone Directory), LC 1244 (Leaderboard), LC 1472 (Browser History)
+29. Design Question: LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1244 (Leaderboard), LC 1472 (Browser History)
