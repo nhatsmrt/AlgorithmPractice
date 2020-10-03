@@ -65,7 +65,7 @@ Topics included:
     * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
   * Euler Tour/Tree Flattening: LC 250, LC 508
   * LCA: LC 235 (BST), LC 236
-  * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System)
+  * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 1490 (Clone N-ary Tree)
 6. Binary Search Tree: LC 98, LC 315, LC 352, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
@@ -250,4 +250,4 @@ Topics included:
   * Frequency Estimator:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
-29. Design Question: LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1244 (Leaderboard), LC 1472 (Browser History)
+29. Design Question: LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1166 (File System), LC 1244 (Leaderboard), LC 1472 (Browser History)
