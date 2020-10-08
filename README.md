@@ -13,7 +13,7 @@ Topics included:
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1196
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 704, LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1196
     * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 774, LC 1231, LC 1283
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
