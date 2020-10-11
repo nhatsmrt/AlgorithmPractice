@@ -186,7 +186,7 @@ Topics included:
   * Parentheses:  LC 20, LC 394, LC 678, LC 856
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 839, LC 1055 (Sol 1)
-    * Inverted Index of Suffix/Next Letter Pointer: LC 524, LC 792, LC 1055 (Sol 2), LC 1180
+    * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
