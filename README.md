@@ -168,7 +168,7 @@ Topics included:
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 494
-  * Minimax DP: LC 294, LC 375, LC 464, LC 486
+  * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 1510
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), Knuth's Text Justification/Word Wrap (GFG)
@@ -234,7 +234,7 @@ Topics included:
 24. Approximation Algorithm:
   * Approximate Set Membership (Bloom Filter): LC 287 (Sol 2)
 25. Game:
-  * Minimax: LC 292, LC 375, LC 464, LC 843
+  * Minimax: LC 292, LC 375, LC 464, LC 843, LC 1510
   * Nim: Introduction to Nim Game (HR)
 26. Parallelism and Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195, LC 1242 (Web Crawler Multithreaded)
