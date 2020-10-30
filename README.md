@@ -6,7 +6,7 @@ Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 937, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1196, LC 1288
-    * Coordinate Compression: LC 327
+    * Coordinate Compression: LC 327, LC 673
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
     * Bucket Sort: LC 164 (Maximum Gap), LC 220
@@ -124,7 +124,7 @@ Topics included:
 12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732
-    * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327
+    * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327, LC 673
     * Lazy Propagation: LC 715, LC 699
     <!-- * Lazy Propagation: LC 732 -->
   * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
