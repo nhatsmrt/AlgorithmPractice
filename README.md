@@ -43,7 +43,7 @@ Topics included:
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
   * Use nums[abs(num) - 1] as flag for num: LC 442, LC 448
-3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 379, LC 445, LC 817, LC 1265
+3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 379, LC 445, LC 817, LC 1265, LC 1290
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
   * Doubly Linked List: LC 146, LC 432, Reverse Doubly Linked List (HR)
@@ -191,7 +191,7 @@ Topics included:
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
-17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance)
+17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 1290
   * AND:
     * Checking active bits: LC 393
     * Check/Turn off rightmost set bit (Brian Kernighan's): LC 201, LC 260
