@@ -222,7 +222,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid)
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 708, LC 713, LC 727, LC 739, LC 763, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 708, LC 713, LC 727, LC 739, LC 763, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446
 21. Ad Hoc: LC 54, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 657, LC 799, LC 874, LC 1041, LC 1243
 22. Compression Algorithm:
