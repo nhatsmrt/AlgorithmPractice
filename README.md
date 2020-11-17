@@ -209,7 +209,7 @@ Topics included:
     * Pigeonhole Principle: LC 523
     * Permutation: LC 31 (Next Permutation), LC 46 (Permutations), LC 949
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
-  * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 1175, LC 1497
+  * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 858, LC 1175, LC 1497
     * Number Systems: LC 166(Fraction to Recurring Decimal)
     * p-adic: LC 172 (Factorial Trailing Zeros; Legendre's Theorem)
     * Primes: O(sqrt(n)) test (HR)
