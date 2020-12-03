@@ -107,7 +107,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 311, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 981, LC 1056, LC 1152, LC 1396
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 244, LC 325, LC 403, LC 496, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157
+    * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 403, LC 496, LC 524, LC 525, LC 609 (Find Duplicate File in System), LC 697, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157
     * Bidirectional Map (BiMap): LC 205
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 804, LC 859
@@ -222,7 +222,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid)
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 708, LC 713, LC 727, LC 739, LC 763, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 708, LC 713, LC 727, LC 739, LC 763, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446
 21. Ad Hoc: LC 54, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 657, LC 799, LC 874, LC 1041, LC 1243
 22. Compression Algorithm:
