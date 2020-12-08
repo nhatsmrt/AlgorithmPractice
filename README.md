@@ -114,7 +114,7 @@ Topics included:
     * Existence: LC 379
   * Sorted Set/Map: LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1169, LC 1603
+  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1010, LC 1169, LC 1603
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
@@ -209,7 +209,7 @@ Topics included:
     * Pigeonhole Principle: LC 523
     * Permutation: LC 31 (Next Permutation), LC 46 (Permutations), LC 949
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
-  * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 858, LC 1015, LC 1175, LC 1492, LC 1497
+  * Number Theory: LC 204 (Count Primes, Sieve Method), LC 254 (Factor Combinations), LC 258, LC 268, LC 365 (Water and Jug), LC 523, LC 780, LC 829 (Consecutive Numbers Sum), LC 858, LC 1010, LC 1015, LC 1175, LC 1492, LC 1497
     * Number Systems: LC 166(Fraction to Recurring Decimal)
     * p-adic: LC 172 (Factorial Trailing Zeros; Legendre's Theorem)
     * Primes: O(sqrt(n)) test (HR)
