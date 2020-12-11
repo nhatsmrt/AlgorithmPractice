@@ -28,7 +28,7 @@ Topics included:
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 453, LC 624, LC 717, LC 766, LC 835 (Convolution), LC 896, LC 941, LC 1089, LC 1431, LC 1470
   * Basic Operations: LC 27 (removeAll), LC 48 (Rotate Image), LC 84, LC 108 (Sorted Array to BST), LC 238, LC 832 (Flipping an Image), LC 349 (Intersection), Rotate left (HR)
-  * Diagonal:
+  * Diagonal: LC 1572
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
@@ -168,7 +168,7 @@ Topics included:
   * Longest Increasing Subsequence (LIS): LC 300, LC 354
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
-  * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 494
+  * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 494, LC 1223
   * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 1510
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
