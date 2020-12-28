@@ -1,5 +1,8 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
+        # Time complexity: O(N)
+        # Space complexity: O(1)
+
         if len(nums) < 3:
             return False
 

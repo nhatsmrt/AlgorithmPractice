@@ -14,7 +14,7 @@ Topics included:
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 702 (Search in a Sorted Array of Unknown Size), LC 704, LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1196
-    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 774, LC 1231, LC 1283
+    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 1231, LC 1283
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
@@ -201,7 +201,7 @@ Topics included:
 18. Math: LC 670, LC 1041, LC 1217
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 171, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445, LC 1281
   * Algebra: LC 458, LC 1276 (Number of Burgers with No Waste of Ingredients)
-    * Quadratic Equation: LC 1103
+    * Quadratic Equation: LC 754 (Solution 2), LC 1103
     * Arithmetic Progression: LC 1103, LC 1228
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 1137 (N-th Tribonacci Number)
