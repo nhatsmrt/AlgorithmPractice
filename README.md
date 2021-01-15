@@ -80,7 +80,7 @@ Topics included:
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 329, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1457
+  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1457
     * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph)
     * Flood Fill: LC 130, LC 200, LC 529 (Minesweeper), LC 695, LC 733, LC 934
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
@@ -136,7 +136,7 @@ Topics included:
 13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1288, LC 1272 (Remove Interval)
-  * Nested List: LC 341 (Flatten Iterator), LC 364 (Nested List Weight Sum II)
+  * Nested List: LC 341 (Flatten Iterator), LC 339 (Nested List Weight Sum), LC 364 (Nested List Weight Sum II)
   * Skiplist: LC 1206 (Design Skiplist)
   * Cartesian Tree:
     * Construction: LC 654 (Maximum Binary Tree)
@@ -224,7 +224,7 @@ Topics included:
   * Grid: LC 296 (Geometric Median on Grid)
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 457, LC 484, LC 708, LC 713, LC 727, LC 739, LC 763, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658
 21. Ad Hoc: LC 54, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 657, LC 799, LC 874, LC 1041, LC 1243
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 657, LC 799, LC 874, LC 1041, LC 1243, LC 1646
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
