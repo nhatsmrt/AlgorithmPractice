@@ -159,7 +159,7 @@ Topics included:
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
     * Broken Profile: LC 1349
-  * Digit DP: LC 600, LC 738, LC 902, LC 967
+  * Digit DP: LC 600, LC 738, LC 902, LC 967, LC 1641
   * Lexicographical Configuration: LC 60 (Find the kth permutation)
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
