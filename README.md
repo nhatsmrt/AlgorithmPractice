@@ -113,7 +113,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 804, LC 859, LC 1207
     * Existence: LC 379
-  * Sorted Set/Map: LC 1438, LC 1500
+  * Sorted Set/Map: LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1010, LC 1169, LC 1207, LC 1457, LC 1603, LC 1649, LC 1657, LC 1679
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
@@ -199,7 +199,7 @@ Topics included:
   * Bitwise XOR: LC 136-137 (Single Number), LC 260, LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), LC 1506, Introduction to Nim Game (HR)
     * Flip a bit (XOR with 1): LC 476 (Base 10 Complement) = LC 379
   * Bitset/Bitmap: LC 957
-  * Concatenation (`<<` then `|`): LC 1680 
+  * Concatenation (`<<` then `|`): LC 1680
 18. Math: LC 670, LC 1041, LC 1217
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 171, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445, LC 1281
   * Algebra: LC 458, LC 1276 (Number of Burgers with No Waste of Ingredients)
@@ -254,4 +254,4 @@ Topics included:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
     * Sliding Window Top K: LC 1383
-29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1166 (File System), LC 1244 (Leaderboard), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System)
+29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System)
