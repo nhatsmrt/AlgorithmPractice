@@ -113,7 +113,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 804, LC 859, LC 1207
     * Existence: LC 379
-  * Sorted Set/Map: LC 1348 (Solution 2), LC 1438, LC 1500
+  * Sorted Set/Map: LC 635 (Solution 2), LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 532, LC 697, LC 819, LC 895 (Maximum Frequency Stack), LC 916, LC 1002, LC 1010, LC 1169, LC 1207, LC 1457, LC 1603, LC 1649, LC 1657, LC 1679
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
@@ -254,4 +254,4 @@ Topics included:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
     * Sliding Window Top K: LC 1383
-29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System)
+29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System)
