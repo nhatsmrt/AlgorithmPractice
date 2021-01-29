@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1196, LC 1288, LC 1365, LC 1383
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -23,7 +23,7 @@ Topics included:
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 910, LC 945, LC 948, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167, LC 1217, LC 1288, LC 1383
     * Packing: LC 881
-    * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons)
+    * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
     * Huffman Coding: LC 1199
     * Digits: LC 670, LC 1663
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
@@ -149,7 +149,7 @@ Topics included:
   * Prefix/Suffix State Space: LC 276, LC 983
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
-  * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 931, LC 1463
+  * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 931, LC 1463
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 968, LC 1026, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
