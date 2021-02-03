@@ -207,7 +207,7 @@ Topics included:
     * Arithmetic Progression: LC 1103, LC 1228
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 509 (Fibonacci Number), LC 1137 (N-th Tribonacci Number)
-  * Combinatorics: LC 47 (Permutation II), LC 77 (Combinations), LC 78 (Subsets), LC 119 (Pascal's Triangle II), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
+  * Combinatorics: LC 47 (Permutation II), LC 77 (Combinations), LC 78 (Subsets), LC 118-119 (Pascal's Triangle), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
     * Pigeonhole Principle: LC 523
     * Permutation: LC 31 (Next Permutation), LC 46 (Permutations), LC 526, LC 556, LC 949
   * Puzzles: LC 289 (Conway's Game of Life), LC 319
