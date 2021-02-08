@@ -83,7 +83,7 @@ Topics included:
     * A*: LC 1197
   * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1457, LC 1631
     * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph)
-    * Flood Fill: LC 130, LC 200, LC 529 (Minesweeper), LC 695, LC 733, LC 934
+    * Flood Fill: LC 130, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 934
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 515, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1161, LC 1236, LC 1345, LC 1602
   * Topological Sort: LC 269 (Kahn's Algorithm)
@@ -122,7 +122,7 @@ Topics included:
   * Rolling Hash/String Polynomial Hash: LC 187, LC 718 (Solution 2), LC 1044, LC 1147, LC 1316
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
-  * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 1379
+  * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 694, LC 1379
 12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732, LC 1649
