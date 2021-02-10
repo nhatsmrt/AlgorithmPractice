@@ -7,16 +7,17 @@ class Solution:
         # the first and the last occurence of the char of u
 
         # Now note that if we pick the char corresponding to a node u
-        # then we need to pick the characters corresponding to all the nodes it can reached.
+        # then we cannot pick any node that it can reach.
         # However, there might be cycles, complicating the selection process.
 
         # Use Kosaraju's algorithm to find strongly connected components (SCCs) of this graph
         # then collapse it into a directed acyclic graph (DAG) of SCCs
 
-        # The problem becomes selecting nodes (i.e SCCs) in this DAG
-        # The observation still holds: if we pick a node u then we need to pick all the nodes it can reached
+        # The problem becomes selecting the maximum number of nodes (i.e SCCs) in this DAG
+        # such that: if we pick a node u then we cannot pick any of its descendants
 
-        # So selecting the node with no out-neighbors is optimal.
+        # So selecting the node with no out-neighbors is optimal
+        # both in the number of nodes selected and the total length of the resulting strings.
 
         index = {}
 
