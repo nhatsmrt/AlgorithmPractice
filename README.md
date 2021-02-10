@@ -129,6 +129,7 @@ Topics included:
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732, LC 1649
     * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327, LC 673, LC 1649
     * Lazy Propagation: LC 715, LC 699
+    * 2D Segment Tree:  LC 427 (Construct Quad Tree)
     <!-- * Lazy Propagation: LC 732 -->
   * Fenwick Tree/Binary Indexed Tree (BIT): LC 307 (Range Sum Query Mutable, Sol 2)
     * 2D BIT: LC 308 (Range Sum Query 2D - Mutable)
