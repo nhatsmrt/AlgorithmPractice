@@ -14,7 +14,7 @@ Topics included:
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462
   * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 875, LC 887 (Egg Drop), LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1196
-    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 1231, LC 1283, LC 1631
+    * Parametric Search (Search for Optimal Solution): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 1231, LC 1283, LC 1337, LC 1631
     * Exponential Search (Search over unbounded list): LC 702 (Search in a Sorted Array of Unknown Size)
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist), LC 1539 (Kth Missing Positive Number)
@@ -60,7 +60,7 @@ Topics included:
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 1673
     * Deque: LC 503
-5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
+5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 669 (Trim), LC 742 (Closest Leaf), LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1457, LC 1602 (Nearest Right Node), LC 1660, Optimal BST (GFG)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 897, LC 987 (Vertical Order), LC 1214
     * Morris Traversal: LC 99 (Sol 2)
@@ -81,7 +81,7 @@ Topics included:
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1457, LC 1631
+  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 582, LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1457, LC 1631
     * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph)
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
     * Flood Fill: LC 130, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 934
@@ -100,7 +100,7 @@ Topics included:
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
-   * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086
+   * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * K Way Merge: LC 355 (Design Twitter), LC 378 (Kth Smallest Element in a Sorted Matrix)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
