@@ -19,7 +19,7 @@ Topics included:
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist), LC 1539 (Kth Missing Positive Number)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
-  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 216, LC 247, LC 282, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle)
+  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 216, LC 247, LC 282, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1088, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
   * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167, LC 1217, LC 1288, LC 1383, LC 1675
     * Packing: LC 881
@@ -148,12 +148,12 @@ Topics included:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation)
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 920, LC 940, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359
-  * Prefix/Suffix State Space: LC 276, LC 983
+  * Prefix/Suffix State Space: LC 276, LC 801, LC 983
   * Subarray State Space: LC 1246
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 931, LC 1463
-  * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 935, LC 1007, LC 1049, Abbreviation (HR)
+  * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 801, LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 968, LC 1026, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
@@ -184,7 +184,7 @@ Topics included:
     * Aho-Corasick Automaton: LC 616 (Sol 2)
     * NFA: LC 44 (Wild Card Matching)
     * Knuth-Morris-Pratt (KMP): LC 28, LC 1367 (Linked List in Binary Tree)
-    * Regex: LC 10, LC 44 (Wild Card Matching), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819, LC 831
+    * Regex: LC 10, LC 44 (Wild Card Matching), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819, LC 831, LC 1592
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
