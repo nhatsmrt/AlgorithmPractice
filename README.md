@@ -173,6 +173,7 @@ Topics included:
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 494, LC 1223
+    * Unbounded Knapsack/Coin Change: LC 377, LC 518
   * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 1510
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
