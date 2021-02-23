@@ -184,7 +184,7 @@ Topics included:
   * Search: LC 616 (Sol 1)
     * Aho-Corasick Automaton: LC 616 (Sol 2)
     * NFA: LC 44 (Wild Card Matching)
-    * Knuth-Morris-Pratt (KMP): LC 28, LC 1367 (Linked List in Binary Tree)
+    * Knuth-Morris-Pratt (KMP): LC 28, LC 1367 (Linked List in Binary Tree), LC 1392 (Longest Proper Prefix That Is Also Suffix)
     * Regex: LC 10, LC 44 (Wild Card Matching), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819, LC 831, LC 1592
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 647 (Count Palindromic Substrings)
