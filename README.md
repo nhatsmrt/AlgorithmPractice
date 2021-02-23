@@ -87,7 +87,8 @@ Topics included:
     * Flood Fill: LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 934
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 515, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1345, LC 1602, LC 1660
-  * Topological Sort: LC 269 (Kahn's Algorithm)
+  * Topological Sort:
+    * Kahn's Algorithm: LC 269, LC 444
     * Incremental Computation: LC 631 (Excel Sum Formula)
   * Minimum Spanning Tree (MST):
     * Prim: HR
