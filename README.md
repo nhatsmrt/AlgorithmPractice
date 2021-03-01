@@ -114,7 +114,7 @@ Topics included:
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
     * Bidirectional Map (BiMap): LC 205
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
-    * Deduplication: LC 532, LC 804, LC 859, LC 1207
+    * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
     * Existence: LC 379
   * Sorted Set/Map: LC 635 (Solution 2), LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
