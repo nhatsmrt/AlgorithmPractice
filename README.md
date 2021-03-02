@@ -202,6 +202,7 @@ Topics included:
   * AND:
     * Checking active bits: LC 393, LC 1342
     * Check/Turn off rightmost set bit (Brian Kernighan's): LC 201, LC 260
+    * Find the rightmost bit (`x & ~(x - 1)`): LC 645
   * Bitwise XOR: LC 136-137 (Single Number), LC 260, LC 421 (Maximum XOR of Two Numbers in an Array), LC 1310 (XOR Queries of a Subarray), LC 1506, Introduction to Nim Game (HR)
     * Flip a bit (XOR with 1): LC 476 (Base 10 Complement) = LC 379
   * Bitset/Bitmap: LC 957
