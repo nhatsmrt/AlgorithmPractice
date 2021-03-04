@@ -138,7 +138,7 @@ Topics included:
   * Sparse Table: LC 1335 (Sol 1)
   * Sqrt Decomposition:
     * Mo's Algorithm: LC 1310 (Sol 2)
-13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319, LC 1584
+13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 737, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319, LC 1584
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1288, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 339 (Nested List Weight Sum), LC 364 (Nested List Weight Sum II)
