@@ -27,7 +27,7 @@ class UnionFind:
 
 class Solution:
     def areSentencesSimilarTwo(self, words1: List[str], words2: List[str], pairs: List[List[str]]) -> bool:
-        # Time Complexity: O(V + E \alpha(V))
+        # Time Complexity: O((V + E) \alpha(V))
         # Space Complexity: O(V)
 
         if len(words1) != len(words2):
