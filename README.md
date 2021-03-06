@@ -81,7 +81,7 @@ Topics included:
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 582, LC 684 (Detect Cycle in Undirected Graph), LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1448, LC 1457, LC 1469, LC 1631
+  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 582, LC 684 (Detect Cycle in Undirected Graph), LC 820, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 993, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1306 (Reachability), LC 1448, LC 1457, LC 1469, LC 1631
     * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph)
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
     * Flood Fill: LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 934
@@ -104,7 +104,7 @@ Topics included:
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * K Way Merge: LC 355 (Design Twitter), LC 378 (Kth Smallest Element in a Sorted Matrix)
-9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 1032
+9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 820, LC 1032
   * Trie on Binary Representations: LC 421 (Maximum XOR of Two Numbers in an Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
 10. Set, Map (Dictionary)
