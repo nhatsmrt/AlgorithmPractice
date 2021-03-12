@@ -27,6 +27,8 @@ class Trie:
 
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
+        # Time and Space Complexity: O(NK)
+
         num_binary_str = 0
         trie = Trie()
 
