@@ -1,6 +1,6 @@
 class Solution:
     def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
-        # Time Complexity: O(N log K)
+        # Time Complexity: O(K log N)
         # Space Complexity: O(N)
 
         if not nums1 or not nums2:
