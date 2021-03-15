@@ -66,7 +66,7 @@ Topics included:
     * Morris Traversal: LC 99 (Sol 2)
     * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
   * Euler Tour/Tree Flattening: LC 250, LC 508
-  * LCA: LC 235 (BST), LC 236
+  * LCA: LC 235 (BST), LC 236, LC 1724
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 1490 (Clone N-ary Tree), LC 1506
@@ -93,6 +93,7 @@ Topics included:
   * Minimum Spanning Tree (MST):
     * Prim: HR
     * Kruskal: LC 1135, LC 1168, LC 1319, LC 1584 (Manhattan MST)
+      * Kruskal Reconstruction Tree: LC 1724
   * TSP:
     * aTSP: LC 943 (Shortest Superstring) (Solved with DP, Bellman–Held–Karp algorithm)
   * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
@@ -138,7 +139,7 @@ Topics included:
   * Sparse Table: LC 1335 (Sol 1)
   * Sqrt Decomposition:
     * Mo's Algorithm: LC 1310 (Sol 2)
-13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 737, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319, LC 1584
+13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 547 (sol 1), LC 684, LC 721, LC 737, LC 839, LC 952, LC 990, LC 1135 (Kruskal), LC 1168, LC 1319, LC 1584, LC 1724
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1288, LC 1272 (Remove Interval)
   * Nested List: LC 341 (Flatten Iterator), LC 339 (Nested List Weight Sum), LC 364 (Nested List Weight Sum II)
@@ -159,7 +160,7 @@ Topics included:
   * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 968, LC 1026, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
-    * Binary Lifting: LC 1483 (Kth Ancestor)
+    * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
   * DP on DAG: LC 1136 (Longest Path in DAG)
   * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
