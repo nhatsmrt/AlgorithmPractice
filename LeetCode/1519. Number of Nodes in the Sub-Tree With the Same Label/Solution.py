@@ -3,7 +3,7 @@ class Solution:
         # Time Complexity: O(N log N)
 
         # The number of set insertion involving a node
-        # is equal to the number of ancestors of the node
+        # is upper bounded by the number of ancestors of the node
         # that are not the heavy children of their parents
         # which is O(log N)
 
