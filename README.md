@@ -54,14 +54,15 @@ Topics included:
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
-    * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
+    * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 1673
     * Deque: LC 503
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
-  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 297 (Serialize and Deserialize), LC 298, LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, Optimal BST (GFG)
+  * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 298, LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, Optimal BST (GFG)
+    * Serialization: LC 297 (Serialize and Deserialize), LC 536 (Construct Binary Tree from String)
   * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 897, LC 987 (Vertical Order), LC 1214
     * Morris Traversal: LC 99 (Sol 2)
     * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
@@ -70,7 +71,7 @@ Topics included:
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 1490 (Clone N-ary Tree), LC 1506
-  * Small To Large Merge/DSU on Tree/Sack: 
+  * Small To Large Merge/DSU on Tree/Sack:
 6. Binary Search Tree: LC 98, LC 99, LC 315, LC 352, LC 538, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510, LC 530, LC 700 (Search), LC 701 (Insert), LC 783, LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
