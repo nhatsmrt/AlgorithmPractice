@@ -22,9 +22,10 @@ Topics included:
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 93, LC 131, LC 212, LC 216, LC 247, LC 282, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1088, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle)
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), LC 932 (Arithmetic-Free Permutation), Merge Sort: Counting Inversions (HR)
-  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 621 (Task Scheduler), LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167, LC 1217, LC 1288, LC 1383, LC 1564, LC 1576, LC 1675
+  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 759 (Sol 2), LC 678, LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1167, LC 1217, LC 1288, LC 1383, LC 1564, LC 1576, LC 1675
     * Packing: LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
+      * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler)
     * Huffman Coding: LC 1199
     * Digits/Lexicographical Order: LC 670, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
@@ -56,7 +57,7 @@ Topics included:
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
     * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
-  * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 362 (Design Hit Counter), LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
+  * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 362 (Design Hit Counter), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 1673
@@ -103,7 +104,7 @@ Topics included:
   * Cycle Decomposition: LC 765
   * Stable Marriage Problem (Gale-Shapley Algorithm): DailyCoding
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
-  * Priority Queue: LC 347, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
+  * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
