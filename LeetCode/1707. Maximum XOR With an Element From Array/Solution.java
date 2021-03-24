@@ -1,7 +1,8 @@
 class Solution {
     public int[] maximizeXor(int[] nums, int[][] queries) {
-        // Time Complexity: O((N + Q) log W)
+        // Time Complexity: O((N + Q) W)
         // Space Complexity: O(NW)
+        // where W = log_2(MAX) <= 30
 
         Trie trie = new Trie(getDigits(1000000000, -1).size());
 
