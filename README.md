@@ -62,7 +62,7 @@ Topics included:
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 1673
-    * Deque: LC 503
+    * Deque: LC 503, LC 1425 (Solution 2)
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 298, LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 513, LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, Optimal BST (GFG)
     * Serialization: LC 297 (Serialize and Deserialize), LC 536 (Construct Binary Tree from String)
@@ -106,6 +106,7 @@ Topics included:
   * Stable Marriage Problem (Gale-Shapley Algorithm): DailyCoding
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
+    * Indexed Priority Queue: LC 1425
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
@@ -156,7 +157,7 @@ Topics included:
     * Fat Node:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
-15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 920, LC 940, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359
+15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 920, LC 940, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425
   * Prefix/Suffix State Space: LC 276, LC 801, LC 983
   * Subarray State Space: LC 1246
   * Bottom-Up: LC 120
@@ -268,6 +269,6 @@ Topics included:
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LC 703 (Kth Largest Element in a Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
-  * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median)
+  * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median), LC 1425
     * Sliding Window Top K: LC 1383
 29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System)
