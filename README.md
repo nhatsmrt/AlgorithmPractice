@@ -127,7 +127,7 @@ Topics included:
     * Existence: LC 379
   * Sorted Set/Map: LC 635 (Solution 2), LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 424, LC 532, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1169, LC 1207, LC 1457, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700
+  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1169, LC 1207, LC 1457, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700
     * Cumulative Frequency: LC 395 (Longest Substring with At Least K Repeating Characters)
 11. Hash: LC 1(Two Sum), LC 15 (3Sum), LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
