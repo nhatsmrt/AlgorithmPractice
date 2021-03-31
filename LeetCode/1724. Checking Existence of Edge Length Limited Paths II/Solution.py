@@ -124,24 +124,16 @@ class DistanceLimitedPathsExist:
         bl_table, times = self.binary_lifting_tables[self.uf.krt[root]]
         leaf1, leaf2 = self.uf.krt_leaves[p], self.uf.krt_leaves[q]
 
-        i = 0
-        while not self._is_ancestor(bl_table[i][leaf1], leaf2, times):
-            i += 1
+        i = len(bl_table) - 1
+        it = leaf1
 
-        common_ancestor = bl_table[i][leaf1]
-
-        while common_ancestor.left or common_ancestor.right:
-            if self._is_ancestor(common_ancestor.left, leaf1, times) and self._is_ancestor(common_ancestor.left, leaf2, times):
-                common_ancestor = common_ancestor.left
-            elif self._is_ancestor(common_ancestor.right, leaf1, times) and self._is_ancestor(common_ancestor.right, leaf2, times):
-                common_ancestor = common_ancestor.right
-            else:
-                # Found LCA
-                break
-
-        return common_ancestor.weight < limit
+        for i in range(len(bl_table) - 1, -1, -1):
+            if not self._is_ancestor(bl_table[i][it], leaf2, times):
+                it = bl_table[i][it]
 
 
+        it = bl_table[0][it]
+        return it.weight < limit
 
 
 # Your DistanceLimitedPathsExist object will be instantiated and called as such:
