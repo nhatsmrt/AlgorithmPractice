@@ -170,7 +170,7 @@ Topics included:
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
     * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
   * DP on DAG: LC 1136 (Longest Path in DAG)
-  * Bit Mask/Bit Set: LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
+  * Bit Mask/Bit Set: LC 351, LC 473, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
     * Broken Profile: LC 1349
   * Digit DP: LC 600, LC 738, LC 902, LC 967, LC 1641
