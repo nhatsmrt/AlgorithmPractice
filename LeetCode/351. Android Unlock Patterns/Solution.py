@@ -18,17 +18,15 @@ class Solution:
 
         self.dp = {}
         ret = 0
-        used = ["0" for i in range(10)]
         for i in range(1, 10):
-            used[i - 1] = "1"
+            used_mask = 1 << (9 - i)
             used_digs = set([i])
-            ret += self.count_solutions(i, "".join(used), used_digs, m, n)
-            used[i - 1] = "0"
+            ret += self.count_solutions(i, used_mask, used_digs, m, n)
 
         return ret
 
 
-    def count_solutions(self, cur_pos: int, used_mask: str, used_digs: set, m: int, n: int) -> int:
+    def count_solutions(self, cur_pos: int, used_mask: int, used_digs: set, m: int, n: int) -> int:
         if (cur_pos, used_mask) in self.dp:
             return self.dp[(cur_pos, used_mask)]
         ret = 0
@@ -40,13 +38,14 @@ class Solution:
             return ret
 
         for i in range(1, 10):
-            if used_mask[i - 1] == "0":
-                if (cur_pos, i) not in self.passed_through or used_mask[self.passed_through[(cur_pos, i)] - 1] == "1":
-                    new_state = list(iter(used_mask))
-                    new_state[i - 1] = "1"
+            dig_mask = 1 << (9 - i)
+            if not (used_mask & dig_mask):
+                if (cur_pos, i) not in self.passed_through or (used_mask & (1 << (9 - self.passed_through[(cur_pos, i)]))):
+                    new_state = used_mask | dig_mask
                     used_digs.add(i)
-                    ret += self.count_solutions(i, "".join(new_state), used_digs, m, n)
+                    ret += self.count_solutions(i, new_state, used_digs, m, n)
                     used_digs.remove(i)
 
         self.dp[(cur_pos, used_mask)] = ret
         return ret
+                
