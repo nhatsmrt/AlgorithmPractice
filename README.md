@@ -29,6 +29,7 @@ Topics included:
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
     * Huffman Coding: LC 1199
     * Digits/Lexicographical Order: LC 670, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
+    * Rearrangement Inequality: LC 1589
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
   * Contribution Analysis: LC 1588
 2. Arrays: LC 41, LC 59, LC 73, LC 163, LC 251 (Flatten 2D Vector), LC 277, LC 419, LC 442, LC 453, LC 624, LC 717, LC 766, LC 835 (Convolution), LC 896, LC 941, LC 1089, LC 1431, LC 1437, LC 1464, LC 1470, LC 1512, LC 1534, LC 1672
@@ -41,7 +42,7 @@ Topics included:
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
-    * Boundary Count: LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol)
+    * Offline Range Addition Query (Boundary Count): LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol), LC 1589
     * Difference Square: LC 250 (Count Univalue Subtrees)
   * Sliding Window: LC 643, LC 1052, LC 1169, LC 1291 (Sol 2), LC 1438, LC 1493
   * Cyclicity: LC 189 (Rotate Array)
