@@ -1,6 +1,4 @@
-class Solution:
-    def longestWord(self, words: List[str]) -> str:
-        class TrieNode:
+class TrieNode:
     def __init__(self):
         self.word = None
         self.children = {}
