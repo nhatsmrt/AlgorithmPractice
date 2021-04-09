@@ -118,7 +118,7 @@ Topics included:
   * Bit Trie: LC 421 (Maximum XOR of Two Numbers in an Array), LC 1707 (Maximum XOR With an Element From Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
 10. Set, Map (Dictionary)
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 697, LC 760, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157, LC 1198
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
