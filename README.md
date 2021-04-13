@@ -140,7 +140,7 @@ Topics included:
 12. Range Query: LC 131O (Range XOR)
   * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732, LC 1649
-    * Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327, LC 673, LC 1649
+    * Wavelet Tree/Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327, LC 673, LC 1649
     * Lazy Propagation: LC 715, LC 699
     * 2D Segment Tree:  LC 427 (Construct Quad Tree)
     <!-- * Lazy Propagation: LC 732 -->
