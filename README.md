@@ -107,6 +107,8 @@ Topics included:
   * Eulerian Circuit: LC 753 (Hierholzer's Algorithm)
   * Cycle Decomposition: LC 765
   * Stable Marriage Problem (Gale-Shapley Algorithm): DailyCoding
+  * Max Flow:
+    * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
     * Indexed Priority Queue: LC 1425
