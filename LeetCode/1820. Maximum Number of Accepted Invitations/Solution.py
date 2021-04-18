@@ -1,12 +1,11 @@
 class Solution:
-    def match(self, boy: int, adj_lists: dict, matched_boy: set, matched_girl: dict, seen: set) -> bool:
-        for girl in adj_lists[boy]:
-            if girl not in seen:
+    def match(self, boy: int, grid: List[List[int]], matched: dict, seen: set) -> bool:
+        for girl in range(len(grid[0])):
+            if grid[boy][girl] and girl not in seen:
                 seen.add(girl)
 
-                if girl not in matched_girl or self.match(matched_girl[girl], adj_lists, matched_boy, matched_girl, seen):
-                    matched_girl[girl] = boy
-                    matched_boy.add(boy)
+                if girl not in matched or self.match(matched[girl], grid, matched, seen):
+                    matched[girl] = boy
                     return True
 
         return False
@@ -15,13 +14,9 @@ class Solution:
         # Time Complexity: O(V(V + E))
         # Space Complexity: O(V + E)
 
-        matched_girl = {}
-        matched_boy = set()
-        adj_lists = {boy: set([girl for girl in range(len(grid[0])) if grid[boy][girl]]) for boy in range(len(grid))}
-
+        matched = {}
 
         for boy in range(len(grid)):
-            if boy not in matched_boy:
-                self.match(boy, adj_lists, matched_boy, matched_girl, set())
+            self.match(boy, grid, matched, set())
 
-        return len(matched_girl)
+        return len(matched)
