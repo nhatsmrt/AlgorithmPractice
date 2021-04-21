@@ -29,11 +29,12 @@ class Solution:
 
         return self.dp[(len(houses) - 1, k)]
 
-    def findMinDist(self, houses: List[int], start: int, end: int, low: int, high: int, numMailBox: int):
+    def findMinDist(self, houses: List[int], start: int, end: int, argmin_low: int, argmin_high: int, numMailBox: int):
         # Compute dp[start][numMailBox], ..., dp[end][numMailBox]
+        # knowing that the range of the argmins is [argmin_low, argmin_high]
+
         if start > end:
             return
-
 
         if numMailBox == 1:
             for i in range(len(houses)):
@@ -44,7 +45,7 @@ class Solution:
                 ret = self.INF
                 key = (end, numMailBox)
 
-                for i in range(low, high + 1):
+                for i in range(argmin_low, argmin_high + 1):
                     cand = self.dp[(i, numMailBox - 1)]
 
                     if i < end:
@@ -60,19 +61,19 @@ class Solution:
                 mid = (start + end) // 2
                 key = (mid, numMailBox)
 
-                for i in range(low, min(mid, high) + 1):
+                for i in range(argmin_low, min(mid, argmin_high) + 1):
                     cand = self.dp[(i, numMailBox - 1)]
                     if i < mid:
                         cand += self.distFromMedian(houses, i + 1, mid)
 
                     if cand < ret:
-                        argmin = i
+                        argmin_mid = i
                         ret = cand
 
                 self.dp[key] = ret
 
-                self.findMinDist(houses, start, mid - 1, low, argmin, numMailBox)
-                self.findMinDist(houses, mid + 1, end, argmin, high, numMailBox)
+                self.findMinDist(houses, start, mid - 1, argmin_low, argmin_mid, numMailBox)
+                self.findMinDist(houses, mid + 1, end, argmin_mid, argmin_high, numMailBox)
 
     def rangeSum(self, start, end):
         if start == 0:
