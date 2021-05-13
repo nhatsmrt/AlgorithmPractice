@@ -163,7 +163,7 @@ Topics included:
     * Fat Node:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
-15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 920, LC 940, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425
+15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 920, LC 940, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1692
   * Prefix/Suffix State Space: LC 276, LC 801, LC 983
   * Subarray State Space: LC 1246
   * Bottom-Up: LC 120
