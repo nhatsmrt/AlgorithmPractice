@@ -185,7 +185,7 @@ Topics included:
   * Change of State Variable: LC 1218
   * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1035, LC 1092 (Shortest Common Supersequence), LC 1143 (LCS), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1458 (Max Dot Product of Two Subsequences)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III), LC 918
-  * Longest Increasing Subsequence (LIS): LC 300, LC 354
+  * Longest Increasing Subsequence (LIS)/Distance to Monotonicity/Patience Sort: LC 300, LC 354, LC 1671 (Distance to Bitonicity/Longest Bitonic Subsequence)
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
   * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 474, LC 494, LC 1223
