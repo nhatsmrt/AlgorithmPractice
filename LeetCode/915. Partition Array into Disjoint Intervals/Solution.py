@@ -1,9 +1,10 @@
 class Solution:
     def partitionDisjoint(self, nums: List[int]) -> int:
         # Time and Space Complexity: O(N)
-        maxes = list(accumulate(nums, lambda a, b: max(a, b)))
-        mins = list(reversed(list(accumulate(reversed(nums), lambda a, b: min(a, b)))))
+        maxes = accumulate(nums, lambda a, b: max(a, b))
+        mins = iter(reversed(list(accumulate(reversed(nums), lambda a, b: min(a, b)))))
 
-        for i in range(len(nums) - 1):
-            if maxes[i] <= mins[i + 1]:
+        next(mins)
+        for i, (prefix_max, suffix_min) in enumerate(zip(maxes, mins)):
+            if prefix_max <= suffix_min:
                 return i + 1
