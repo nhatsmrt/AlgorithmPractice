@@ -86,7 +86,7 @@ Topics included:
 7. Graphs: LC 24, LC 997, LC 1557
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path:
-    * Dijkstra: LC 399, LC 505, LC 743
+    * Dijkstra: LC 399, LC 505, LC 743, LC 1786
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
@@ -113,7 +113,7 @@ Topics included:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
-    * Indexed Priority Queue: LC 1425
+    * Indexed Priority Queue: LC 1425, LC 1786
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
@@ -175,7 +175,7 @@ Topics included:
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
     * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
-  * DP on DAG: LC 1136 (Longest Path in DAG), LC 1857
+  * DP on DAG: LC 1136 (Longest Path in DAG), LC 1786, LC 1857
   * Bit Mask/Bit Set: LC 351, LC 473, LC 698, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
     * Broken Profile: LC 1349
