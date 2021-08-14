@@ -51,6 +51,7 @@ Topics included:
     * Boyer-Moore Algorithm: LC 169, LC 1157
   * Use nums[abs(num) - 1] as flag for num: LC 442, LC 448
   * Staircase Traversal (O(M + N)): LC 1351
+  * Condensing Repetition: LC 546
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 369, LC 379, LC 445, LC 817, LC 1265, LC 1290
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts), LC 1721 (Swapping Nodes)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
@@ -170,7 +171,7 @@ Topics included:
   * Bottom-Up: LC 120
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 931, LC 1463
-  * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 552, LC 801, LC 935, LC 1007, LC 1049, Abbreviation (HR)
+  * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 546, LC 552, LC 801, LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 549, LC 968, LC 1026, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
@@ -212,8 +213,8 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921
   * Suffix Array: LC 1163
-  * Inverted Index: LC 525, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
-    * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
+  * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
+    * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
