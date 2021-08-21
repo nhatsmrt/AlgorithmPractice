@@ -114,7 +114,7 @@ Topics included:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
 8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
-    * Indexed Priority Queue: LC 1425, LC 1786
+    * Indexed Priority Queue: LC 1425, LC 1786, LC 1801
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
@@ -256,7 +256,7 @@ Topics included:
   * Grid: LC 296 (Geometric Median on Grid), LC 573
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
