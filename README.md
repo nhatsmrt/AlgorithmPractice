@@ -39,7 +39,7 @@ Topics included:
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 554, LC 560, LC 644, LC 724, LC 775, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1310, LC 1352, LC 1375, LC 1480, LC 1653
+  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 554, LC 560, LC 644, LC 724, LC 775, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1310, LC 1352, LC 1375, LC 1480, LC 1653, LC 1712
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -254,7 +254,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658, LC 1712
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801
 22. Compression Algorithm:
