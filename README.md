@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1632
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1632
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -126,7 +126,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 697, LC 760, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1055, LC 1074, LC 1156, LC 1157, LC 1198
+    * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 697, LC 760, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1156, LC 1157, LC 1198
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
