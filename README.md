@@ -131,7 +131,7 @@ Topics included:
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
-    * Existence: LC 379
+    * Existence: LC 379, LC 1684
   * Sorted Set/Map: LC 635 (Solution 2), LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1133, LC 1169, LC 1207, LC 1338, LC 1457, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1748
