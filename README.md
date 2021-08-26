@@ -70,10 +70,10 @@ Topics included:
     * Deque: LC 503, LC 1425 (Solution 2)
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 298, LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 513, LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 814, LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 971, LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1302, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, LC 1973, Optimal BST (GFG)
-    * Serialization: LC 297 (Serialize and Deserialize), LC 536 (Construct Binary Tree from String)
-  * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 897, LC 987 (Vertical Order), LC 1214
-    * Morris Traversal: LC 99 (Sol 2)
-    * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
+    * Serialization: LC 297 (Serialize and Deserialize), LC 331 (Verify Preorder Serialization), LC 536 (Construct Binary Tree from String)
+    * Binary Tree Traversal: LC 94 (BT Inorder), LC 103 (Zig Zag Level Order), LC 144 (BT Preorder), LC 145 (BT Postorder), LC 897, LC 987 (Vertical Order), LC 1214
+      * Morris Traversal: LC 99 (Sol 2)
+      * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
   * Euler Tour/Tree Flattening: LC 250, LC 508
   * LCA: LC 235 (BST), LC 236, LC 1724
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
