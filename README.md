@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1632
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1632
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -63,7 +63,8 @@ Topics included:
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
   * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
     * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
-  * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 362 (Design Hit Counter), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
+  * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
+    * Rate Limiter: LC 362 (Design Hit Counter), LC 1604
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 659, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 1673
@@ -279,7 +280,7 @@ Topics included:
   * Semaphore: LC 1117
   * Barrier: LC 1117
   * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
-27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time), LC 949 (Largest Time for Given Digits)
+27. Time: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time), LC 949 (Largest Time for Given Digits), LC 1604
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LC 703 (Kth Largest Element in a Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
