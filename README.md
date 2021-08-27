@@ -268,7 +268,7 @@ Topics included:
   * Inverse Transform Sampling: LC 478 (Sol 2)
 24. Approximation Algorithm:
   * Approximate Set Membership (Bloom Filter): LC 287 (Sol 2)
-25. Game:
+25. Game: LC 1025
   * Minimax: LC 292, LC 375, LC 464, LC 843, LC 1510
   * Nim: LC 1908 (Game of Nim), Introduction to Nim Game (HR)
 26. Parallelism and Concurrency:
