@@ -120,7 +120,7 @@ Topics included:
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
   * Fracturing Search:
-    * K Way Merge: LC 355 (Design Twitter), LC 373, LC 378 (Kth Smallest Element in a Sorted Matrix)
+    * K Way Merge: LC 355 (Design Twitter), LC 373, LC 378 (Kth Smallest Element in a Sorted Matrix), LC 786 (K-th Smallest Prime Fraction)
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 720, LC 820, LC 1032, LC 1461
   * Bit Trie: LC 421 (Maximum XOR of Two Numbers in an Array), LC 1707 (Maximum XOR With an Element From Array)
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
