@@ -39,7 +39,7 @@ Topics included:
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 554, LC 560, LC 644, LC 724, LC 775, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1310, LC 1352, LC 1375, LC 1480, LC 1653, LC 1712
+  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 554, LC 560, LC 644, LC 724, LC 775, LC 848, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1310, LC 1352, LC 1375, LC 1480, LC 1653, LC 1712
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -287,3 +287,4 @@ Topics included:
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median), LC 1425
     * Sliding Window Top K: LC 1383
 29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System), LC 1797 (Design Authentication Manager)
+30. Functional Programming Style: LC 848
