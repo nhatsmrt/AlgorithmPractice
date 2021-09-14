@@ -51,7 +51,7 @@ Topics included:
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
   * Use nums[abs(num) - 1] as flag for num: LC 442, LC 448
-  * Search in Sorted Matrix - Staircase Traversal (O(M + N)): LC 240 (Solution 2), LC 1351
+  * Search in Matrix with Sorted Rows and Columns - Staircase Traversal (O(M + N)): LC 240 (Solution 2), LC 1237, LC 1351
   * Condensing Repetition: LC 546
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 369, LC 379, LC 445, LC 817, LC 1265, LC 1290
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts), LC 1721 (Swapping Nodes)
@@ -93,7 +93,7 @@ Topics included:
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1448, LC 1457, LC 1469, LC 1631, LC 1973
+  * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973
     * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph), LC 565
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
