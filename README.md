@@ -184,6 +184,7 @@ Topics included:
     * Profile: LC 1411
     * Broken Profile: LC 1349
   * Digit DP: LC 600, LC 738, LC 788, LC 902, LC 967, LC 1641
+  * DP over Divisors: LC 1025 (Solution 2)
   * Lexicographical Configuration: LC 60 (Find the kth permutation)
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
