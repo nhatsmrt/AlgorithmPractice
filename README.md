@@ -114,7 +114,7 @@ Topics included:
   * Stable Marriage Problem (Gale-Shapley Algorithm): DailyCoding
   * Max Flow:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
-8. Heap: LC 630, LC 1167, Maximum distinct elements after removing K elements (GFG)
+8. Heap: LC 630, LC 755, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057
     * Indexed Priority Queue: LC 1425, LC 1786, LC 1801
   * HeapSort: LC 215
@@ -133,7 +133,7 @@ Topics included:
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
-    * Existence: LC 379, LC 1684
+    * Existence: LC 379, LC 755, LC 1684
   * Sorted Set/Map: LC 635 (Solution 2), LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1133, LC 1169, LC 1207, LC 1338, LC 1457, LC 1460, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1861
@@ -260,7 +260,7 @@ Topics included:
   * Grid: LC 296 (Geometric Median on Grid), LC 573
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658, LC 1712
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
