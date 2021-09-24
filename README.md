@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1632
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
@@ -25,7 +25,7 @@ Topics included:
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
     * Halving Method: LC 49 (Sol 2), LC 932 (Arithmetic-Free Permutation)
     * Find Split Point in O(min(k, n - k)): BS 718
-  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 330, LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 659, LC 678, LC 759 (Sol 2), LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1090, LC 1167, LC 1217, LC 1282, LC 1288, LC 1338, LC 1383, LC 1465, LC 1509, LC 1564, LC 1576, LC 1647, LC 1675, LC 1710
+  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 330, LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 659, LC 678, LC 759 (Sol 2), LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1090, LC 1167, LC 1217, LC 1282, LC 1288, LC 1338, LC 1383, LC 1465, LC 1509, LC 1564, LC 1576, LC 1605, LC 1647, LC 1675, LC 1710
     * Packing/Assignment: LC 870, LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
@@ -170,7 +170,7 @@ Topics included:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1692, LC 1866
-  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983
+  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1320
   * Subarray State Space: LC 1246
   * Bottom-Up: LC 120, LC 764, LC 1269
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
