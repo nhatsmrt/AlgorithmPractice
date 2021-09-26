@@ -94,7 +94,7 @@ Topics included:
     * Bellman-Ford: LC 787
     * A*: LC 1197
   * DFS: LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973
-    * Connected Components: LC 200 (Connected Components), LC 323 (323. Number of Connected Components in an Undirected Graph), LC 565
+    * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
@@ -259,11 +259,11 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658, LC 1712
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658, LC 1712
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
 22. Compression Algorithm:
-  * RLE: LC 443, LC 604 (Iterator), LC 900 (Iterator), LC 925, LC 1313 (Decompress)
+  * RLE: LC 443, LC 604 (Iterator),LC 809, LC 900 (Iterator), LC 925, LC 1313 (Decompress)
   * Huffman: Decoding (HR)
 23. Randomized Algorithm: LC 384 (Shuffle an array, Fisher-Yates Algorithm), LC 398, LC 497 (Random Point in Non-overlapping Rectangles), LC 528 (Random Pick with Weight), LC 710 (Random Pick with Blacklist), LC 1157 (Sol 2)
   * Reservoir Sampling: LC 382
