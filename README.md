@@ -46,7 +46,7 @@ Topics included:
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
     * Offline Range Addition Query (Boundary Count): LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol), LC 1589
     * Difference Square: LC 250 (Count Univalue Subtrees)
-  * Sliding Window: LC 643, LC 674, LC 786 (Sol 2), LC 1052, LC 1151, LC 1169, LC 1291 (Sol 2), LC 1438, LC 1493
+  * Sliding Window: LC 643, LC 674, LC 786 (Sol 2), LC 1052, LC 1105, LC 1151, LC 1169, LC 1291 (Sol 2), LC 1438, LC 1493
   * Cyclicity: LC 189 (Rotate Array)
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
@@ -69,7 +69,7 @@ Topics included:
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 659, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 683, LC 1504, LC 1673
-    * Deque: LC 503, LC 1425 (Solution 2)
+    * Deque: LC 503, LC 1105, LC 1425 (Solution 2)
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 298, LC 366 (Find Leaves of Binary Tree), LC 404 (Sum of Left Leaves), LC 513, LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 814, LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 971, LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1302, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, LC 1973, Optimal BST (GFG)
     * Serialization: LC 297 (Serialize and Deserialize), LC 331 (Verify Preorder Serialization), LC 536 (Construct Binary Tree from String)
@@ -135,7 +135,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
     * Existence: LC 379, LC 755, LC 1684
-  * Sorted Set/Map: LC 635 (Solution 2), LC 975, LC 1348 (Solution 2), LC 1438, LC 1500
+  * Sorted Set/Map: LC 635 (Solution 2), LC 975, LC 1105, LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1133, LC 1169, LC 1207, LC 1338, LC 1457, LC 1460, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1861
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 1297
@@ -170,7 +170,7 @@ Topics included:
       * Persistent Array: LC 1146
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1692, LC 1866
-  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1320
+  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320
   * Subarray State Space: LC 1246
   * Bottom-Up: LC 120, LC 764, LC 1269
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
