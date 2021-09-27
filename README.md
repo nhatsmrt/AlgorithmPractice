@@ -62,7 +62,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
+  * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 394 (Solution 2), LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
     * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
     * Rate Limiter: LC 362 (Design Hit Counter), LC 1604
@@ -135,7 +135,7 @@ Topics included:
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
     * Existence: LC 379, LC 755, LC 1684
-  * Sorted Set/Map: LC 635 (Solution 2), LC 975, LC 1105, LC 1348 (Solution 2), LC 1438, LC 1500
+  * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1348 (Solution 2), LC 1438, LC 1500
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 1002, LC 1010, LC 1133, LC 1169, LC 1207, LC 1338, LC 1457, LC 1460, LC 1603, LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1861
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 1297
@@ -223,7 +223,8 @@ Topics included:
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
-  * Parsing CFG (Predictive Parsing): LC 1096
+  * Parsing: LC 394
+   * CFG (Predictive Parsing): LC 1096
 17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 868, LC 1290
   * AND:
     * Checking active bits: LC 393, LC 1342
