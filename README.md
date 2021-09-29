@@ -25,7 +25,7 @@ Topics included:
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
     * Halving Method: LC 49 (Sol 2), LC 932 (Arithmetic-Free Permutation)
     * Find Split Point in O(min(k, n - k)): BS 718
-  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 330, LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 659, LC 678, LC 759 (Sol 2), LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1090, LC 1167, LC 1217, LC 1282, LC 1288, LC 1338, LC 1383, LC 1465, LC 1509, LC 1564, LC 1576, LC 1605, LC 1647, LC 1675, LC 1710
+  * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 330, LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 659, LC 678, LC 759 (Sol 2), LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1090, LC 1167, LC 1217, LC 1282, LC 1288, LC 1338, LC 1383, LC 1465, LC 1509, LC 1564, LC 1576, LC 1578, LC 1605, LC 1647, LC 1675, LC 1710
     * Packing/Assignment: LC 870, LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
@@ -128,7 +128,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1138, LC 1156, LC 1157, LC 1198
+    * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 828, LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1138, LC 1156, LC 1157, LC 1198
       * Next/Prev Pointer: LC 1182
     * Group By: LC 249
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
@@ -261,7 +261,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1446, LC 1658, LC 1712
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
 22. Compression Algorithm:
