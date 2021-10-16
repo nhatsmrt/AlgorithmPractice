@@ -76,7 +76,7 @@ Topics included:
       * Morris Traversal: LC 99 (Sol 2)
       * Binary Code: LC 222 (Sol 2), LC 662 (Maximum Width of Binary Tree)
   * Euler Tour/Tree Flattening: LC 250, LC 508
-  * LCA: LC 235 (BST), LC 236, LC 1724
+  * LCA: LC 235 (BST), LC 236, LC 1650 (LCA with Parent Pointer), LC 1724
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 589 (Preorder Traversal), LC 1490 (Clone N-ary Tree), LC 1506
