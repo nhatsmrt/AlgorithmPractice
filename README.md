@@ -7,7 +7,7 @@ Topics included:
   * Recursion: LC 66
   * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency)
     * Coordinate Compression: LC 327, LC 673, LC 1649
-    * Merge Sorted Array: LC 977
+    * Merge Sorted Array: LC 977, LC 1213
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference)
       * Sorting By Frequency (exactly O(N)): LC 1338
     * Bucket Sort: LC 164 (Maximum Gap), LC 220
