@@ -180,7 +180,7 @@ Topics included:
     * In-Out DP:  LC 1245 (Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
     * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
-  * DP on DAG: LC 1136 (Longest Path in DAG), LC 1786, LC 1857
+  * DP on DAG: LC 1136 (Longest Path in DAG), LC 1786, LC 1857, LC 1928
   * Bit Mask/Bit Set: LC 351, LC 473, LC 698, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
     * Broken Profile: LC 1349
