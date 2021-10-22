@@ -90,6 +90,7 @@ Topics included:
   * Shortest Path:
     * Dijkstra: LC 399, LC 505, LC 743, LC 1786
     * Dial's Algorithm (constraint edge weight): LC 743 (Solution 2)
+      * 0-1 BFS: LC 1263
     * Bellman-Ford: LC 787
     * A*: LC 1197
   * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973
