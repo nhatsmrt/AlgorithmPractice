@@ -1,7 +1,7 @@
 class Solution:
     def reorganizeString(self, S: str) -> str:
         # Time Complexity: O(N log N)
-        # Space Complexity: O(1)
+        # Space Complexity: O(N)
 
         freq_dict = {}
         for char in S:
