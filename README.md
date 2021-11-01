@@ -145,7 +145,7 @@ Topics included:
   * Two Sum: LC 1 (Two Sum), LC 15 (3Sum), LC 653 (2Sum on BST), LC 1711
 11. Hash: LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
-  * Rolling Hash/String Polynomial Hash: LC 187, LC 718 (Solution 2), LC 1044, LC 1147, LC 1316, LC 1461 (Solution 2)
+  * Rolling Hash/String Polynomial Hash: LC 187, LC 718 (Solution 2), LC 1044, LC 1147, LC 1316, LC 1461 (Solution 2), LC 1554 (Solution 2)
   * Designing Hash Function: LC 149, LC 939
   * Cuckoo Hashing: LC 706 (Design Hashmap)
   * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 694, LC 1379
@@ -218,6 +218,7 @@ Topics included:
     * NFA: LC 44 (Wild Card Matching)
     * Knuth-Morris-Pratt (KMP): LC 28, LC 796, LC 1367 (Linked List in Binary Tree), LC 1392 (Longest Proper Prefix That Is Also Suffix)
     * Regex: LC 10, LC 44 (Wild Card Matching), LC 65 (Valid Number), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819, LC 831, LC 1592
+    * Dictionary of Patterns: LC 1554
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1332 (Remove Palindromic Subsequences)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 214 (Shortest Palindrome), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
