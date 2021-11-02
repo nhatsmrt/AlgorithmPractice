@@ -231,7 +231,7 @@ Topics included:
     * Magnitude Set: LC 438, LC 567
   * Parsing: LC 394
    * CFG (Predictive Parsing): LC 1096
-17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 868, LC 1290
+17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 477 (Total Hamming Distance), LC 868, LC 1290
   * AND:
     * Checking active bits: LC 393, LC 1342
     * Check/Turn off rightmost set bit (Brian Kernighan's): LC 201, LC 260
