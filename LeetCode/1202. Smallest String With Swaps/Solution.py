@@ -63,7 +63,7 @@ class UnionFind:
 
 class Solution:
     def smallestStringWithSwaps(self, s: str, pairs: List[List[int]]) -> str:
-        # Time Complexity: O(|paris| alpha(s) + |s|)
+        # Time Complexity: O(|pairs| alpha(s) + |s|)
         # Space Complexity: O(|s|)
 
         uf = UnionFind(len(s))
