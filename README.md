@@ -222,7 +222,7 @@ Topics included:
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1332 (Remove Palindromic Subsequences)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 214 (Shortest Palindrome), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
-  * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021
+  * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021, LC 1614
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
     * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
