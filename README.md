@@ -222,7 +222,7 @@ Topics included:
   * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1332 (Remove Palindromic Subsequences)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 214 (Shortest Palindrome), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
-  * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021, LC 1614
+  * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021, LC 1541, LC 1614
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
     * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
@@ -268,11 +268,11 @@ Topics included:
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 408, LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
-  * Condensing Repetition: LC 546, LC 1287
+  * Condensing Repetition (RLE): LC 546, LC 1287, LC 1541
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
 22. Compression Algorithm:
-  * RLE: LC 443, LC 604 (Iterator),LC 809, LC 900 (Iterator), LC 925, LC 1313 (Decompress), LC 1868 (Dot Product)
+  * RLE: LC 443, LC 604 (Iterator),LC 809, LC 900 (Iterator), LC 925, LC 1313 (Decompress), LC 1541, LC 1868 (Dot Product)
   * Huffman: Decoding (HR)
 23. Randomized Algorithm: LC 384 (Shuffle an array, Fisher-Yates Algorithm), LC 398, LC 497 (Random Point in Non-overlapping Rectangles), LC 528 (Random Pick with Weight), LC 710 (Random Pick with Blacklist), LC 1157 (Sol 2)
   * Reservoir Sampling: LC 382
