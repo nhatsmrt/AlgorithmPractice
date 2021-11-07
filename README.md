@@ -131,7 +131,7 @@ Topics included:
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 828, LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1102, LC 1138, LC 1156, LC 1157, LC 1198
       * Next/Prev Pointer: LC 1182
-    * Group By: LC 249
+    * Group By: LC 249, LC 963
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
@@ -261,7 +261,7 @@ Topics included:
     * FFT: LC 43 (Multiply Strings)
   * Probability: LC 688, Dice Probability (CSES)
 19. Geometry: LC 149 (Max Points on a Line), LC 223, LC 356, LC 593 (Valid Square), LC 1232 (Check Straight Line), LC 1266, LC 1344
-  * Area (Shoelace Formula): LC 1037 (Valid Triangle)
+  * Area (Shoelace Formula): LC 963, LC 1037 (Valid Triangle)
   * Convex Hull (Graham Scan): LC 587,
     * Monotone Chain: LC 644 (Sol 2)
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
