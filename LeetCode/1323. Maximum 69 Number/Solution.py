@@ -1,6 +1,6 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        # Time Complexity: O(N)
+        # Time Complexity: O(W)
         # Space Complexity: O(1)
 
         ret = 0
