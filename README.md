@@ -30,7 +30,7 @@ Topics included:
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
     * Huffman Coding: LC 1199
-    * Digits/Lexicographical Order: LC 670, LC 1202, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
+    * Digits/Lexicographical Order: LC 670, LC 1202, LC 1323, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
     * Rearrangement Inequality: LC 1589
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
   * Contribution Analysis: LC 1588
