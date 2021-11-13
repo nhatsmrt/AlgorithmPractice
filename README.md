@@ -211,7 +211,7 @@ Topics included:
   * Divide and Conquer Optimization: LC 1478 (1D p-Median Problem)
   * Lagrangian Relaxation/WQS Binary Search/Alien Trick: LC 188, LC 1751
   * Memoizing Immutable Data Structure: LC 95 (Unique BSTs II), LC 894 (Full Binary Trees)
-  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 418 (Sentence Screen Fitting), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1235 (Weighted Job Scheduling), LC 1751 (Weighted Interval Scheduling, At Most K Intervals), Knuth's Text Justification/Word Wrap (GFG)
+  * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 418 (Sentence Screen Fitting), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1216 (Longest Palindromic Subsequence), LC 1235 (Weighted Job Scheduling), LC 1751 (Weighted Interval Scheduling, At Most K Intervals), Knuth's Text Justification/Word Wrap (GFG)
 16. String: LC 3, LC 58, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 709 (To Lower Case), LC 722, LC 804, LC 824, LC 833, LC 844, LC 859, LC 916, LC 929, LC 1071, LC 1078, LC 1108, LC 1181 (Before and After Puzzle), LC 1271, LC 1662
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1112 (Remove Vowels), LC 1427 (String Shift)
   * Longest Prefix Suffix: LC 459
@@ -221,13 +221,13 @@ Topics included:
     * Knuth-Morris-Pratt (KMP): LC 28, LC 796, LC 1367 (Linked List in Binary Tree), LC 1392 (Longest Proper Prefix That Is Also Suffix)
     * Regex: LC 10, LC 44 (Wild Card Matching), LC 65 (Valid Number), LC 468 (Validate IP Address), LC 609 (Find Duplicate File in System), LC 819, LC 831, LC 1592
     * Dictionary of Patterns: LC 1554
-  * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1332 (Remove Palindromic Subsequences)
+  * Palindrome: LC 14 (Longest Common Prefix), LC 125 (Valid Palindrome), LC 131 (Palindrome Partitioning), LC 132 (Palindrome Factorization), LC 409, LC 680 (Valid Palindrome II), LC 1216 (Valid Palindrome III), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1332 (Remove Palindromic Subsequences)
     * Manacher's Algorithm: LC 5 (Longest Palindrome Substring), LC 214 (Shortest Palindrome), LC 647 (Count Palindromic Substrings)
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021, LC 1541, LC 1614
   * Suffix Array: LC 1163
   * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
-    * Inverted Index of Suffix/Next Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180
+    * Inverted Index of Suffix/Prefix; Next/Previous Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180, LC 1216
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
