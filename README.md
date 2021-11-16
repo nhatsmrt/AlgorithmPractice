@@ -27,7 +27,7 @@ Topics included:
     * Find Split Point in O(min(k, n - k)): BS 718
   * Greedy: LC 45, LC 55, LC 68 (Word Justification), LC 330, LC 376 (Wiggle Subsequence), LC 402, LC 406, LC 455, LC 484, LC 502 (IPO), LC 605, LC 630, LC 659, LC 678, LC 759 (Sol 2), LC 763, LC 910, LC 921, LC 942, LC 945, LC 948, LC 991, LC 1007 (Sol 2), LC 1024 (Sol 2), LC 1029, LC 1055, LC 1057, LC 1090, LC 1167, LC 1217, LC 1282, LC 1288, LC 1338, LC 1383, LC 1465, LC 1509, LC 1564, LC 1576, LC 1578, LC 1605, LC 1647, LC 1675, LC 1710, LC 1775
     * Packing/Assignment: LC 870, LC 881
-    * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326
+    * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326, LC 1353
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
     * Huffman Coding: LC 1199
     * Digits/Lexicographical Order: LC 670, LC 1202, LC 1323, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
@@ -117,7 +117,7 @@ Topics included:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
 8. Heap: LC 630, LC 755, LC 1167, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057, LC 1424
-    * Indexed Priority Queue: LC 1425, LC 1786, LC 1801
+    * Indexed Priority Queue: LC 1353, LC 1425, LC 1786, LC 1801
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
   * Two Heaps: LC 295 (Find Median from Data Stream), LC 480 (Sliding Window Median), LC 502 (IPO)
@@ -267,7 +267,7 @@ Topics included:
   * Area (Shoelace Formula): LC 963, LC 1037 (Valid Triangle)
   * Convex Hull (Graham Scan): LC 587,
     * Monotone Chain: LC 644 (Sol 2)
-  * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval)
+  * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval), LC 1353
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 408, LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
