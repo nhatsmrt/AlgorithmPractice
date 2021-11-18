@@ -61,7 +61,11 @@ class IxPQ:
             self.data.pop()
             self.i2k.pop()
 
-            self.sift_down(ind)
+
+            if ind < len(self.data) and ind > 0 and self.data[(ind - 1) // 2] > self.data[ind]:
+                self.sift_up(ind)
+            else:
+                self.sift_down(ind)
 
             return key, ret_priority
 
