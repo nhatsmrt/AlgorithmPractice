@@ -14,7 +14,7 @@ Topics included:
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462, LC 973 (Sol 2)
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196, LC 1901
     * Binary Search The Answer (BSTA): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 786 (Sol 2), LC 1011, LC 1231, LC 1283, LC 1337, LC 1631, LC 1891
     * Exponential Search (Search over unbounded list): LC 702 (Search in a Sorted Array of Unknown Size)
     * Parallel Binary Search: LC 1697
