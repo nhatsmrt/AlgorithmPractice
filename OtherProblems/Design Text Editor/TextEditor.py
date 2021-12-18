@@ -30,13 +30,13 @@ class TextEditor:
 
     def insert_character(self, char: str):
         # Time Complexity: O(1)
-        self.past_versions.append(self.left, self.right)
+        self.past_versions.append((self.left, self.right))
         self.left = DataNode(char, self.left)
 
     def backspace(self):
         # Time Complexity: O(1)
         if self.left:
-            self.past_versions.append(self.left, self.right)
+            self.past_versions.append((self.left, self.right))
             self.left = self.left.next
 
     def undo(self):
