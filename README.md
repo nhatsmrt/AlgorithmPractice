@@ -235,7 +235,7 @@ Topics included:
   * Parsing: LC 394
    * CFG (Predictive Parsing): LC 1096
   * Gap Buffer (Character Zipper): Design Text Editor
-17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 477 (Total Hamming Distance), LC 868, LC 1290
+17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 477 (Total Hamming Distance), LC 868, LC 1290, LC 1611
   * AND:
     * Checking active bits: LC 393, LC 1342
     * Check/Turn off rightmost set bit (Brian Kernighan's): LC 201, LC 260
@@ -275,7 +275,7 @@ Topics included:
 20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 408, LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
   * Condensing Repetition (RLE): LC 546, LC 1287, LC 1541
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
-  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1646, LC 1675, LC 1801, LC 1861
+  * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1611, LC 1646, LC 1675, LC 1801, LC 1861
 22. Compression Algorithm:
   * RLE: LC 443, LC 604 (Iterator),LC 809, LC 900 (Iterator), LC 925, LC 1313 (Decompress), LC 1541, LC 1868 (Dot Product)
   * Huffman: Decoding (HR)
