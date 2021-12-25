@@ -1,8 +1,3 @@
-class Node:
-    def __init__(self, val=None, next=None, prev=None):
-        self.val, self.next, self.prev = val, next, prev
-
-
 class ComplementSet:
     def __init__(self, max_val: int):
         self.max_val = max_val
@@ -53,7 +48,6 @@ class Solution:
             self.second_pass(i, self.path_to_one, children, nums, comp_set, ret)
 
         return ret
-
 
     def first_pass(self, node, children, nums, path):
         # Goal: Determine path to node with value 1
