@@ -249,7 +249,7 @@ Topics included:
 18. Math: LC 670, LC 1016, LC 1041, LC 1217, LC 1317, LC 1551, LC 1785
   * Basic Arithmetic: LC 2, LC 8 (String to Integer (atoi)), LC 12 (Integer to Roman), LC 13 (Roman to Integer), LC 29 (Divide Two Integers), LC 43 (Multiply Strings), LC 50 (Pow(x, n)), LC 66, LC 67 (Add Binary), LC 171, LC 273 (Integer to English Words), LC 279 (Perfect Squares), LC 311 (Sparse Matrix Multiplication), LC 326, LC 372 (Modulo Exponentiation), LC 415 (Add Strings), LC 445, LC 728, LC 1281, LC 1570 (Dot Product of Two Sparse Vectors)
   * Algebra: LC 458, LC 1276 (Number of Burgers with No Waste of Ingredients)
-    * Quadratic Equation: LC 754 (Solution 2), LC 1103
+    * Quadratic Function: LC 360, LC 754 (Solution 2), LC 1103
     * Arithmetic Progression: LC 1103, LC 1228
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 509 (Fibonacci Number), LC 1137 (N-th Tribonacci Number)
@@ -274,7 +274,7 @@ Topics included:
   * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval), LC 1353
     * Union of Intervals (Klee's Algorithm): LC 495
   * Grid: LC 296 (Geometric Median on Grid), LC 573
-20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 408, LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
+20. Two Pointers: LC 3, LC 11, LC 16, LC 26, LC 38, LC 42, LC 56, LC 76, LC 80, LC 142, LC 159, LC 209, LC 228, LC 239, LC 243, LC 245, LC 259, LC 283, LC 334, LC 340 (Longest Substring with At Most K Distinct Characters), LC 360, LC 408, LC 413, LC 424, LC 457, LC 484, LC 696, LC 708, LC 713, LC 727, LC 739, LC 763, LC 809, LC 830, LC 845, LC 849, LC 904, LC 905, LC 948, LC 978, LC 1004, LC 1578, LC 1446, LC 1658, LC 1712
   * Condensing Repetition (RLE): LC 546, LC 1287, LC 1541
 21. Ad Hoc: LC 54, LC 667, LC 927, LC 1304, LC 1428
   * Simulation: LC 6, LC 202, LC 253, LC 348 (Design Tic-Tac-Toe), LC 510, LC 573, LC 657, LC 755, LC 799, LC 874, LC 1041, LC 1243, LC 1275, LC 1611, LC 1646, LC 1675, LC 1801, LC 1861
