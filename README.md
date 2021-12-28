@@ -251,6 +251,7 @@ Topics included:
   * Algebra: LC 458, LC 1276 (Number of Burgers with No Waste of Ingredients)
     * Quadratic Function: LC 360, LC 754 (Solution 2), LC 1103
     * Arithmetic Progression: LC 1103, LC 1228
+    * Linear Algebra: LC 867 (Transpose Matrix)
   * BigInteger: LC 78, LC 91, LC 179
   * Fast Matrix Exponentiation: LC 70, LC 509 (Fibonacci Number), LC 1137 (N-th Tribonacci Number)
   * Combinatorics: LC 47 (Permutation II), LC 77 (Combinations), LC 78 (Subsets), LC 118-119 (Pascal's Triangle), LC 456 (132 Pattern), LC 1286 (Iterator for Combination), LC 1359
