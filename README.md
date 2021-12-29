@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1859
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1838, LC 1859
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977, LC 1213
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference), LC 1202
@@ -14,7 +14,7 @@ Topics included:
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462, LC 973 (Sol 2)
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 911, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196, LC 1901
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 911, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196, LC 1838, LC 1901
     * Binary Search The Answer (BSTA): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 786 (Sol 2), LC 1011, LC 1231, LC 1283, LC 1337, LC 1631, LC 1891
     * Exponential Search (Search over unbounded list): LC 702 (Search in a Sorted Array of Unknown Size)
     * Parallel Binary Search: LC 1697
@@ -40,7 +40,7 @@ Topics included:
     * Main Diagonal (indexed by difference of coords): LC 1329 (Sort the Matrix Diagonally)
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse)
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
-  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 548, LC 554, LC 560, LC 644, LC 724, LC 775, LC 848, LC 900, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1248, LC 1310, LC 1352, LC 1375, LC 1480, LC 1573, LC 1653, LC 1712, LC 1762
+  * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 548, LC 554, LC 560, LC 644, LC 724, LC 775, LC 848, LC 900, LC 915, LC 918, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1248, LC 1310, LC 1352, LC 1375, LC 1480, LC 1573, LC 1653, LC 1712, LC 1762, LC 1838
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -136,7 +136,7 @@ Topics included:
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
-    * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207
+    * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207, LC 1838
     * Existence: LC 379, LC 755, LC 1684
     * Intersection: LC 548
   * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500
