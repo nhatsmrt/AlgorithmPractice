@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1838, LC 1859
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1834, LC 1838, LC 1859
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977, LC 1213
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference), LC 1202
@@ -29,6 +29,7 @@ Topics included:
     * Packing/Assignment: LC 870, LC 881
     * Activity Selection Problem: LC 435 (Non-overlapping Intervals - Interval Scheduling), LC 452 (Minimum Number of Arrows to Burst Balloons), LC 1326, LC 1353
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
+      * Shortest Job First Scheduling (SJF): LC 1834
     * Huffman Coding: LC 1199
     * Digits/Lexicographical Order: LC 670, LC 1202, LC 1323, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
     * Rearrangement Inequality: LC 1589
@@ -117,7 +118,7 @@ Topics included:
   * Max Flow:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
 8. Heap: LC 630, LC 755, LC 1167, Maximum distinct elements after removing K elements (GFG)
-  * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057, LC 1424
+  * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057, LC 1424, LC 1834
     * Indexed Priority Queue: LC 1353, LC 1425, LC 1786, LC 1801
   * HeapSort: LC 215
    * Partial Heapsort (for top K): LC 692, LC 703 (Kth Largest Element in a Stream), LC 1086, LC 1337
