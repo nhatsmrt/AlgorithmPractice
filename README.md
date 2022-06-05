@@ -295,6 +295,7 @@ Topics included:
   * Nim: LC 1908 (Game of Nim), Introduction to Nim Game (HR)
 26. Parallelism and Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195, LC 1242 (Web Crawler Multithreaded)
+    * Guarded Suspension: LC 1279
   * Reentrant Locks: LC 1188 (Design Bounded Blocking Queue)
   * Condition Variables: LC 1114, LC 1115, LC 1116, LC 1188 (Design Bounded Blocking Queue), LC 1195
   * Deadlock Resolution:
