@@ -100,7 +100,7 @@ Topics included:
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1293, LC 1345, LC 1602, LC 1660, LC 1730
+  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1293, LC 1345, LC 1602, LC 1660, LC 1730, LC 2096
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
     * Kahn's Algorithm: LC 269, LC 444
@@ -176,6 +176,7 @@ Topics included:
       * Persistent Array: LC 1146
     * Path Copying:
       * Persistent Trie: LC 1938
+      * Persistent/Immutable Stack: LC 2096
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
   * MEX Query:
     * Complement Set: LC 2003
