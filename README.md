@@ -103,7 +103,7 @@ Topics included:
   * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1293, LC 1345, LC 1602, LC 1660, LC 1730, LC 2096
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
-    * Kahn's Algorithm: LC 269, LC 444
+    * Kahn's Algorithm: LC 269, LC 444, LC 2115
     * Incremental Computation: LC 631 (Excel Sum Formula)
   * Minimum Spanning Tree (MST):
     * Prim: HR
