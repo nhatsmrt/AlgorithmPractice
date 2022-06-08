@@ -98,7 +98,7 @@ Topics included:
   * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973
     * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
-      * 2-SAT: LC 2128 
+      * 2-SAT: LC 2128
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
   * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1293, LC 1345, LC 1602, LC 1660, LC 1730, LC 2096
@@ -136,12 +136,12 @@ Topics included:
       * Next/Prev Pointer: LC 1182
     * Group By: LC 249, LC 963
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
-    * Bidirectional Map (BiMap): LC 205, LC 936, LC 734
+    * Bidirectional Map (BiMap): LC 205, LC 936, LC 734, LC 2034
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207, LC 1838
     * Existence: LC 379, LC 755, LC 1684
     * Intersection: LC 548
-  * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500
+  * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 2034
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 911, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2085
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 825 (Solution 2), LC 1297
