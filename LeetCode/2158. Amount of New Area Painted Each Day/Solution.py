@@ -77,7 +77,7 @@ class SegTree:
 
 class Solution:
     def amountPainted(self, paint: List[List[int]]) -> List[int]:
-        # Time Complexity: O(Q log(MAXVAL - MINVAL))
+        # Time and Space Complexity: O(Q log(MAXVAL - MINVAL))
 
         low = min(p[0] for p in paint)
         high = max(p[1] for p in paint) - 1
