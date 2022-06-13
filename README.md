@@ -129,6 +129,7 @@ Topics included:
 9. Trie/Prefix Tree: LC 208, LC 211, LC 212, LC 336, LC 472, LC 642, LC 676, LC 720, LC 820, LC 1032, LC 1461
   * Bit Trie: LC 421 (Maximum XOR of Two Numbers in an Array), LC 1707 (Maximum XOR With an Element From Array), LC 1938
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
+  * Trie on Sorted Set: LC 2135
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
@@ -232,7 +233,7 @@ Topics included:
   * Metric: LC 72 (Levenshtein Distance)
   * Parentheses:  LC 20, LC 394, LC 678, LC 856, LC 921, LC 1021, LC 1541, LC 1614
   * Suffix Array: LC 1163
-  * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165
+  * Inverted Index: LC 525, LC 546, LC 609 (Find Duplicate File in System), LC 791 (Custom Sort String), LC 821, LC 839, LC 1055 (Sol 1), LC 1165, LC 2135
     * Inverted Index of Suffix/Prefix; Next/Previous Letter Pointer: LC 316 (Sol 2), LC 524, LC 546, LC 792, LC 1055 (Sol 2), LC 1081, LC 1180, LC 1216
   * Universal Superstring and de Brujin Graph: LC 753
   * Anagram: LC 1347
