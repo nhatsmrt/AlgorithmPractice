@@ -69,7 +69,7 @@ Topics included:
     * Rate Limiter: LC 362 (Design Hit Counter), LC 1604
   * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 659, LC 862, LC 901, LC 907, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
-    * Stack: LC 134, LC 496 (Next Greater Element), LC 683, LC 1504, LC 1673, LC 1944
+    * Stack: LC 134, LC 496 (Next Greater Element), LC 683, LC 1504, LC 1673, LC 1944, LC 1996 (Solution 2)
     * Deque: LC 503, LC 1105, LC 1425 (Solution 2)
 5. Tree: LC 113, LC 572 (Subtree of Another Tree), LC 582, LC 865, LC 1161, LC 1367 (Linked List in Binary Tree)
   * Binary: LC 100 (equals), LC 112, LC 101 (Symmetric), LC 105 (BT from Preorder and Inorder), LC 106 (BT from Inorder and Postorder), LC 111 (Minimum Depth), LC 114 (Flatten), LC 124, LC 129, LC 156 (Upside Down), LC 199 (Right Side View), LC 222, LC 226 (Invert), LC 298, LC 366 (Find Leaves of Binary Tree), LC 257 (Root-to-Leaf Paths), LC 404 (Sum of Left Leaves), LC 513, LC 515, LC 543 (Diameter), LC 545 (Boundary), LC 563 (Tilt), LC 617 (Merge Two Trees), LC 623, LC 637 (Average of Levels), LC 669 (Trim), LC 742 (Closest Leaf), LC 814, LC 863 (All Nodes Distance K in Binary Tree), LC 872 (Leaf-Similar), LC 889 (BT from Preorder and Postorder), LC 951, LC 958 (Check Completeness), LC 971, LC 988, LC 1022 (Sum of Root To Leaf Binary Numbers), LC 1110, LC 1120 (Maximum Average Subtree), LC 1123, LC 1302, LC 1448, LC 1457, LC 1469, LC 1602 (Nearest Right Node), LC 1660, LC 1973, Optimal BST (GFG)
@@ -143,6 +143,7 @@ Topics included:
     * Existence: LC 379, LC 755, LC 1684
     * Intersection: LC 548
   * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 2034
+    * Coastline/Pareto Frontier: LC 1996
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 916, LC 923 (3Sum with Multiplicity), LC 911, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 825 (Solution 2), LC 1297
