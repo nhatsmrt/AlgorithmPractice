@@ -308,7 +308,7 @@ Topics included:
   * Semaphore: LC 1117
   * Barrier: LC 1117
   * MapReduce Paradigm: LintCode 499 (Word Count), LintCode 504 (Inverted Index), LintCode 537 (N-Gram)
-27. Datetime: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time), LC 949 (Largest Time for Given Digits), LC 1360 (Number of Days Between Two Dates), LC 1604
+27. Datetime: LC 539 (Minimum Time Difference), LC 681 (Next Closest Time), LC 949 (Largest Time for Given Digits), LC 1360 (Number of Days Between Two Dates), LC 1604, LC 2162
 28. Stream: LC 295 (Find Median from Data Stream), LC 346 (Moving Average from Data Stream), LC 352 (Data Stream as Disjoint Intervals), LC 703 (Kth Largest Element in a Stream), LintCode 960 (First Unique Number in Data Stream)
   * Frequency Estimator:
     * Count-min Sketch: LC 229
