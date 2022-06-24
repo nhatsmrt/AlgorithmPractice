@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1834, LC 1838, LC 1859, LC 2007
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1834, LC 1838, LC 1859, LC 2007, LC 2092
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977, LC 1213
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference), LC 1202
@@ -95,7 +95,7 @@ Topics included:
       * 0-1 BFS: LC 1263
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973
+  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973, LC 2092
     * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
       * 2-SAT: LC 2128
