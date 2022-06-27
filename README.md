@@ -119,7 +119,7 @@ Topics included:
   * Stable Marriage Problem (Gale-Shapley Algorithm): DailyCoding
   * Max Flow:
     * Maximum Bipartite Matching (Kuhn's Algorithm): LC 1820
-8. Heap: LC 630, LC 755, LC 1167, Maximum distinct elements after removing K elements (GFG)
+8. Heap: LC 630, LC 755, LC 1167, LC 1606, Maximum distinct elements after removing K elements (GFG)
   * Priority Queue: LC 347, LC 358, LC 621 (Task Scheduler), LC 642, LC 716 (Max Stack), LC 759 (Sol 2), LC 1046, LC 1057, LC 1424, LC 1834
     * Indexed Priority Queue: LC 1353, LC 1425, LC 1786, LC 1801
   * HeapSort: LC 215
@@ -143,7 +143,7 @@ Topics included:
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207, LC 1838
     * Existence: LC 379, LC 755, LC 1684
     * Intersection: LC 548
-  * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 2034
+  * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 1606, LC 2034
     * Coastline/Pareto Frontier: LC 1996
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
