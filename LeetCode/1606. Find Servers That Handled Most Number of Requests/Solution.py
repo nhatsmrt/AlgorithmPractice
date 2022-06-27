@@ -1,8 +1,5 @@
 from sortedcontainers import SortedSet
 
-IS_START = 1
-IS_STOP = 0
-
 class Solution:
     def busiestServers(self, k: int, arrival: List[int], load: List[int]) -> List[int]:
         # Time Complexity: O((n + k) log k)
