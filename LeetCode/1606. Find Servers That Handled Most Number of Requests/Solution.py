@@ -3,7 +3,7 @@ from sortedcontainers import SortedSet
 class Solution:
     def busiestServers(self, k: int, arrival: List[int], load: List[int]) -> List[int]:
         # Time Complexity: O((n + k) log k)
-        # Space Complexity: O(N)
+        # Space Complexity: O(n)
 
         nodes = SortedSet(range(k))
         machine_used = []
