@@ -141,7 +141,7 @@ Topics included:
     * Bidirectional Map (BiMap): LC 205, LC 936, LC 734, LC 2034
   * Set: LC 128, LC 217 (Contains Duplicate), LC 353 (Design Snake Game), LC 356, LC 380 (Randomized Set), LC 771
     * Deduplication: LC 532, LC 575, LC 804, LC 859, LC 1207, LC 1838
-    * Existence: LC 379, LC 755, LC 1684
+    * Existence: LC 379, LC 755, LC 1684, LC 1832
     * Intersection: LC 548
   * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 1606, LC 2034
     * Coastline/Pareto Frontier: LC 1996
