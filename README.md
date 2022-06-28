@@ -134,7 +134,7 @@ Topics included:
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
-    * Inverted Index: LC 219, LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 828, LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1102, LC 1138, LC 1156, LC 1157, LC 1198
+    * Inverted Index: LC 219, LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 828, LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1102, LC 1138, LC 1156, LC 1157, LC 1198, LC 1477
       * Next/Prev Pointer: LC 1182
     * Group By: LC 249, LC 963
     * Sparse Vector/Matrix: LC 311 (Sparse Matrix Multiplication), LC 1570 (Dot Product of Two Sparse Vectors)
@@ -148,6 +148,7 @@ Topics included:
   * Multiset: LC 692, LC 904, LC 1438
   * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 825 (Solution 2), LC 1297
+    * Prefix Inverted Index (Shortest Subarray Ending At Current Index): LC 1477
   * Two Sum: LC 1 (Two Sum), LC 15 (3Sum), LC 653 (2Sum on BST), LC 1711
 11. Hash: LC 128, LC 146, LC 242, LC 380 (Randomized Set), LC 387, LC 535, LC 771, LC 489, LC 957
   * Separate Chaining: LC 705 (Design Hash Set)
