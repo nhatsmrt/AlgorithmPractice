@@ -242,7 +242,7 @@ Topics included:
   * Anagram: LC 1347
     * Magnitude Set: LC 438, LC 567
   * Parsing: LC 394
-   * CFG (Predictive Parsing): LC 1096
+   * CFG and Predictive Parsing: LC 726, LC 1096
   * Gap Buffer (Character Zipper): Design Text Editor
 17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 477 (Total Hamming Distance), LC 868, LC 1290, LC 1611
   * AND:
