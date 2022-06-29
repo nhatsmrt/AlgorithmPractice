@@ -5,7 +5,7 @@ You are free to use this repository as you see fit, but please do not use this t
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
   * Recursion: LC 66
-  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1834, LC 1838, LC 1859, LC 2007, LC 2092
+  * Sorting, Comparator and Comparable: LC 75 (Dutch Flag Problem), LC 88, LC 165, LC 179, LC 280, LC 436, LC 611, LC 825, LC 881, LC 910, LC 923 (3Sum with Multiplicity), LC 937, LC 945, LC 948, LC 969 (Pancake Sorting), LC 973, LC 976, LC 1029, LC 1051, LC 1169, LC 1196, LC 1288, LC 1311, LC 1326, LC 1365, LC 1383, LC 1604, LC 1619, LC 1632, LC 1636 (Sort by Frequency), LC 1834, LC 1838, LC 1859, LC 2007, LC 2092
     * Coordinate Compression: LC 327, LC 673, LC 1649
     * Merge Sorted Array: LC 977, LC 1213
     * Counting Sort: LC 451 (Solution 1), LC 539 (Minimum Time Difference), LC 561, LC 833, LC 1200 (Minimum Absolute Difference), LC 1202
@@ -102,7 +102,7 @@ Topics included:
       * 2-SAT: LC 2128
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 818, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1284, LC 1293, LC 1345, LC 1602, LC 1660, LC 1730, LC 2096
+  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 818, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1284, LC 1293, LC 1311, LC 1345, LC 1602, LC 1660, LC 1730, LC 2096
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
     * Kahn's Algorithm: LC 269, LC 444, LC 2115
@@ -146,7 +146,7 @@ Topics included:
   * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 1606, LC 2034
     * Coastline/Pareto Frontier: LC 1996
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
+  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1311, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 825 (Solution 2), LC 1297
     * Prefix Inverted Index (Shortest Subarray Ending At Current Index): LC 1477
   * Two Sum: LC 1 (Two Sum), LC 15 (3Sum), LC 653 (2Sum on BST), LC 1711
