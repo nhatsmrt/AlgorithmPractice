@@ -102,7 +102,7 @@ Topics included:
       * 2-SAT: LC 2128
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 818, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1284, LC 1293, LC 1311, LC 1345, LC 1602, LC 1660, LC 1730, LC 1926, LC 2096
+  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 815, LC 818, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1284, LC 1293, LC 1311, LC 1345, LC 1602, LC 1660, LC 1730, LC 1926, LC 2096
     * BFS on State-Transition Graph: LC 2059
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
@@ -133,7 +133,7 @@ Topics included:
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
   * Trie on Sorted Set: LC 2135
 10. Set, Map (Dictionary)
-  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
+  * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 815, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
     * Inverted Index: LC 219, LC 243, LC 244, LC 245, LC 325, LC 398, LC 403, LC 496, LC 524, LC 525, LC 599, LC 609 (Find Duplicate File in System), LC 690, LC 697, LC 760, LC 791 (Custom Sort String), LC 828, LC 1027 (Longest Arithmetic Subsequence), LC 1051, LC 1055, LC 1074, LC 1102, LC 1138, LC 1156, LC 1157, LC 1198, LC 1477
       * Next/Prev Pointer: LC 1182
