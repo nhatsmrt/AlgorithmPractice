@@ -82,7 +82,7 @@ Topics included:
   * LCA: LC 235 (BST), LC 236, LC 1650 (LCA with Parent Pointer), LC 1724
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
-  * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 589 (Preorder Traversal), LC 1490 (Clone N-ary Tree), LC 1506
+  * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 559 (Maximum Depth), LC 589 (Preorder Traversal), LC 1490 (Clone N-ary Tree), LC 1506
   * Small To Large Merge/DSU on Tree/Sack: LC 1519
 6. Binary Search Tree: LC 98, LC 99, LC 315, LC 352, LC 538, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510, LC 530, LC 700 (Search), LC 701 (Insert), LC 783, LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
@@ -96,7 +96,7 @@ Topics included:
       * 0-1 BFS: LC 1263
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973, LC 2092
+  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 559, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1973, LC 2092
     * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
       * 2-SAT: LC 2128
