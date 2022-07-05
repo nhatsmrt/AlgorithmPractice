@@ -68,7 +68,7 @@ Topics included:
     * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
     * Rate Limiter: LC 362 (Design Hit Counter), LC 1604
-  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 659, LC 862, LC 901, LC 907, LintCode 960
+  * Deque: LC 84, LC 199, LC 341, LC 456, LC 641 (Circular Deque), LC 644, LC 659, LC 862, LC 901, LC 907, LC 2271, LintCode 960
   * Monotonicity: LC 85, LC 402, LC 456, LC 581, LC 862, LC 901, LC 907, LC 1019
     * Stack: LC 134, LC 496 (Next Greater Element), LC 683, LC 1504, LC 1673, LC 1944, LC 1996 (Solution 2)
     * Deque: LC 503, LC 1105, LC 1425 (Solution 2)
@@ -280,7 +280,7 @@ Topics included:
   * Area (Shoelace Formula): LC 963, LC 1037 (Valid Triangle)
   * Convex Hull (Graham Scan): LC 587,
     * Monotone Chain: LC 644 (Sol 2)
-  * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval), LC 1353
+  * Line Sweep: LC 218 (Skyline Problem), LC 759 (Sol 1), LC 850 (Union of Rectangles), LC 1094, LC 1229, LC 1272 (Remove Interval), LC 1353, LC 2271
     * Union of Intervals (Klee's Algorithm): LC 495
     * Angular Sweep: LC 1610
   * Grid: LC 296 (Geometric Median on Grid), LC 573
