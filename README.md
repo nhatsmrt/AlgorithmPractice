@@ -272,6 +272,7 @@ Topics included:
     * p-adic: LC 172 (Factorial Trailing Zeros; Legendre's Theorem)
     * Primes: O(sqrt(n)) test (HR)
     * Modular multiplicative inverse (Fermat's Theorem): LC 1622 (Sequence with Add-All and Multiply-All Operations)
+    * GCD (Euclidean's Algorithm): LC 914
   * Numeric Method: LC 69 (Sqrt(x) - Newton's Method)
   * Polynomials:
     * FFT: LC 43 (Multiply Strings)
