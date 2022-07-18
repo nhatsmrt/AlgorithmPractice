@@ -1,97 +1,51 @@
-from typing import Tuple
-
-def compute_dist(pos1: Tuple[int, int], pos2: Tuple[int, int]) -> int:
-    return abs(pos1[0] - pos2[0]) + abs(pos1[1] - pos2[1])
-
 class Solution:
     def shortestDistance(self, maze: List[List[int]], start: List[int], destination: List[int]) -> int:
-        start = start[0], start[1]
-        dest = destination[0], destination[1]
+        # Time and Space Complexity: O(MN)
 
-        visited = {start: 0}
-        to_visit = [(0, start)]
+        start = tuple(start)
+        destination = tuple(destination)
 
-        while to_visit:
-            dist, pos = 10000000, (-1, -1)
+        def is_valid(pos):
+            return pos[0] >= 0 and pos[0] < len(maze) and pos[1] >= 0 and pos[1] < len(maze[0]) and maze[pos[0]][pos[1]] == 0
 
-            for cand_dist, cand_pos in to_visit:
-                if cand_dist < dist:
-                    dist = cand_dist
-                    pos = cand_pos
+        def move(pos, direction):
+            return pos[0] + direction[0], pos[1] + direction[1]
 
-            to_visit.remove((dist, pos))
+        to_traverse = deque()
+        visited = set()
 
-            if pos == dest:
+        directions = [
+            (0, 1),
+            (1, 0),
+            (0, -1),
+            (-1, 0)
+        ]
+
+        for direction in directions:
+            state = start, direction
+
+            to_traverse.append((0, state))
+            visited.add(state)
+
+        while to_traverse:
+            dist, (pos, direction) = to_traverse.popleft()
+            new_position = move(pos, direction)
+            new_state = new_position, direction
+
+            if pos == destination and not is_valid(new_position):
                 return dist
 
-            # roll up:
-            x, y = pos[0], pos[1]
-            while x - 1 >= 0 and maze[x - 1][y] == 0:
-                x -= 1
+            if is_valid(new_position):
+                if new_state not in visited:
+                    to_traverse.append((dist + 1, new_state))
+                    visited.add(new_state)
+            else: # stops
+                for new_direction in directions:
+                    new_position = move(pos, new_direction)
+                    new_state = new_position, new_direction
 
-            new_dist = dist + compute_dist(pos, (x, y))
-            if (x, y) not in visited:
-                visited[(x, y)] = new_dist
-                to_visit.append((new_dist, (x, y)))
-            elif visited[(x, y)] > new_dist:
-                visited[(x, y)] = new_dist
-                for i in range(len(to_visit)):
-                    cand_dist, cand_pos = to_visit[i]
-
-                    if cand_pos == (x, y):
-                        to_visit[i] = (new_dist, (x, y))
-                        break
-
-
-            # roll down:
-            x, y = pos[0], pos[1]
-            while x + 1 < len(maze) and maze[x + 1][y] == 0:
-                x += 1
-
-            new_dist = dist + compute_dist(pos, (x, y))
-            if (x, y) not in visited:
-                visited[(x, y)] = new_dist
-                to_visit.append((new_dist, (x, y)))
-            elif visited[(x, y)] > new_dist:
-                visited[(x, y)] = new_dist
-                for i in range(len(to_visit)):
-                    cand_dist, cand_pos = to_visit[i]
-
-                    if cand_pos == (x, y):
-                        to_visit[i] = (new_dist, (x, y))
-
-            # roll left:
-            x, y = pos[0], pos[1]
-            while y - 1 >= 0 and maze[x][y - 1] == 0:
-                y -= 1
-
-            new_dist = dist + compute_dist(pos, (x, y))
-            if (x, y) not in visited:
-                visited[(x, y)] = new_dist
-                to_visit.append((new_dist, (x, y)))
-            elif visited[(x, y)] > new_dist:
-                visited[(x, y)] = new_dist
-                for i in range(len(to_visit)):
-                    cand_dist, cand_pos = to_visit[i]
-
-                    if cand_pos == (x, y):
-                        to_visit[i] = (new_dist, (x, y))
-
-            # roll right:
-            x, y = pos[0], pos[1]
-            while y + 1 < len(maze[0]) and maze[x][y + 1] == 0:
-                y += 1
-
-            new_dist = dist + compute_dist(pos, (x, y))
-            if (x, y) not in visited:
-                visited[(x, y)] = new_dist
-                to_visit.append((new_dist, (x, y)))
-            elif visited[(x, y)] > new_dist:
-                visited[(x, y)] = new_dist
-                for i in range(len(to_visit)):
-                    cand_dist, cand_pos = to_visit[i]
-
-                    if cand_pos == (x, y):
-                        to_visit[i] = (new_dist, (x, y))
+                    if is_valid(new_position) and new_state not in visited:
+                        to_traverse.append((dist + 1, new_state))
+                        visited.add(new_state)
 
         return -1
