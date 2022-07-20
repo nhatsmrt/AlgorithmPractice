@@ -3,10 +3,10 @@ OFFSETS = [(0, 0), (0, 1), (1, 0), (-1, 0), (0, -1)]
 
 class Solution:
     def minFlips(self, mat: List[List[int]]) -> int:
-        # Time Complexity: O(MN (V + E)) = O((MN)^3)
-        # where V = MN, E = O((MN)^2)
+        # Time Complexity: O(MN (V + E)) = O(M^2N^2 2^{MN})
+        # where V = 2^{MN}, E = O(MN 2^{MN})
 
-        # Space Complexity: O(MNV) = O((MN)^2)
+        # Space Complexity: O(MNV) = O(MN 2^{MN})
 
         def mat_to_key(m: List[List[int]]) -> Tuple[Tuple[int]]:
             return tuple(map(tuple, m))
@@ -46,3 +46,4 @@ class Solution:
                         traverse.append((dist + 1, neighbor))
 
         return -1
+        
