@@ -106,7 +106,7 @@ Topics included:
     * BFS on State-Transition Graph: LC 2059
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
-    * Kahn's Algorithm: LC 269, LC 444, LC 2115
+    * Kahn's Algorithm: LC 269, LC 444, LC 851, LC 2115
     * Incremental Computation: LC 631 (Excel Sum Formula)
   * Minimum Spanning Tree (MST):
     * Prim: HR
@@ -197,7 +197,7 @@ Topics included:
     * In-Out DP:  LC 1245 (Binary Tree Diameter), LC 1522 (N-Ary Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
     * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
-  * DP on DAG: LC 1136 (Longest Path in DAG), LC 1786, LC 1857, LC 1928
+  * DP on DAG: LC 851, LC 1136 (Longest Path in DAG), LC 1786, LC 1857, LC 1928
   * Bit Mask/Bit Set: LC 351, LC 473, LC 698, LC 805, LC 943 (Shortest Superstring), LC 1066, LC 1125
     * Profile: LC 1411
     * Broken Profile: LC 1349
