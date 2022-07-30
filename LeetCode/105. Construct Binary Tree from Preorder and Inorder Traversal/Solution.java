@@ -4,46 +4,47 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
-        Queue<Integer> preorderQ = new LinkedList<Integer>();
-        Queue<Integer> inorderQ = new LinkedList<Integer>();
+    private Map<Integer, Integer> inorderIndex;
 
-        for (int i = 0; i < preorder.length; i++) {
-            preorderQ.add(preorder[i]);
-            inorderQ.add(inorder[i]);
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        // Time and Space Complexity: O(N)
+
+        inorderIndex = new HashMap<>();
+        for (int i = 0; i < inorder.length; i++) {
+            inorderIndex.put(inorder[i], i);
         }
 
-        return buildTree(preorderQ, inorderQ);
+        return build(preorder, inorder, 0, preorder.length - 1, 0, inorder.length - 1);
     }
 
-    private TreeNode buildTree(Queue<Integer> preorder, Queue<Integer> inorder) {
-        if (preorder.size() == 0)
+    private TreeNode build(int[] preorder, int[] inorder, int preStart, int preEnd, int inStart, int inEnd) {
+        if (preStart > preEnd) {
             return null;
-
-        TreeNode ret = new TreeNode(preorder.remove());
-        if (!preorder.isEmpty()) {
-            int numLeftNodes = 0;
-
-            Queue<Integer> inorderLeft = new LinkedList<Integer>();
-            while (inorder.peek() != ret.val) {
-                inorderLeft.add(inorder.remove());
-                numLeftNodes += 1;
-            }
-            inorder.remove();
-
-            Queue<Integer> preorderLeft = new LinkedList<Integer>();
-            for (int j = 0; j < numLeftNodes; j++)
-                preorderLeft.add(preorder.remove());
-
-            ret.left = buildTree(preorderLeft, inorderLeft);
-            ret.right = buildTree(preorder, inorder);
         }
 
-        return ret;
+        int rootVal = preorder[preStart];
+        int inorderRootInd = inorderIndex.get(rootVal);
 
+        int leftSize = inorderRootInd - inStart;
+        int rightSize = inEnd - inorderRootInd;
+
+        int preLeftEnd = preStart + leftSize;
+        int preRightStart = preLeftEnd + 1;
+
+        return new TreeNode(
+            rootVal,
+            build(preorder, inorder, preStart + 1, preLeftEnd, inStart, inorderRootInd - 1),
+            build(preorder, inorder, preRightStart, preEnd, inorderRootInd + 1, inEnd)
+        );
     }
 }
