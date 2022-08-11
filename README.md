@@ -182,7 +182,7 @@ Topics included:
       * Persistent Array: LC 1146
     * Path Copying:
       * Persistent Trie: LC 1938
-      * Persistent/Immutable Stack: LC 2096
+      * Persistent/Immutable Stack: LC 78, LC 2096
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
   * MEX Query:
     * Complement Set: LC 2003
