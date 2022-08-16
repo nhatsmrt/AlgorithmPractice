@@ -194,7 +194,7 @@ Topics included:
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 764, LC 931, LC 1463
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 546, LC 552, LC 689, LC 801, LC 935, LC 1007, LC 1049, Abbreviation (HR)
   * DP on Tree: LC 120, LC 333 (Largest BST Subtree), LC 337, LC 549, LC 968, LC 979, LC 1026, LC 1048, LC 1273, LC 1339, LC 1372, LC 1373, LC 1376
-    * In-Out DP:  LC 1245 (Binary Tree Diameter), LC 1522 (N-Ary Tree Diameter)
+    * In-Out DP: LC 687, LC 1245 (Binary Tree Diameter), LC 1522 (N-Ary Tree Diameter)
     * Tree-Rerooting DP: LC 663 (Equal Tree Partition), LC 834 (Sum of Distances in Tree)
     * Binary Lifting: LC 1483 (Kth Ancestor), LC 1724
   * DP on DAG: LC 851, LC 1136 (Longest Path in DAG), LC 1786, LC 1857, LC 1928
