@@ -14,7 +14,7 @@ Topics included:
     * Radix Sort: LC 1163
     * Selection: LC 296 (Geometric Median on Grid)
       * QuickSelect: LC 462, LC 973 (Sol 2)
-  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 744, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 911, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196, LC 1838, LC 1901
+  * Binary Search: LC 4 (Median of 2 Sorted Arrays), LC 33 (Search in Rotated Sorted Array), LC 34, LC 35 (Search Insert Position), LC 57, LC 74, LC 81, LC 153 (Min of Rotated Sorted Array), LC 154, LC 162, LC 167, LC 240 (2D Binary Search), LC 302, LC 278, LC 313, LC 327, LC 374, LC 410 (sol 1, sol 2), LC 436, LC 441, LC 493, LC 497, LC 528, LC 540 (Single Element in a Sorted Array), LC 658, LC 644, LC 704, LC 744, LC 825, LC 875, LC 887 (Egg Drop), LC 900, LC 911, LC 1055, LC 1064 (Fixed Point in Sorted Array), LC 1150, LC 1196, LC 1315, LC 1838, LC 1901
     * Binary Search The Answer (BSTA): LC 222 (Sol 2), LC 275, LC 367, LC 483, LC 718 (Solution 2), LC 754, LC 774, LC 786 (Sol 2), LC 1011, LC 1231, LC 1283, LC 1337, LC 1631, LC 1891
     * Exponential Search (Search over unbounded list): LC 702 (Search in a Sorted Array of Unknown Size)
     * Parallel Binary Search: LC 1697
@@ -96,7 +96,7 @@ Topics included:
       * 0-1 BFS: LC 1263
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 559, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 965, LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1740, LC 1973, LC 2092
+  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 559, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 965, LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1315, LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1740, LC 1973, LC 2092
     * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
       * 2-SAT: LC 2128
