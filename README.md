@@ -87,7 +87,7 @@ Topics included:
 6. Binary Search Tree: LC 98, LC 99, LC 315, LC 352, LC 538, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510, LC 530, LC 700 (Search), LC 701 (Insert), LC 783, LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
-  * Node's range management: LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
+  * Node's range management: LC 255 (Verify Preorder Sequence), LC 333 (Largest BST Subtree), LC 1008 (Construct BST from Preorder Traversal)
 7. Graphs: LC 24, LC 997, LC 1557, LC 1743
   * Basic Operation: LC 133 (Clone, Undirected)
   * Shortest Path:
