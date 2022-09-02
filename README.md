@@ -244,7 +244,7 @@ Topics included:
     * Magnitude Set: LC 438, LC 567
   * Parsing: LC 394
    * CFG and Predictive Parsing: LC 726, LC 1096
-  * Gap Buffer (Character Zipper): Design Text Editor
+  * Gap Buffer (Character Zipper): LC 2296 (Design Text Editor)
 17. Bit Manipulation: LC 89 (Gray Code), LC 137, LC 190 (Reverse Bits), LC 191, LC 231 (Power of Two), LC 342, LC 461 (Hamming Distance), LC 477 (Total Hamming Distance), LC 868, LC 1290, LC 1611
   * AND:
     * Checking active bits: LC 393, LC 1342
@@ -319,5 +319,5 @@ Topics included:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median), LC 1425
     * Sliding Window Top K: LC 1383
-29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 911, LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System), LC 1797 (Authentication Manager), Text Editor
+29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 911, LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System), LC 1797 (Authentication Manager), LC 2296 (Text Editor)
 30. Functional Programming Style: LC 848, LC 1859
