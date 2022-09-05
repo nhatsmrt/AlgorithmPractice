@@ -106,7 +106,7 @@ Topics included:
     * BFS on State-Transition Graph: LC 2059
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
-    * Kahn's Algorithm: LC 269, LC 444, LC 851, LC 2115
+    * Kahn's Algorithm: LC 269, LC 444, LC 802 (Solution 2), LC 851, LC 2115
     * Incremental Computation: LC 631 (Excel Sum Formula)
   * Minimum Spanning Tree (MST):
     * Prim: HR
