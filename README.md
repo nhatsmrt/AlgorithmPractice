@@ -189,7 +189,7 @@ Topics included:
     * Complement Set: LC 2003
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1692, LC 1866
   * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1937
-  * Subarray State Space: LC 87, LC 1246
+  * Subarray State Space: LC 87, LC 877, LC 1246
   * Bottom-Up: LC 120, LC 764, LC 1269
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 764, LC 931, LC 1463
@@ -216,7 +216,7 @@ Topics included:
   * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 474, LC 494, LC 1155, LC 1223
     * Unbounded Knapsack/Coin Change: LC 377, LC 518
     * Vector Subset Sum: LC 691
-  * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 1510
+  * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 877, LC 1510
   * Distance Transform:
     * L1 Distance, 2D: LC 542, LC 1162
   * Knuth-Yao Optimization: LC 1547
@@ -302,7 +302,7 @@ Topics included:
 24. Approximation Algorithm:
   * Approximate Set Membership (Bloom Filter): LC 287 (Sol 2)
 25. Game: LC 1025
-  * Minimax: LC 292, LC 375, LC 464, LC 843, LC 1510
+  * Minimax: LC 292, LC 375, LC 464, LC 843, LC 877, LC 1510
   * Nim: LC 1908 (Game of Nim), Introduction to Nim Game (HR)
 26. Parallelism and Concurrency:
   * Locks: LC 1114, LC 1115, LC 1116, LC 1195, LC 1242 (Web Crawler Multithreaded)
