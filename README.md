@@ -208,7 +208,7 @@ Topics included:
   * Jumping: LC 32
   * Combine with BS: LC 410 (Sol 1), LC 887 (Egg Drop)
   * Change of State Variable: LC 1218
-  * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1035, LC 1092 (Shortest Common Supersequence), LC 1143 (LCS), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1458 (Max Dot Product of Two Subsequences)
+  * Longest Common Subsequence (LCS): LC 72 (Levenshtein), LC 583, LC 1035, LC 1092 (Shortest Common Supersequence), LC 1143 (LCS), LC 1312 (Minimum Insertion Steps to Make a String Palindrome), LC 1458 (Max Dot Product of Two Subsequences), Longest Common Subsequence Again (HackerEarth, LCS with Modifications)
   * Max Contiguous Array: LC 53 (Kadane's Algorithm), LC 121, LC 123 (Best Time to Buy and Sell Stock III), LC 918
   * Longest Increasing Subsequence (LIS)/Distance to Monotonicity/Patience Sort: LC 300, LC 354, LC 1671 (Distance to Bitonicity/Longest Bitonic Subsequence)
   * Probability: LC 688, CSES Dice Probability
