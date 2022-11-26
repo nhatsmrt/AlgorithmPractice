@@ -133,6 +133,7 @@ Topics included:
   * Bit Trie: LC 421 (Maximum XOR of Two Numbers in an Array), LC 1707 (Maximum XOR With an Element From Array), LC 1938
   * Trie on Tree: LC 1430 (Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree)
   * Trie on Sorted Set: LC 2135
+  * Trie Map: LC 677 (with prefix sum)
 10. Set, Map (Dictionary)
   * Map: LC 49, LC 128, LC 146, LC 166 (Fraction to Recurring Decimal), LC 246, LC 380 (Randomized Set), LC 359, LC 387, LC 432, LC 451 (Solution 2), LC 535, LC 811, LC 815, LC 953, LC 966, LC 981, LC 1056, LC 1152, LC 1396, LC 1629, LC 1797, LC 1817
     * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
