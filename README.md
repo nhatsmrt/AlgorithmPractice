@@ -171,7 +171,7 @@ Topics included:
   * Sparse Table: LC 1335 (Sol 1)
   * Sqrt Decomposition:
     * Mo's Algorithm: LC 1310 (Sol 2)
-13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 305, LC 547 (sol 1), LC 684, LC 721, LC 737, LC 839, LC 952, LC 990, LC 1102, LC 1101, LC 1135 (Kruskal), LC 1168, LC 1202, LC 1319, LC 1489, LC 1584, LC 1632, LC 1697, LC 1724
+13. Union-Find/Disjoint Sets: LC 128, LC 261, LC 305, LC 547 (sol 1), LC 684, LC 721, LC 737, LC 839, LC 952, LC 990, LC 1102, LC 1101, LC 1135 (Kruskal), LC 1168, LC 1202, LC 1319, LC 1489, LC 1584, LC 1632, LC 1697, LC 1724, LC 2424
   * Cycle Detection: LC 1559 (2D Grid)
 14. Other Data Structures: LC 284 (Peeking Iterator), LC 432
   * Intervals: LC 56 (Merge), LC 57(Insert Interval), LC 252, LC 352 (Data Stream as Disjoint Intervals), LC 436, LC 729, LC 759, LC 986 (Interval List Intersections), LC 1024, LC 1156, LC 1288, LC 1272 (Remove Interval)
@@ -321,5 +321,5 @@ Topics included:
     * Count-min Sketch: LC 229
   * Sliding Window/Batch Operations: LC 239 (Sliding Window Maximum), LC 480 (Sliding Window Median), LC 1425
     * Sliding Window Top K: LC 1383
-29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 911, LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System), LC 1797 (Authentication Manager), LC 2296 (Text Editor)
+29. Design Question: LC 288 (Unique Word Abbreviation), LC 355 (Twitter), LC 379 (Phone Directory), LC 631 (Excel Sum Formula), LC 635 (Log Storage System), LC 677 (Map Sum Pairs), LC 911, LC 1166 (File System), LC 1244 (Leaderboard), LC 1348 (Tweet Count per Frequency), LC 1357 (Apply Discount Every n Orders), LC 1472 (Browser History), LC 1500 (File Sharing System), LC 1797 (Authentication Manager), LC 2296 (Text Editor), LC 2424 (Longest Uploaded Prefix)
 30. Functional Programming Style: LC 848, LC 1859
