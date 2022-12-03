@@ -44,6 +44,7 @@ Topics included:
     * Anti Diagonal (indexed by sum of coords): LC 498 (Diagonal Traverse), LC 2013
   * Meet in the Middle: LC 18 (4Sum), LC 454 (4Sum II), LC 805
   * Prefix Sum/Cumulative Sum: LC 134, LC 250, LC 303 (Range Sum Query - Immutable), LC 325, LC 396, LC 437 (Path Sum), LC 497, LC 508, LC 523, LC 525, LC 548, LC 554, LC 560, LC 644, LC 724, LC 775, LC 848, LC 900, LC 915, LC 918, LC 930, LC 974, LC 1031, LC 1074, LC 1176, LC 1196, LC 1248, LC 1310, LC 1352, LC 1375, LC 1423, LC 1480, LC 1573, LC 1653, LC 1712, LC 1762, LC 1838
+    * 2D: LC 1444
   * Caching: LC 304 (Range Sum Query 2D - Immutable)
   * Local Optima (Peaks/Troughs): LC 122 (Best Time to Buy and Sell Stock II), LC 135, LC 376 (Wiggle Subsequence)
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
@@ -188,7 +189,7 @@ Topics included:
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
   * MEX Query:
     * Complement Set: LC 2003
-15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1692, LC 1866
+15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866
   * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1406, LC 1937
   * Subarray State Space: LC 87, LC 877, LC 1246
   * Bottom-Up: LC 120, LC 764, LC 1269
