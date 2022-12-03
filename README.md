@@ -149,7 +149,7 @@ Topics included:
   * Sorted Set/Map: LC 635 (Solution 2), LC 855, LC 975, LC 1105, LC 1244 (Solution 2), LC 1348 (Solution 2), LC 1395, LC 1438, LC 1500, LC 1606, LC 2034
     * Coastline/Pareto Frontier: LC 1996
   * Multiset: LC 692, LC 904, LC 1438
-  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1079, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1311, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2085
+  * Frequency Map/Histogram/Counter: LC 47, LC 159, LC 266, LC 299, LC 340 (Longest Substring with At Most K Distinct Characters), LC 350, LC 389, LC 381 (Insert Delete GetRandom O(1) - Duplicates allowed), LC 383, LC 409, LC 423, LC 424, LC 447, LC 532, LC 554, LC 594, LC 697, LC 794, LC 819, LC 869, LC 884, LC 895 (Maximum Frequency Stack), LC 911, LC 916, LC 923 (3Sum with Multiplicity), LC 930, LC 1002, LC 1010, LC 1079, LC 1133, LC 1160, LC 1169, LC 1207, LC 1248, LC 1311, LC 1338, LC 1457, LC 1460, LC 1573, LC 1603, LC 1636 (Sort by Frequency), LC 1649, LC 1657, LC 1679, LC 1700, LC 1704, LC 1711, LC 1748, LC 1775, LC 1861, LC 2007, LC 2080, LC 2085
     * Cumulative Frequency/Prefix Counter: LC 395 (Longest Substring with At Least K Repeating Characters), LC 825 (Solution 2), LC 1297
     * Prefix Inverted Index (Shortest Subarray Ending At Current Index): LC 1477
   * Two Sum: LC 1 (Two Sum), LC 15 (3Sum), LC 653 (2Sum on BST), LC 1711
@@ -160,7 +160,7 @@ Topics included:
   * Cuckoo Hashing: LC 706 (Design Hashmap)
   * Merkle Tree: LC 572 (Subtree of Another Tree, Sol 2), LC 652 (Find Duplicate Subtrees), LC 694, LC 1379
 12. Range Query: LC 131O (Range XOR)
-  * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query)
+  * Segment Tree (Construction and Update; Range Sum Query): LC 152, LC 307, LC 1157 (Range Majority Element Query), LC 2080 (Range Frequency Queries - each node stores a counter)
     * Dynamic/Implicit: LC 699, LC 731 (Python Solution), LC 715, LC 732, LC 1649, LC 2158
     * Wavelet Tree/Weighted Segment Tree (i.e Segment Tree of Count of Values in Range): LC 327, LC 673, LC 1649
     * Lazy Propagation: LC 715, LC 699, LC 2158
