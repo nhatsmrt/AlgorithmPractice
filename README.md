@@ -85,7 +85,7 @@ Topics included:
   * Filepath/File System: LC 388, LC 588 (Design In-Memory File System), LC 609 (Find Duplicate File in System), LC 1166 (Design File System)
   * x = change(x): LC 1325
   * N-ary Tree: LC 428 (Serialize and Deserialize N-ary Tree; Newick Format), LC 431 (Encode N-ary Tree to Binary Tree), LC 559 (Maximum Depth), LC 589 (Preorder Traversal), LC 1490 (Clone N-ary Tree), LC 1506
-  * Small To Large Merge/DSU on Tree/Sack: LC 1519
+  * Small To Large Merge/DSU on Tree/Sack: LC 1519, LC 1530
 6. Binary Search Tree: LC 98, LC 99, LC 315, LC 352, LC 538, LC 653 (2Sum on BST), LC 729, LC 981, LC 1038 (BST to GST)
   * Operations: LC 109 (Sorted List to BST), LC 173 (Iterator), LC 230 (Kth Smallest Element in a BST), LC 270 (Closest Binary Search Tree Value), LC 285 (Inorder Successor), LC 426 (BST to Doubly Circular Linked List) LC 450 (Delete), LC 510, LC 530, LC 700 (Search), LC 701 (Insert), LC 783, LC 938 (Range Sum). isBST (HR), LC 1008 (Construct BST from Preorder Traversal), LC 1382 (Balance BST)
   * Pre Order Traversal (Insertion Order): LC 449 (Serialize and Deserialize BST)
@@ -186,7 +186,7 @@ Topics included:
     * Path Copying:
       * Persistent Trie: LC 1938
       * Persistent/Immutable Stack: LC 78, LC 2096
-  * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1622 (Sequence with Add-All and Multiply-All Operations)
+  * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1530, LC 1622 (Sequence with Add-All and Multiply-All Operations)
   * MEX Query:
     * Complement Set: LC 2003
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866
