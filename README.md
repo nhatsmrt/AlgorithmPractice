@@ -215,7 +215,7 @@ Topics included:
   * Longest Increasing Subsequence (LIS)/Distance to Monotonicity/Patience Sort: LC 300, LC 354, LC 1671 (Distance to Bitonicity/Longest Bitonic Subsequence)
   * Probability: LC 688, CSES Dice Probability
     * Indicator Variable Trick: CSES Inversion Probability
-  * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 474, LC 494, LC 1155, LC 1223
+  * Knapsack: 0 - 1 Knapsack Problem (GFG), LC 474, LC 494, LC 1155, LC 1223, LC 1774
     * Unbounded Knapsack/Coin Change: LC 377, LC 518
     * Vector Subset Sum: LC 691
   * Minimax DP: LC 294, LC 375, LC 464, LC 486, LC 877, LC 1406, LC 1510
