@@ -22,7 +22,7 @@ Topics included:
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist), LC 1539 (Kth Missing Positive Number)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
   * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 90 (Subsets with Duplicates), LC 93, LC 131, LC 212, LC 216, LC 247, LC 257, LC 282, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1079, LC 1088, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle)
-    * Number Construction: LC 1215
+    * Number Construction: LC 1215, LC 1849
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
     * Halving Method: LC 49 (Sol 2), LC 932 (Arithmetic-Free Permutation)
     * Find Split Point in O(min(k, n - k)): BS 718
@@ -191,7 +191,7 @@ Topics included:
     * Complement Set: LC 2003
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866
   * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1406, LC 1416, LC 1937
-  * Subarray State Space: LC 87, LC 877, LC 1246
+  * Subarray State Space: LC 87, LC 877, LC 1246, LC 1849
   * Bottom-Up: LC 120, LC 764, LC 1269, LC 1824
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 764, LC 931, LC 1463
