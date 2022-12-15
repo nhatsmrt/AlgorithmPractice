@@ -192,7 +192,7 @@ Topics included:
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866
   * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1406, LC 1416, LC 1937
   * Subarray State Space: LC 87, LC 877, LC 1246, LC 1849
-  * Bottom-Up: LC 120, LC 764, LC 1269, LC 1824
+  * Bottom-Up: LC 120, LC 241, LC 764, LC 1269, LC 1824
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 764, LC 931, LC 1463
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 546, LC 552, LC 689, LC 801, LC 935, LC 1007, LC 1049, LC 1824, Abbreviation (HR)
@@ -224,7 +224,7 @@ Topics included:
   * Knuth-Yao Optimization: LC 1547
   * Divide and Conquer Optimization: LC 1478 (1D p-Median Problem)
   * Lagrangian Relaxation/WQS Binary Search/Alien Trick: LC 188, LC 1751
-  * Memoizing Immutable Data Structure: LC 95 (Unique BSTs II), LC 894 (Full Binary Trees)
+  * Memoizing Immutable Data Structure: LC 95 (Unique BSTs II), LC 241, LC 894 (Full Binary Trees)
   * Other Notable Problems: LC 10 (Regex Matching), LC 22 (Generate Parentheses), LC 416 (Partition Equal Subset Sum), LC 418 (Sentence Screen Fitting), LC 629 (K Inverse Pairs Array), Matrix Chain Multiplication (GFG), Optimal BST (GFG), LC 887 (Egg Drop), LC 1039 (Minimum Score Triangulation of Polygon), LC 1216 (Longest Palindromic Subsequence), LC 1235 (Weighted Job Scheduling), LC 1751 (Weighted Interval Scheduling, At Most K Intervals), Knuth's Text Justification/Word Wrap (GFG)
 16. String: LC 3, LC 58, LC 115, LC 161, LC 316, LC 340 (Longest Substring with At Most K Distinct Characters), LC 345, LC 387, LC 392, LC 438, LC 482, LC 520, LC 551, LC 709 (To Lower Case), LC 722, LC 804, LC 824, LC 833, LC 844, LC 859, LC 916, LC 929, LC 1071, LC 1078, LC 1108, LC 1181 (Before and After Puzzle), LC 1271, LC 1662
   * Basic Operations: LC 151, LC 157 (Read N Characters Given Read4), LC 186, LC 344 (Reverse), LC 557, LC 1112 (Remove Vowels), LC 1427 (String Shift)
