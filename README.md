@@ -57,6 +57,7 @@ Topics included:
   * Use nums[abs(num) - 1] as flag for num: LC 442, LC 448
   * Search in Matrix with Sorted Rows and Columns - Staircase Traversal (O(M + N)): LC 240 (Solution 2), LC 1237, LC 1351
   * Patterns Repating K Times Consecutively: LC 1566
+  * Find top K: LC 414
 3. Linked List: LC 2, LC 21, LC 23, LC 25, LC 61, LC 82, LC 86, LC 92, LC 138 (Copy List with Random Pointer), LC 142, LC 143, LC 328, LC 369, LC 379, LC 445, LC 817, LC 1265, LC 1290
   * Operations: LC 83 (Deduplicate Sorted List), LC 109 (Sorted List to BST), LC 141 (Floyd Cycle Detection), LC 160 (Intersection), LC 203 (Remove All), LC 206 (Reverse), Reverse (HR, Non-destructive) LC 234 (isPalindrome), LC 237 (Delete), LC 725 (Split Linked List in Parts), LC 1721 (Swapping Nodes)
   * Sort: LC 147 (Insertion), LC 148 (Merge Sort)
@@ -66,7 +67,7 @@ Topics included:
   * Multi-Level: LC 430 (Flatten)
   * Cache: LC 146 (LRU Cache), LC 460 (LFU Cache)
 4. Stack, Queue, Deque: LC 225 (Implement Stack using Queues), LC 232 (Implement Queue using Stacks)
-  * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 394 (Solution 2), LC 402, LC 581, LC 636, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
+  * Stack: LC 71 (Simplify Path), LC 106, LC 150 (Reverse Polish Notation), LC 155 (Min Stack), LC 173, LC 224 + 227 (Infix to Postfix/Dijkstra's Shunting yard algorithm), LC 234, LC 394 (Solution 2), LC 402, LC 581, LC 636, LC 682, LC 716 (Max Stack), LC 722, LC 735, LC 880, LC 889, LC 895 (Maximum Frequency Stacks), LC 917, LC 946, LC 1019, LC 1047, LC 1209, LC 1441
     * Parentheses:  LC 20 (Valid Parentheses), LC 394, LC 536, LC 856 (Score of Parentheses, Sol 1), LC 921, LC 1249 (Minimum Remove to Make Valid Parentheses)
   * Queue: LC 105, LC 106, LC 158, LC 346, LC 353 (Design Snake Game), LC 358, LC 621 (Task Scheduler), LC 622 (Circular Queue), LC 889, LC 917, LC 933, LC 1043, LC 1429
     * Rate Limiter: LC 362 (Design Hit Counter), LC 1604
