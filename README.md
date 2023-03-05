@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Practice
 ## Introduction
-This repository contains my solutions to algorithmic problems (mostly LeetCode, with some problems from other sites sprinkled in). Main language is Java and Python. \
+This repository contains my solutions to algorithmic problems (mostly LeetCode, with some problems from other sites sprinkled in). Main languages are Python, Java, and C++. \
 You are free to use this repository as you see fit, but please do not use this to cheat on your homework; you will only do yourself a disservice. Appreciate the chance to practice! \
 Topics included:
 1. Basic Algorithms: LC 412, LC 463
@@ -191,9 +191,9 @@ Topics included:
   * MEX Query:
     * Complement Set: LC 2003
 15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866, LC 1997, LC 2400, LC 2501
-  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1406, LC 1416, LC 1937
+  * Prefix/Suffix State Space: LC 276, LC 801, LC 838, LC 983, LC 1105, LC 1320, LC 1406, LC 1416, LC 1937, LC 2361
   * Subarray State Space: LC 87, LC 877, LC 1246, LC 1849
-  * Bottom-Up: LC 120, LC 241, LC 764, LC 1269, LC 1824
+  * Bottom-Up: LC 120, LC 241, LC 764, LC 1269, LC 1824, LC 2361
   * Merging Intervals Pattern: LC 1130 (Minimum Cost Tree From Leaf Values)
   * DP with Grid: LC 62, LC 63, LC 64, LC 174, LC 562, LC 741, LC 750, LC 764, LC 931, LC 1463
   * DP with Extra Parameters: LC 188 (Best Time to Buy and Sell Stock IV), LC 256 (Paint House), LC 265 (Paint House II), LC 309 (Best Time to Buy and Sell Stock with Cooldown), LC 518, LC 546, LC 552, LC 689, LC 801, LC 935, LC 1007, LC 1049, LC 1824, Abbreviation (HR)
