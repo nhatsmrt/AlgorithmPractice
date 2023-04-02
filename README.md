@@ -50,7 +50,7 @@ Topics included:
   * Difference Array: LC 121, LC 123 (Best Time to Buy and Sell Stock III)
     * Offline Range Addition Query (Boundary Count): LC 370 (Range Addition), Array Manipulation (HR), LC 731 (Java Sol), LC 1589
     * Difference Square: LC 250 (Count Univalue Subtrees)
-  * Sliding Window: LC 487, LC 643, LC 674, LC 786 (Sol 2), LC 1052, LC 1105, LC 1151, LC 1169, LC 1291 (Sol 2), LC 1438, LC 1493
+  * Sliding Window: LC 487, LC 643, LC 674, LC 786 (Sol 2), LC 1052, LC 1105, LC 1151, LC 1169, LC 1291 (Sol 2), LC 1438, LC 1456, LC 1493
   * Cyclicity: LC 189 (Rotate Array)
   * Majority Element:
     * Boyer-Moore Algorithm: LC 169, LC 1157
