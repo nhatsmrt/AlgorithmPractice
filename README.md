@@ -21,7 +21,7 @@ Topics included:
     <!-- * Fractional Cascading: LC 483 (Sol 2) -->
     * Missing Numbers: LC 1060 (Missing Element in Sorted Array), LC 710 (Random Pick with Blacklist), LC 1539 (Kth Missing Positive Number)
   * Ternary Search (Unimodal Array): LC 852 (Peak Index in a Mountain Array), LC 1095 (Find in Mountain Array)
-  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 90 (Subsets with Duplicates), LC 93, LC 131, LC 212, LC 216, LC 247, LC 257, LC 282, LC 306, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1079, LC 1088, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle)
+  * Backtracking: LC 37 (Sudoku Solver), LC 39, LC 40 (Combination Sum II), LC 46, LC 47, LC 51-52 (N-Queens), LC 139-140 (Word Break), LC 79 (2D String Search), LC 90 (Subsets with Duplicates), LC 93, LC 131, LC 212, LC 216, LC 247, LC 257, LC 282, LC 306, LC 425, LC 465 (Optimal Account Balancing), LC 489, LC 526, LC 679, LC 784, LC 797 (All Paths From Source to Target), LC 980, LC 1079, LC 1088, LC 1219, LC 1239, LC 1291, LC 1307 (Verbal Arithmetic Puzzle), LC 2375
     * Number Construction: LC 1215, LC 1718, LC 1849
   * Divide and Conquer: LC 23, LC 395 (Longest Substring with At Least K Repeating Characters), LintCode 399 (Nuts & Bolts Problem), Merge Sort: Counting Inversions (HR)
     * Halving Method: LC 49 (Sol 2), LC 932 (Arithmetic-Free Permutation)
@@ -33,7 +33,7 @@ Topics included:
       * Longest Remaining Time First Scheduling: LC 358, LC 621 (Task Scheduler), LC 1405
       * Shortest Job First Scheduling (SJF): LC 1834
     * Huffman Coding: LC 1199
-    * Digits/Lexicographical Order: LC 670, LC 1202, LC 1323, LC 1663, Studious Student (Hacker Cup 2011 Qualification Round)
+    * Digits/Lexicographical Order: LC 670, LC 1202, LC 1323, LC 1663, LC 2375, Studious Student (Hacker Cup 2011 Qualification Round)
     * Rearrangement Inequality: LC 1589, LC 2285
   * Count Array/Histogram: LC 274, LC 791 (Custom Sort String), LC 1347, LC 1426, LC 1429, LintCode 960
   * Contribution Analysis: LC 1588
@@ -99,13 +99,13 @@ Topics included:
       * 0-1 BFS: LC 1263
     * Bellman-Ford: LC 787
     * A*: LC 1197
-  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 559, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 965, LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1315, LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1740, LC 1973, LC 2092
+  * DFS: LC 112, LC 116, LC 207(Detect Cycle in Directed Graph), LC 257, LC 298, LC 329, LC 339, LC 332, LC 364, LC 437, LC 490, LC 547 (Solution 2), LC 549, LC 559, LC 582, LC 623, LC 684 (Detect Cycle in Undirected Graph), LC 690, LC 720, LC 802, LC 814, LC 820, LC 841, LC 863 (All Nodes Distance K in Binary Tree), LC 886 (Possible Bipartition), LC 965, LC 971, LC 979, LC 993, LC 1059, LC 1123, LC 1136, LC 1192 (DFS Low Link/Finding Bridges), LC 1302, LC 1306 (Reachability), LC 1315, LC 1361, LC 1376, LC 1448, LC 1457, LC 1466, LC 1469, LC 1631, LC 1740, LC 1973, LC 2092, LC 2101
     * Connected Components: LC 200 (Connected Components), LC 323 (Number of Connected Components in an Undirected Graph), LC 565, LC 924, LC 947
     * Strongly Connected Components (Kosaraju-Sharir Algorithm): LC 1520
       * 2-SAT: LC 2128
     * Flood Fill (DFS on Grid): LC 130, LC 417, LC 200, LC 529 (Minesweeper), LC 694, LC 695, LC 733, LC 827, LC 934, LC 1254, LC 1391
     * Directed Cycle: LC 1153 (String Transforms Into Another String)
-  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 815, LC 818, LC 864, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1161, LC 1236, LC 1284, LC 1293, LC 1311, LC 1345, LC 1602, LC 1660, LC 1730, LC 1926, LC 2096
+  * BFS: LC 102, LC 107, LC 126, LC 127, LC 210, LC 310, LC 314 (Binary Tree Vertical Order Traversal), LC 317 (Shortest Distance from All Buildings), LC 386, LC 433, LC 513, LC 515, LC 637, LC 742 (Closest Leaf), LC 773, LC 752, LC 785, LC 815, LC 818, LC 864, LC 934, LC 958 (Check Completeness), LC 994, LC 1091, LC 1129, LC 1161, LC 1236, LC 1284, LC 1293, LC 1311, LC 1345, LC 1602, LC 1660, LC 1730, LC 1926, LC 2096
     * BFS on State-Transition Graph: LC 2059
     * Simultaneous BFS/Multi-Source BFS: LC 286
   * Topological Sort:
@@ -190,7 +190,7 @@ Topics included:
   * Venice Technique: LC 1381 (Design a Stack With Increment Operation), LC 1530, LC 1622 (Sequence with Add-All and Multiply-All Operations)
   * MEX Query:
     * Complement Set: LC 2003
-15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866, LC 1997, LC 2400, LC 2501
+15. Dynamic Programming: LC 17, LC 77, LC 91, LC 96, LC 97, LC 115, LC 132 (Palindrome Factorization), LC 139-140, LC 221, LC 264, LC 301, LC 313, LC 322, LC 338, LC 343, LC 357, LC 361, LC 368, LC 396, LC 397, LC 403, LC 420, LC 639, LC 714, LC 718, LC 746, LC 790, LC 823, LC 903, LC 920, LC 940, LC 975, LC 1000, LC 1024, LC 1027 (Longest Arithmetic Subsequence), LC 1043, LC 1220, LC 1240, LC 1277, LC 1335 (Sol 1), LC 1359, LC 1425, LC 1444, LC 1692, LC 1866, LC 1997, LC 2400, LC 2501
   * 1D (Prefix/Suffix) State Space: LC 276, LC 740, LC 801, LC 838, LC 926, LC 983, LC 1105, LC 1320, LC 1406, LC 1416, LC 1937, LC 2361
   * Subarray State Space: LC 87, LC 877, LC 1246, LC 1849
   * Bottom-Up: LC 120, LC 241, LC 764, LC 1269, LC 1824, LC 2361
